@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="487px" preserveAspectRatio="none" style="width:1042px;height:487px;background:#FFFFFF;" version="1.1" viewBox="0 0 1042 487" width="1042px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--class Usuario-->
+        <g id="elem_Usuario">
+            <rect codeLine="8" fill="#D3D3D3" height="241.7031" id="Usuario" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="341" x="233.5" y="7"/>
+            <ellipse cx="375.75" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M378.5156,18.875 Q378.6719,18.6563 378.8594,18.5469 Q379.0469,18.4375 379.2656,18.4375 Q379.6406,18.4375 379.875,18.7031 Q380.1094,18.9531 380.1094,19.5625 L380.1094,21.0156 Q380.1094,21.625 379.875,21.8906 Q379.6406,22.1563 379.2656,22.1563 Q378.9219,22.1563 378.7188,21.9531 Q378.5156,21.7656 378.4063,21.25 Q378.3594,20.8906 378.1719,20.7031 Q377.8438,20.3281 377.2344,20.1094 Q376.625,19.8906 376,19.8906 Q375.2344,19.8906 374.5938,20.2188 Q373.9688,20.5469 373.4688,21.2969 Q372.9844,22.0469 372.9844,23.0781 L372.9844,24.1719 Q372.9844,25.4063 373.875,26.2344 Q374.7656,27.0469 376.3594,27.0469 Q377.2969,27.0469 377.9531,26.7969 Q378.3438,26.6406 378.7656,26.2031 Q379.0313,25.9375 379.1719,25.8594 Q379.3281,25.7813 379.5313,25.7813 Q379.8594,25.7813 380.1094,26.0469 Q380.375,26.2969 380.375,26.6406 Q380.375,26.9844 380.0313,27.3906 Q379.5313,27.9688 378.7344,28.2969 Q377.6563,28.75 376.3594,28.75 Q374.8438,28.75 373.6406,28.125 Q372.6563,27.625 371.9688,26.5625 Q371.2813,25.4844 371.2813,24.2031 L371.2813,23.0469 Q371.2813,21.7188 371.8906,20.5781 Q372.5156,19.4219 373.6094,18.8125 Q374.7031,18.1875 375.9375,18.1875 Q376.6719,18.1875 377.3125,18.3594 Q377.9688,18.5156 378.5156,18.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="396.25" y="28.7285">Usuario</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="234.5" x2="573.5" y1="39" y2="39"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="113" x="239.5" y="57.5332">-idUsuario : String</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="162" x="239.5" y="75.1426">-nombreCompleto : String</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="239.5" y="92.752">-correo : String</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="239.5" y="110.3613">-telefono : String</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="146" x="239.5" y="127.9707">-passwordHash : String</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="149" x="239.5" y="145.5801">-estadoActivo : boolean</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="169" x="239.5" y="163.1895">-codigoVerificacion : String</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="239.5" y="180.7988">-fechaRegistro : Date</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="234.5" x2="573.5" y1="187.875" y2="187.875"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="182" x="239.5" y="206.4082">+registrarUsuario() : boolean</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="329" x="239.5" y="224.0176">+validarPassword(passwordPlano : String) : boolean</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="260" x="239.5" y="241.627">+activarCuenta(codigo : String) : boolean</text>
+        </g>
+        <!--class Rol-->
+        <g id="elem_Rol">
+            <rect codeLine="22" fill="#D3D3D3" height="118.4375" id="Rol" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="224" x="7" y="345"/>
+            <ellipse cx="104.25" cy="361" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M107.0156,356.875 Q107.1719,356.6563 107.3594,356.5469 Q107.5469,356.4375 107.7656,356.4375 Q108.1406,356.4375 108.375,356.7031 Q108.6094,356.9531 108.6094,357.5625 L108.6094,359.0156 Q108.6094,359.625 108.375,359.8906 Q108.1406,360.1563 107.7656,360.1563 Q107.4219,360.1563 107.2188,359.9531 Q107.0156,359.7656 106.9063,359.25 Q106.8594,358.8906 106.6719,358.7031 Q106.3438,358.3281 105.7344,358.1094 Q105.125,357.8906 104.5,357.8906 Q103.7344,357.8906 103.0938,358.2188 Q102.4688,358.5469 101.9688,359.2969 Q101.4844,360.0469 101.4844,361.0781 L101.4844,362.1719 Q101.4844,363.4063 102.375,364.2344 Q103.2656,365.0469 104.8594,365.0469 Q105.7969,365.0469 106.4531,364.7969 Q106.8438,364.6406 107.2656,364.2031 Q107.5313,363.9375 107.6719,363.8594 Q107.8281,363.7813 108.0313,363.7813 Q108.3594,363.7813 108.6094,364.0469 Q108.875,364.2969 108.875,364.6406 Q108.875,364.9844 108.5313,365.3906 Q108.0313,365.9688 107.2344,366.2969 Q106.1563,366.75 104.8594,366.75 Q103.3438,366.75 102.1406,366.125 Q101.1563,365.625 100.4688,364.5625 Q99.7813,363.4844 99.7813,362.2031 L99.7813,361.0469 Q99.7813,359.7188 100.3906,358.5781 Q101.0156,357.4219 102.1094,356.8125 Q103.2031,356.1875 104.4375,356.1875 Q105.1719,356.1875 105.8125,356.3594 Q106.4688,356.5156 107.0156,356.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="21" x="124.75" y="366.7285">Rol</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="8" x2="230" y1="377" y2="377"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="13" y="395.5332">-idRol : int</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123" x="13" y="413.1426">-nombreRol : String</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="13" y="430.752">-descripcion : String</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="8" x2="230" y1="437.8281" y2="437.8281"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="212" x="13" y="456.3613">+obtenerPermisos() : List&lt;String&gt;</text>
+        </g>
+        <!--class SesionJWT-->
+        <g id="elem_SesionJWT">
+            <rect codeLine="29" fill="#D3D3D3" height="153.6563" id="SesionJWT" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="276" x="266" y="327"/>
+            <ellipse cx="364.25" cy="343" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M367.0156,338.875 Q367.1719,338.6563 367.3594,338.5469 Q367.5469,338.4375 367.7656,338.4375 Q368.1406,338.4375 368.375,338.7031 Q368.6094,338.9531 368.6094,339.5625 L368.6094,341.0156 Q368.6094,341.625 368.375,341.8906 Q368.1406,342.1563 367.7656,342.1563 Q367.4219,342.1563 367.2188,341.9531 Q367.0156,341.7656 366.9063,341.25 Q366.8594,340.8906 366.6719,340.7031 Q366.3438,340.3281 365.7344,340.1094 Q365.125,339.8906 364.5,339.8906 Q363.7344,339.8906 363.0938,340.2188 Q362.4688,340.5469 361.9688,341.2969 Q361.4844,342.0469 361.4844,343.0781 L361.4844,344.1719 Q361.4844,345.4063 362.375,346.2344 Q363.2656,347.0469 364.8594,347.0469 Q365.7969,347.0469 366.4531,346.7969 Q366.8438,346.6406 367.2656,346.2031 Q367.5313,345.9375 367.6719,345.8594 Q367.8281,345.7813 368.0313,345.7813 Q368.3594,345.7813 368.6094,346.0469 Q368.875,346.2969 368.875,346.6406 Q368.875,346.9844 368.5313,347.3906 Q368.0313,347.9688 367.2344,348.2969 Q366.1563,348.75 364.8594,348.75 Q363.3438,348.75 362.1406,348.125 Q361.1563,347.625 360.4688,346.5625 Q359.7813,345.4844 359.7813,344.2031 L359.7813,343.0469 Q359.7813,341.7188 360.3906,340.5781 Q361.0156,339.4219 362.1094,338.8125 Q363.2031,338.1875 364.4375,338.1875 Q365.1719,338.1875 365.8125,338.3594 Q366.4688,338.5156 367.0156,338.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="384.75" y="348.7285">SesionJWT</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="267" x2="541" y1="359" y2="359"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="272" y="377.5332">-token : String</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="131" x="272" y="395.1426">-fechaEmision : Date</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147" x="272" y="412.752">-fechaExpiracion : Date</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="267" x2="541" y1="419.8281" y2="419.8281"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="264" x="272" y="438.3613">+generarToken(usuario : Usuario) : String</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="177" x="272" y="455.9707">+validarVigencia() : boolean</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="272" y="473.5801">+obtenerPayload() : Map</text>
+        </g>
+        <!--class ServicioNotificacion-->
+        <g id="elem_ServicioNotificacion">
+            <rect codeLine="38" fill="#D3D3D3" height="100.8281" id="ServicioNotificacion" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.5;" width="458" x="577" y="353.5"/>
+            <ellipse cx="740.75" cy="369.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M743.5156,365.375 Q743.6719,365.1563 743.8594,365.0469 Q744.0469,364.9375 744.2656,364.9375 Q744.6406,364.9375 744.875,365.2031 Q745.1094,365.4531 745.1094,366.0625 L745.1094,367.5156 Q745.1094,368.125 744.875,368.3906 Q744.6406,368.6563 744.2656,368.6563 Q743.9219,368.6563 743.7188,368.4531 Q743.5156,368.2656 743.4063,367.75 Q743.3594,367.3906 743.1719,367.2031 Q742.8438,366.8281 742.2344,366.6094 Q741.625,366.3906 741,366.3906 Q740.2344,366.3906 739.5938,366.7188 Q738.9688,367.0469 738.4688,367.7969 Q737.9844,368.5469 737.9844,369.5781 L737.9844,370.6719 Q737.9844,371.9063 738.875,372.7344 Q739.7656,373.5469 741.3594,373.5469 Q742.2969,373.5469 742.9531,373.2969 Q743.3438,373.1406 743.7656,372.7031 Q744.0313,372.4375 744.1719,372.3594 Q744.3281,372.2813 744.5313,372.2813 Q744.8594,372.2813 745.1094,372.5469 Q745.375,372.7969 745.375,373.1406 Q745.375,373.4844 745.0313,373.8906 Q744.5313,374.4688 743.7344,374.7969 Q742.6563,375.25 741.3594,375.25 Q739.8438,375.25 738.6406,374.625 Q737.6563,374.125 736.9688,373.0625 Q736.2813,371.9844 736.2813,370.7031 L736.2813,369.5469 Q736.2813,368.2188 736.8906,367.0781 Q737.5156,365.9219 738.6094,365.3125 Q739.7031,364.6875 740.9375,364.6875 Q741.6719,364.6875 742.3125,364.8594 Q742.9688,365.0156 743.5156,365.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="122" x="761.25" y="375.2285">ServicioNotificacion</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="578" x2="1034" y1="385.5" y2="385.5"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="583" y="404.0332">-botTokenTelegram : String</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="131" x="583" y="421.6426">-chatIdAdmin : String</text>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="578" x2="1034" y1="428.7188" y2="428.7188"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="446" x="583" y="447.252">+enviarNotificacionTelegram(idCorto : String, codigo : String) : boolean</text>
+        </g>
+        <!--reverse link Usuario to Rol-->
+        <g id="link_Usuario_Rol">
+            <path codeLine="46" d="M269.25,258.55 C237.77,288.82 205.78,319.57 179.46,344.87 " fill="none" id="Usuario-backto-Rol" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="278.99,249.18,271.8928,250.4566,270.3415,257.4989,277.4387,256.2223,278.99,249.18" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="246.3955,291.641,254.9529,287.491,250.8793,283.2537,246.3955,291.641" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="35" x="259" y="293.4951">posee</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="264.5605" y="270.1621">1</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="179.402" y="334.1784">1</text>
+        </g>
+        <!--link Usuario to SesionJWT-->
+        <g id="link_Usuario_SesionJWT">
+            <path codeLine="47" d="M404,249.18 C404,275.49 404,302.65 404,326.68 " fill="none" id="Usuario-SesionJWT" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="409,293.1758,411.9389,284.1307,406.0611,284.1307,409,293.1758" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="39" x="418" y="293.4951">genera</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="396.7977" y="270.1621">1</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="20" x="383.0469" y="316.0762">0..*</text>
+        </g>
+        <!--link Usuario to ServicioNotificacion-->
+        <g id="link_Usuario_ServicioNotificacion">
+            <path codeLine="48" d="M574.78,245.4 C628.53,282.04 685.25,320.7 729.05,350.55 " fill="none" id="Usuario-to-ServicioNotificacion" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#000000" points="733.25,353.41,728.0664,345.0356,729.1186,350.5938,723.5604,351.6459,733.25,353.41" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="650.1316,290.9918,644.3127,283.4691,641.0023,288.326,650.1316,290.9918" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60" x="655" y="293.4951">notifica vía</text>
+        </g>
+        <!--SRC=[VLFRRjf047ttLwnuYHCAIbzHXKH8rQPAAmGqVHxRWncnth5crwHfrK_gL_J7ihx6O5HUaETozfmpC_P09WU1JCKQh5qu9nGL3XzYDXlwXUesiASbwdUW_EyEuaCgN9XaoPf5FLAwTvy4NkeiIu9IP-wqBwsY2n5-xWV_146D-TqM8CGDzaHHqaPcQkCfcRH96CuYmILdkKOtoCOiWeEeGuqxDeDuxbz-zaG_WzsVvz0wI7WHEpgMVH6pHZ3TCmcb_8H2EueX9ZRdxJkCzx36bAoJilyU75QfiP8w2j8e3A_FyCVg29eIa5N3Bso9hZJqL0pxeAGBiYpGE0XhbXVBEz_Nh7kUbrypHSQTc5r7J-GbQ6EXVAXyh3XoQ51MA1bPjfMwHo_uGrqrVtjxWzRtV_cnxHWuFk1bApzwiFgnpiasypCdQMVGipajMO1iIyYmw9QfCVtwd7PZ-HFvlfZWmb1QOV2Y6PAgu2laVJbo9C_Z6xktjMYLHUmg9bk_YcbvIkUBkmVta2oIZ0Q6eZaII1-r1Gd9tvxqhk2T-l_CWokrHbrXeFN0Jh2wQRH1UswZzoDrCvbK__NWSxQ8QdvIKHRSJgStezuGPutblTBfT7xPbfbVhVfJ7V_zBLjU0G00]-->
+    </g>
+</svg>

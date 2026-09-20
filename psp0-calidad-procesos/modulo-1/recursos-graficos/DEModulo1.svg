@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1354px" preserveAspectRatio="none" style="width:2679px;height:1354px;background:#FFFFFF;" version="1.1" viewBox="0 0 2679 1354" width="2679px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--cluster Registrando-->
+        <g id="cluster_Registrando">
+            <path d="M19.5,98 L162.5,98 A12.5,12.5 0 0 1 175,110.5 L175,120.6094 L7,120.6094 L7,110.5 A12.5,12.5 0 0 1 19.5,98 " fill="#D3D3D3" style="stroke:#D3D3D3;stroke-width:1.0;"/>
+            <rect fill="none" height="180.72" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:0.5;" width="168" x="7" y="98"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="7" x2="175" y1="120.6094" y2="120.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="77" x="52.5" y="116.5332">Registrando</text>
+        </g>
+        <!--cluster Inactivo-->
+        <g id="cluster_Inactivo">
+            <path d="M95.5,360.72 L2332.5,360.72 A12.5,12.5 0 0 1 2345,373.22 L2345,383.3294 L83,383.3294 L83,373.22 A12.5,12.5 0 0 1 95.5,360.72 " fill="#D3D3D3" style="stroke:#D3D3D3;stroke-width:1.0;"/>
+            <rect fill="none" height="988.22" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:0.5;" width="2262" x="83" y="360.72"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="83" x2="2345" y1="383.3294" y2="383.3294"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="1190" y="379.2532">Inactivo</text>
+        </g>
+        <!--cluster NotificandoTelegram-->
+        <g id="cluster_NotificandoTelegram">
+            <path d="M1960.5,412.72 L2300.5,412.72 A12.5,12.5 0 0 1 2313,425.22 L2313,435.3294 L1948,435.3294 L1948,425.22 A12.5,12.5 0 0 1 1960.5,412.72 " fill="#D3D3D3" style="stroke:#D3D3D3;stroke-width:1.0;"/>
+            <rect fill="none" height="445.36" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:0.5;" width="365" x="1948" y="412.72"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="1948" x2="2313" y1="435.3294" y2="435.3294"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="130" x="2065.5" y="431.2532">NotificandoTelegram</text>
+        </g>
+        <!--cluster EnEsperaAprobacion-->
+        <g id="cluster_EnEsperaAprobacion">
+            <path d="M143.5,668.72 L1903.5,668.72 A12.5,12.5 0 0 1 1916,681.22 L1916,691.3294 L131,691.3294 L131,681.22 A12.5,12.5 0 0 1 143.5,668.72 " fill="#D3D3D3" style="stroke:#D3D3D3;stroke-width:1.0;"/>
+            <rect fill="none" height="640.22" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:0.5;" width="1785" x="131" y="668.72"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="131" x2="1916" y1="691.3294" y2="691.3294"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="134" x="956.5" y="687.2532">EnEsperaAprobacion</text>
+        </g>
+        <!--cluster Activo-->
+        <g id="cluster_Activo">
+            <path d="M183.5,728.72 L1684.5,728.72 A12.5,12.5 0 0 1 1697,741.22 L1697,751.3294 L171,751.3294 L171,741.22 A12.5,12.5 0 0 1 183.5,728.72 " fill="#D3D3D3" style="stroke:#D3D3D3;stroke-width:1.0;"/>
+            <rect fill="none" height="540.22" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:0.5;" width="1526" x="171" y="728.72"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="171" x2="1697" y1="751.3294" y2="751.3294"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="915" y="747.2532">Activo</text>
+        </g>
+        <!--cluster EvaluandoCredenciales-->
+        <g id="cluster_EvaluandoCredenciales">
+            <path d="M223.5,788.72 L1183.5,788.72 A12.5,12.5 0 0 1 1196,801.22 L1196,811.3294 L211,811.3294 L211,801.22 A12.5,12.5 0 0 1 223.5,788.72 " fill="#D3D3D3" style="stroke:#D3D3D3;stroke-width:1.0;"/>
+            <rect fill="none" height="440.22" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:0.5;" width="985" x="211" y="788.72"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="211" x2="1196" y1="811.3294" y2="811.3294"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="150" x="628.5" y="807.2532">EvaluandoCredenciales</text>
+        </g>
+        <!--cluster Autenticado-->
+        <g id="cluster_Autenticado">
+            <path d="M263.5,950.58 L987.5,950.58 A12.5,12.5 0 0 1 1000,963.08 L1000,973.1894 L251,973.1894 L251,963.08 A12.5,12.5 0 0 1 263.5,950.58 " fill="#D3D3D3" style="stroke:#D3D3D3;stroke-width:1.0;"/>
+            <rect fill="none" height="238.36" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:0.5;" width="749" x="251" y="950.58"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="251" x2="1000" y1="973.1894" y2="973.1894"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="588" y="969.1132">Autenticado</text>
+        </g>
+        <g id="Registrando.ValidandoDatos">
+            <rect fill="#D3D3D3" height="50" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:0.5;" width="120" x="31" y="204.72"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="31" x2="151" y1="232.3294" y2="232.3294"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="41" y="224.2532">ValidandoDatos</text>
+        </g>
+        <ellipse cx="2076" cy="458.72" fill="#181818" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/>
+        <g id="Inactivo.NotificandoTelegram.IntentandoHTTP">
+            <rect fill="#D3D3D3" height="50" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:0.5;" width="123" x="2014.5" y="546.72"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="2014.5" x2="2137.5" y1="574.3294" y2="574.3294"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="103" x="2024.5" y="566.2532">IntentandoHTTP</text>
+        </g>
+        <g id="Inactivo.NotificandoTelegram.NotificacionExitosa">
+            <rect fill="#D3D3D3" height="50" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:0.5;" width="137" x="2134.5" y="792.08"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="2134.5" x2="2271.5" y1="819.6894" y2="819.6894"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="2144.5" y="811.6132">NotificacionExitosa</text>
+        </g>
+        <g id="Inactivo.NotificandoTelegram.OmitirNotificacion">
+            <rect fill="#D3D3D3" height="50" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:0.5;" width="129" x="1964.5" y="792.08"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="1964.5" x2="2093.5" y1="819.6894" y2="819.6894"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="1974.5" y="811.6132">OmitirNotificacion</text>
+        </g>
+        <g id="Inactivo.EnEsperaAprobacion.Activo.EvaluandoCredenciales.BloqueadoTemporal">
+            <rect fill="#D3D3D3" height="50" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:0.5;" width="148" x="1024" y="953.94"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="1024" x2="1172" y1="981.5494" y2="981.5494"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="128" x="1034" y="973.4732">BloqueadoTemporal</text>
+        </g>
+        <g id="Inactivo.EnEsperaAprobacion.Activo.EvaluandoCredenciales.Autenticado.ConsultandoDatos">
+            <rect fill="#D3D3D3" height="50" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:0.5;" width="137" x="464.5" y="1114.94"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="464.5" x2="601.5" y1="1142.5494" y2="1142.5494"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="474.5" y="1134.4732">ConsultandoDatos</text>
+        </g>
+        <g id="Inactivo.EnEsperaAprobacion.Activo.EvaluandoCredenciales.Autenticado.SesionExpirada">
+            <rect fill="#D3D3D3" height="50" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:0.5;" width="118" x="637" y="1114.94"/>
+            <line style="stroke:#000000;stroke-width:0.5;" x1="637" x2="755" y1="1142.5494" y2="1142.5494"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="647" y="1134.4732">SesionExpirada</text>
+        </g>
+        <ellipse cx="57" cy="16" fill="#181818" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/>
+        <g id="elem_GMN20">
+            <path d="M2369.5,787.58 L2369.5,846.6347 L2672.5,846.6347 L2672.5,797.58 L2662.5,787.58 L2369.5,787.58 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/>
+            <path d="M2662.5,787.58 L2662.5,797.58 L2672.5,797.58 L2662.5,787.58 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="202" x="2375.5" y="806.0751">El try-catch captura el error de red.</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="282" x="2375.5" y="822.4267">La cuenta permanece guardada en BD [activo=0]</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="224" x="2375.5" y="838.7782">para aprobación manual en el sistema.</text>
+        </g>
+        <!--link *start* to Registrando-->
+        <g id="link_*start*_Registrando">
+            <path d="M57,26.24 C57,39.135 57,63.3475 57,84.6138 C57,87.272 57,89.8843 57,92.4226 C57,93.6918 57,94.9425 57,96.1713 C57,96.7856 57,97.3945 57,97.9975 " fill="none" id="*start*-to-Registrando" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="57,97.9975,61,88.9975,57,92.9975,53,88.9975,57,97.9975" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="152" x="58" y="70.4951">El usuario inicia formulario</text>
+        </g>
+        <!--link Registrando to ValidandoDatos-->
+        <g id="link_Registrando_ValidandoDatos">
+            <path d="M57.02,126.79 C57.69,128.78 71.52,170.29 81.33,199.72 " fill="none" id="Registrando-to-ValidandoDatos" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="82.99,204.69,83.9564,194.8887,81.4174,199.9437,76.3624,197.4048,82.99,204.69" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="108" x="74" y="171.2151">Validar contraseña</text>
+        </g>
+        <!--link ValidandoDatos to Inactivo-->
+        <g id="link_ValidandoDatos_Inactivo">
+            <path d="M91,255.01 C91,269.4225 91,289.0181 91,310.373 C91,321.0504 91,332.1676 91,343.2967 C91,348.8612 91,354.4287 91,359.9456 " fill="none" id="ValidandoDatos-to-Inactivo" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="91,359.9456,95,350.9456,91,354.9456,87,350.9456,91,359.9456" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="155" x="92" y="317.2151">Guardar en BD con BCrypt</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="64" x="137.5" y="333.5667">[activo = 0]</text>
+        </g>
+        <!--link *start*NotificandoTelegram to IntentandoHTTP-->
+        <g id="link_*start*NotificandoTelegram_IntentandoHTTP">
+            <path d="M2076,468.8 C2076,484.47 2076,517.19 2076,541.36 " fill="none" id="*start*NotificandoTelegram-to-IntentandoHTTP" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="2076,546.37,2080,537.37,2076,541.37,2072,537.37,2076,546.37" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="169" x="2077" y="513.2151">Petición GET a Telegram Bot</text>
+        </g>
+        <!--link IntentandoHTTP to NotificacionExitosa-->
+        <g id="link_IntentandoHTTP_NotificacionExitosa">
+            <path d="M2137.12,596.86 C2150.07,604.6 2162.41,614.44 2171,626.72 C2204.76,674.95 2207.17,746.73 2205.42,786.63 " fill="none" id="IntentandoHTTP-to-NotificacionExitosa" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="2205.16,791.81,2209.5919,783.0147,2205.4026,786.8159,2201.6013,782.6265,2205.16,791.81" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="85" x="2182" y="641.2151">Red disponible</text>
+        </g>
+        <!--link IntentandoHTTP to OmitirNotificacion-->
+        <g id="link_IntentandoHTTP_OmitirNotificacion">
+            <path d="M2024.3,596.83 C2012.97,604.69 2002.45,614.59 1996,626.72 C1968.46,678.54 1994.33,748.52 2013.22,787.26 " fill="none" id="IntentandoHTTP-to-OmitirNotificacion" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="2015.49,791.82,2015.0806,781.9797,2013.2711,787.3393,2007.9115,785.5299,2015.49,791.82" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="169" x="1997" y="641.2151">Fallo de red / fuera de tiempo</text>
+        </g>
+        <!--link NotificacionExitosa to EnEsperaAprobacion-->
+        <g id="link_NotificacionExitosa_EnEsperaAprobacion">
+            <path d="M2171.6,842.1 C2142.58,863.16 2097.5,893.08 2054,910.58 C2021.115,923.81 1985.2175,934.6081 1949.7817,943.37 C1940.9228,945.5605 1932.0927,947.6237 1923.3457,949.5658 C1921.159,950.0513 1918.9775,950.5293 1916.802,950.9998 " fill="none" id="NotificacionExitosa-to-EnEsperaAprobacion" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="1916.802,950.9998,1926.4441,953.007,1921.689,949.9429,1924.7531,945.1877,1916.802,950.9998" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="182" x="2119" y="899.0751">Notificación enviada a Telegram</text>
+        </g>
+        <!--link OmitirNotificacion to EnEsperaAprobacion-->
+        <g id="link_OmitirNotificacion_EnEsperaAprobacion">
+            <path d="M1970.44,842.12 C1958.97,847.1 1946.6525,852.6175 1934.3063,858.4388 C1931.2197,859.8941 1928.1313,861.3684 1925.054,862.858 C1923.5153,863.6028 1921.9794,864.3515 1920.4478,865.1035 C1919.682,865.4795 1918.9173,865.8563 1918.1539,866.234 C1917.7721,866.4228 1917.3908,866.6118 1917.0097,866.801 C1916.8192,866.8956 1916.6288,866.9903 1916.4384,867.085 C1916.3432,867.1323 1916.2481,867.1797 1916.153,867.2271 " fill="none" id="OmitirNotificacion-to-EnEsperaAprobacion" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="1916.153,867.2271,1925.9924,866.7957,1920.6287,864.9982,1922.4262,859.6345,1916.153,867.2271" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="150" x="1899" y="891.0751">Registro local completado</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="1920.5" y="907.4267">(Sin aviso externo)</text>
+        </g>
+        <!--link OmitirNotificacion to GMN20-->
+        <g id="link_OmitirNotificacion_GMN20">
+            <path d="M2033.88,791.97 C2043.89,748.3 2071.37,659.71 2134.5,624.72 C2197.09,590.03 2228.36,599.97 2295.5,624.72 C2384.1,657.38 2461.54,742.05 2498.3,787.39 " fill="none" id="OmitirNotificacion-GMN20" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+        </g>
+        <!--link EnEsperaAprobacion to Activo-->
+        <g id="link_EnEsperaAprobacion_Activo">
+            <path d="M1736.95,979.99 C1735.99,980.94 1720.4,996.24 1705,1003.94 C1703.5139,1004.683 1702.023,1005.4225 1700.5275,1006.1587 C1699.7798,1006.5268 1699.0309,1006.894 1698.2809,1007.2604 " fill="none" id="EnEsperaAprobacion-to-Activo" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="1698.2809,1007.2604,1708.1233,1006.9042,1702.7735,1005.0658,1704.6119,999.716,1698.2809,1007.2604" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="247" x="1735.5" y="1048.4351">Administrador presiona "Aprobar" en Panel</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="450" x="1634" y="1064.7867">o el nuevo usuario ingresa Código de Telegram proporcionado al administrador</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="64" x="1827" y="1081.1382">[activo = 1]</text>
+        </g>
+        <!--link EnEsperaAprobacion to EnEsperaAprobacion-->
+        <g id="link_EnEsperaAprobacion_EnEsperaAprobacion">
+            <path d="M1899,978.47 C1910.87,958.94 1934.08,959.1 1934.08,978.94 C1934.08,998.78 1910.87,998.94 1899,979.41 " fill="none" id="EnEsperaAprobacion-to-EnEsperaAprobacion" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="1899,979.41,1900.2562,989.1784,1901.5969,983.6827,1907.0926,985.0234,1899,979.41" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="141" x="1940.08" y="984.4351">Código incorrecto (FA-3)</text>
+        </g>
+        <!--link Activo to EvaluandoCredenciales-->
+        <g id="link_Activo_EvaluandoCredenciales">
+            <path d="M1241.99,1138.85 C1241.705,1136.93 1236.9225,1105.0975 1227.8537,1062.1275 C1223.3194,1040.6425 1217.7134,1016.3731 1211.0623,991.6663 C1207.7368,979.3128 1204.15,966.85 1200.3051,954.5712 C1199.3439,951.5015 1198.3666,948.4433 1197.3732,945.4011 C1197.1248,944.6406 1196.8755,943.8811 1196.6251,943.1226 C1196.5,942.7434 1196.3745,942.3644 1196.2488,941.9858 " fill="none" id="Activo-to-EvaluandoCredenciales" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="1196.2488,941.9858,1195.2875,951.7876,1197.8238,946.7312,1202.8802,949.2676,1196.2488,941.9858" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="170" x="1214" y="984.4351">Usuario intenta Login (CU-02)</text>
+        </g>
+        <!--link EvaluandoCredenciales to Activo-->
+        <g id="link_EvaluandoCredenciales_Activo">
+            <path d="M1196.3285,822.7871 C1196.6991,822.8377 1197.0707,822.8889 1197.4435,822.9406 C1198.9347,823.1475 1200.4435,823.3632 1201.9688,823.5881 C1214.1716,825.3871 1227.4328,827.7734 1241.1813,830.9388 C1296.175,843.6 1358.965,868.725 1393,918.58 C1458.89,1015.1 1248.74,1135.12 1242.16,1138.85 " fill="none" id="EvaluandoCredenciales-to-Activo" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="1242.16,1138.85,1251.9621,1137.8915,1246.5097,1136.3843,1248.0169,1130.9319,1242.16,1138.85" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="203" x="1406" y="984.4351">Credencial incorrecta (&lt; 5 intentos)</text>
+        </g>
+        <!--link EvaluandoCredenciales to Autenticado-->
+        <g id="link_EvaluandoCredenciales_Autenticado">
+            <path d="M1135.93,818.08 C1130.03,818.43 752.19,840.85 687,918.58 C682.885,923.4875 680.5288,929.4994 679.3206,935.793 C678.7166,938.9398 678.3995,942.157 678.2932,945.3418 C678.24,946.9342 678.2396,948.5185 678.2822,950.0819 C678.2849,950.1796 678.2877,950.2772 678.2907,950.3748 " fill="none" id="EvaluandoCredenciales-to-Autenticado" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="678.2907,950.3748,682.0121,941.2561,678.137,945.3771,674.0159,941.502,678.2907,950.3748" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="759" y="891.0751">Credenciales válidas</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="93" x="771.5" y="907.4267">[Generar Token]</text>
+        </g>
+        <!--link EvaluandoCredenciales to BloqueadoTemporal-->
+        <g id="link_EvaluandoCredenciales_BloqueadoTemporal">
+            <path d="M1135.92,818.08 C1132.72,818.13 1029.97,820.17 992,876.58 C983.56,889.12 984.06,897.73 992,910.58 C996.18,917.34 1001.11,914.61 1008,918.58 C1025.19,928.5 1043.58,940.38 1059.23,950.91 " fill="none" id="EvaluandoCredenciales-to-BloqueadoTemporal" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="1063.56,953.83,1058.3432,945.4763,1059.4174,951.0302,1053.8635,952.1044,1063.56,953.83" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="101" x="993" y="899.0751">5 intentos fallidos</text>
+        </g>
+        <!--link BloqueadoTemporal to Activo-->
+        <g id="link_BloqueadoTemporal_Activo">
+            <path d="M1089.65,1004.37 C1083.45,1027.29 1078.61,1061.46 1095,1084.94 C1134.21,1141.12 1238.67,1139.02 1241.92,1138.94 " fill="none" id="BloqueadoTemporal-to-Activo" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="1241.92,1138.94,1232.8243,1135.1627,1236.9215,1139.063,1233.0212,1143.1603,1241.92,1138.94" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="136" x="1096" y="1064.9351">Transcurren 15 minutos</text>
+        </g>
+        <!--link Autenticado to ConsultandoDatos-->
+        <g id="link_Autenticado_ConsultandoDatos">
+            <path d="M682.94,979.94 C677.79,979.75 348.33,968.17 291,1033.94 C276.11,1051.03 276.82,1067.25 291,1084.94 C311.82,1110.91 395.8,1125.21 459.03,1132.46 " fill="none" id="Autenticado-to-ConsultandoDatos" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="464.32,1133.06,455.8215,1128.0825,459.3511,1132.5031,454.9305,1136.0328,464.32,1133.06" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="197" x="292" y="1064.9351">Solicitar recurso con JWT (CU-03)</text>
+        </g>
+        <!--link ConsultandoDatos to Autenticado-->
+        <g id="link_ConsultandoDatos_Autenticado">
+            <path d="M533.1,1114.52 C534.44,1091.29 539.85,1056.61 559,1033.94 C597.18,988.74 680.35,980.2 682.94,979.95 " fill="none" id="ConsultandoDatos-to-Autenticado" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="682.94,979.95,673.5973,976.8332,677.9631,980.4304,674.366,984.7962,682.94,979.95" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="108" x="560" y="1064.9351">Respuesta exitosa</text>
+        </g>
+        <!--link Autenticado to SesionExpirada-->
+        <g id="link_Autenticado_SesionExpirada">
+            <path d="M682.99,979.98 C682.7,981.77 673.4,1039.46 680,1084.94 C681.2,1093.19 683.37,1101.94 685.74,1109.94 " fill="none" id="Autenticado-to-SesionExpirada" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="687.24,1114.81,688.4369,1105.0341,685.7796,1110.028,680.7858,1107.3707,687.24,1114.81" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="186" x="681" y="1064.9351">Token expirado / Inactividad (8h)</text>
+        </g>
+        <!--link Autenticado to SesionExpirada-->
+        <g id="link_Autenticado_SesionExpirada">
+            <path d="M682.99,979.99 C682.78,980.95 679.58,996.55 687,1003.94 C746.03,1062.71 818.02,970.5 872,1033.94 C886.69,1051.2 887.01,1067.96 872,1084.94 C855.24,1103.9 782.82,1090.39 759,1098.94 C749.95,1102.19 740.84,1106.92 732.48,1112 " fill="none" id="Autenticado-to-SesionExpirada-1" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="727.92,1114.84,737.6707,1113.4532,732.1576,1112.1862,733.4246,1106.673,727.92,1114.84" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="79" x="884" y="1064.9351">Cerrar Sesión</text>
+        </g>
+        <!--link SesionExpirada to Activo-->
+        <g id="link_SesionExpirada_Activo">
+            <path d="M755.21,1139.94 C893.25,1139.94 1225.92,1139.94 1241.44,1139.94 " fill="none" id="SesionExpirada-to-Activo" style="stroke:#000000;stroke-width:1.0;"/>
+            <polygon fill="#000000" points="1241.44,1139.94,1232.44,1135.94,1236.44,1139.94,1232.44,1143.94,1241.44,1139.94" style="stroke:#000000;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="93" x="951.82" y="1133.4351">Redirigir a Login</text>
+        </g>
+        <!--SRC=[ZLJRRXDR37tFLrWyfKZXSX3IKGL8IGW5L9rJjG4UQ1ysCqwwrPtjOLz2goC-Xaz0V49_ZEMPIJ9jf-98ZTJnjfUNxMN72-ih4yoAOZA9wRy1qSGK5yiWsPTJSHBeq2xFqq4mL_eceUJGs2SEZh2DGv1lNTFtmU3pmpCQZLxHCIzjJC7uKcYVPevop2PO8UjjOGqj9AooKyjWq33eHYYRxhSYVZJEblhrsYI906qCWGhnS8jy_TCeWrj-6lhEcoBPjJ8v00iDOa-JrnfAascugjAf_zpwlAGdPnjEsq0br9Z-aMGNjj04StQyr1RgAz6cz7S-iK_gy7O-FqBE8qwe-VgNfuFPd0njuoQIwiXR4GgoILDOyRDBYqeCa8wvfDB6IhpzulY-s7zNDjdGHK3e6-ESKCaKWF6O5fc3qSzaULK9eBxZXx- -n0ewyxDO8MPS1Vco0TqvQtNirzQKfbCXy7h8t0lNZbp8IM4SfhEg72TJogaVdbXFPcsZ45yc3bxsTDXUC9AWEYLPzEG20MWlXQjHOL9nJeMfKaRXx8YXtj0sv17y3WqLMLj9uBKodWkcPQqMbDJ8fPN8ImY4IBU7J4jVoqTC1cku0ZsY45wPHmFsfPBSAAgdRbLFZrcxDDx8Tboki3Yw3YL8Lu4ZN0mzQFp30yrw1Cxkr8kczvaHjzkv9I8CJQz_bNPPgs2hGG1K4ZGZe0dyJJTLTosUdjrFj7USctJM5n825qbe-6OyUbPFhcd7UBTUxRyrsjguh9AUOZRiSIySwyP_sDPJQvuEPGbL3ASVHa_-sclastQv5w1Pq_wtkjjPOQ6S-cRTU5vV_z2h4j6F0_OeDD1SBjYV_GboCy3TowuTXeOlw7bRZSIzFs1Dd7pDRFJkO6C3aFOxqRJ0WjjIOhtAsmRV3Qel_Hth3R9pNDrOP93qzFGvGGyP6JfJwpIg7btdMu6cucDsgNkiJyJX1YRq3PNdW3NMs_l-qxmPtpCj_axOtQ4SSwmoWmMkG7sRUhAVrCinkwniqDNTRoQ5WDeWE7xjMST0Inh-VRxtVq2ck1TWhtOik_RYbikD3k9GMvmb6wXLwU0t]-->
+    </g>
+</svg>

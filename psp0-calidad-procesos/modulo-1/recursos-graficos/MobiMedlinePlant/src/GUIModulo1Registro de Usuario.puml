@@ -1,0 +1,13 @@
+@startsalt
+{+
+  <b>MobiMedline</b> | Usuario: Admin | [ Cerrar Sesión ]
+  --
+  <b>Panel de Aprobación de Usuarios Pendientes (activo = 0)</b>
+  --
+  {#
+    <b>ID Corto</b> | <b>Nombre Completo</b> | <b>Correo</b> | <b>Teléfono</b> | <b>Estado</b> | <b>Acción</b>
+    MED-015 | Miguel Ortiz | miguel@mobimedline.com | 5512345678 | Inactivo | [  Aprobar  ]
+    MED-016 | Brenda Ruiz  | brenda@mobimedline.com | 5587654321 | Inactivo | [  Aprobar  ]
+  }
+}
+@endsalt

@@ -1,0 +1,61 @@
+@startuml
+skinparam state {
+  BackgroundColor LightGray
+  BorderColor Black
+  ArrowColor Black
+}
+
+[*] --> Registrando : El usuario inicia formulario
+
+state Registrando {
+  Registrando --> ValidandoDatos : Validar contraseña
+}
+
+ValidandoDatos --> Inactivo : Guardar en BD con BCrypt\n[activo = 0]
+
+state Inactivo {
+  state NotificandoTelegram {
+    [*] --> IntentandoHTTP : Petición GET a Telegram Bot
+    IntentandoHTTP --> NotificacionExitosa : Red disponible
+    IntentandoHTTP --> OmitirNotificacion : Fallo de red / fuera de tiempo
+  }
+  
+  NotificacionExitosa --> EnEsperaAprobacion : Notificación enviada a Telegram
+  OmitirNotificacion --> EnEsperaAprobacion : Registro local completado\n(Sin aviso externo)
+}
+
+note right of OmitirNotificacion
+  El try-catch captura el error de red.
+  La cuenta permanece guardada en BD [activo=0]
+  para aprobación manual en el sistema.
+endnote
+
+state EnEsperaAprobacion {
+  EnEsperaAprobacion --> Activo : Administrador presiona "Aprobar" en Panel\no el nuevo usuario ingresa Código de Telegram proporcionado al administrador\n[activo = 1]
+  EnEsperaAprobacion --> EnEsperaAprobacion : Código incorrecto (FA-3)
+}
+
+state Activo {
+  Activo --> EvaluandoCredenciales : Usuario intenta Login (CU-02)
+  
+  state EvaluandoCredenciales {
+    EvaluandoCredenciales --> Autenticado : Credenciales válidas\n[Generar Token]
+    EvaluandoCredenciales --> Activo : Credencial incorrecta (< 5 intentos)
+    EvaluandoCredenciales --> BloqueadoTemporal : 5 intentos fallidos
+  }
+}
+
+state BloqueadoTemporal {
+  BloqueadoTemporal --> Activo : Transcurren 15 minutos
+}
+
+state Autenticado {
+  Autenticado --> ConsultandoDatos : Solicitar recurso con JWT (CU-03)
+  ConsultandoDatos --> Autenticado : Respuesta exitosa
+  Autenticado --> SesionExpirada : Token expirado / Inactividad (8h)
+  Autenticado --> SesionExpirada : Cerrar Sesión
+}
+
+SesionExpirada --> Activo : Redirigir a Login
+
+@enduml

@@ -1,0 +1,51 @@
+@startuml
+skinparam classAttributeIconSize 0
+skinparam class {
+    BackgroundColor LightGray
+    BorderColor Black
+    ArrowColor Black
+}
+
+class Usuario {
+    - idUsuario : String
+    - nombreCompleto : String
+    - correo : String
+    - telefono : String
+    - passwordHash : String
+    - estadoActivo : boolean
+    - codigoVerificacion : String
+    - fechaRegistro : Date
+    + registrarUsuario() : boolean
+    + validarPassword(passwordPlano : String) : boolean
+    + activarCuenta(codigo : String) : boolean
+}
+
+class Rol {
+    - idRol : int
+    - nombreRol : String
+    - descripcion : String
+    + obtenerPermisos() : List<String>
+}
+
+class SesionJWT {
+    - token : String
+    - fechaEmision : Date
+    - fechaExpiracion : Date
+    + generarToken(usuario : Usuario) : String
+    + validarVigencia() : boolean
+    + obtenerPayload() : Map
+}
+
+class ServicioNotificacion {
+    - botTokenTelegram : String
+    - chatIdAdmin : String
+    + enviarNotificacionTelegram(idCorto : String, codigo : String) : boolean
+}
+
+
+' Relaciones entre clases
+Usuario "1" *-- "1" Rol : posee >
+Usuario "1" -- "0..*" SesionJWT : genera >
+Usuario ..> ServicioNotificacion : notifica vía >
+
+@enduml
