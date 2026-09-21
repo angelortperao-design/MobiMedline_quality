@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane fx:id="apVentana" styleClass="Contenedor-Redondo" stylesheets="@Estilos/Estilos_Interfaz.css" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="interfaz.mobimedline_sistema.VerificacionUsuario">
+   <children>
+      <StackPane prefHeight="500.0" prefWidth="550.0">
+         <children>
+            <!-- Tarjeta Central Modal -->
+            <VBox alignment="TOP_LEFT" spacing="16.0">
+               <children>
+                  
+                  <!-- Encabezado de la Ventana -->
+                  <VBox spacing="4.0">
+                     <children>
+                        <Label styleClass="banner-badge" text="VALIDACIÓN REQUERIDA" />
+                        <Label styleClass="form-title" text="Verificación y Activación de Cuenta" />
+                     </children>
+                  </VBox>
+
+                  <!-- Caja de GroupBox: Datos de la Solicitud -->
+                  <VBox spacing="8.0" style="-fx-border-color: #CBD5E1; -fx-border-radius: 10px; -fx-border-width: 1px; -fx-padding: 14px; -fx-background-color: #F8FAFC; -fx-background-radius: 10px;">
+                     <children>
+                        <Label style="-fx-font-size: 11px; -fx-font-weight: bold; -fx-text-fill: #2563EB; -fx-letter-spacing: 0.5px;" text="DATOS DE LA SOLICITUD" />
+                        
+                        <HBox spacing="8.0">
+                           <children>
+                              <Label styleClass="input-label" text="Usuario:" />
+                              <Label fx:id="lblMostrarNombre" style="-fx-font-size: 13px; -fx-text-fill: #0F172A; -fx-font-weight: bold;" text="Carlos Mendoza Ruiz (ID: 01)" wrapText="true" HBox.hgrow="ALWAYS" />
+                           </children>
+                        </HBox>
+
+                        <HBox spacing="8.0">
+                           <children>
+                              <Label styleClass="input-label" text="Correo:" />
+                              <Label fx:id="lblMostrarCorreo" style="-fx-font-size: 13px; -fx-text-fill: #0F172A;" text="cmendoza@mobimedline.com" wrapText="true" HBox.hgrow="ALWAYS" />
+                           </children>
+                        </HBox>
+
+                        <HBox spacing="8.0">
+                           <children>
+                              <Label styleClass="input-label" text="Notificación Telegram:" />
+                              <Label style="-fx-font-size: 12px; -fx-text-fill: #059669; -fx-font-weight: bold;" text="Enviada al Bot de Administración" wrapText="true" HBox.hgrow="ALWAYS" />
+                           </children>
+                        </HBox>
+                     </children>
+                  </VBox>
+
+                  <!-- Sección de Código Telegram -->
+                  <VBox spacing="6.0">
+                     <children>
+                        <Label styleClass="input-label" text="Ingrese el código de 6 dígitos (Telegram):" />
+                        <HBox alignment="CENTER_LEFT" spacing="10.0">
+                           <children>
+                              <TextField fx:id="txtCodigoTelegram" alignment="CENTER" prefHeight="42.0" promptText="845129" style="-fx-font-size: 18px; -fx-font-weight: bold; -fx-letter-spacing: 4px; -fx-background-color: #FFFFFF; -fx-border-color: #CBD5E1; -fx-border-radius: 8px; -fx-background-radius: 8px;" HBox.hgrow="ALWAYS" />
+                              <Button fx:id="btnReenviarCodigo" mnemonicParsing="false" style="-fx-background-color: #E2E8F0; -fx-text-fill: #1E293B; -fx-font-weight: bold; -fx-background-radius: 8px; -fx-padding: 10px 14px; -fx-cursor: hand;" text="Reenviar Código" />
+                           </children>
+                        </HBox>
+                     </children>
+                     <VBox.margin>
+                        <Insets top="4.0" />
+                     </VBox.margin>
+                  </VBox>
+
+                  <Separator style="-fx-opacity: 0.5;" />
+
+                  <!-- Botones Inferiores y Disclaimer -->
+                  <VBox alignment="CENTER_RIGHT" spacing="10.0">
+                     <children>
+                        <HBox alignment="CENTER_RIGHT" spacing="12.0">
+                           <children>
+                              <Button fx:id="btnGuardar" mnemonicParsing="false" onAction="#AccionConfirmarGuardado" prefWidth="160.0" styleClass="btn-primary" text="Activar Cuenta" />
+                              <Button fx:id="btnCancelar" mnemonicParsing="false" onAction="#AccionCancelarGuardado" prefWidth="120.0" style="-fx-background-color: #E2E8F0; -fx-text-fill: #475569; -fx-font-weight: bold; -fx-background-radius: 8px; -fx-padding: 10px; -fx-cursor: hand;" text="Cancelar" />
+                           </children>
+                        </HBox>
+                        <Label styleClass="disclaimer-text" text="* Al activar habilitará el Login." />
+                     </children>
+                  </VBox>
+
+               </children>
+               <padding>
+                  <Insets bottom="25.0" left="30.0" right="30.0" top="25.0" />
+               </padding>
+            </VBox>
+         </children>
+      </StackPane>
+   </children>
+</AnchorPane>

@@ -4,10 +4,13 @@ package interfaz.mobimedline_sistema;
 
 import java.io.IOException;
 import java.util.List;
+import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
 import javafx.scene.control.Alert;
+import javafx.scene.control.Hyperlink;
+
 
 public class IniciarSesController {
     public static Usuarios usuarioActual; //saber quién inició sesión
@@ -17,46 +20,49 @@ public class IniciarSesController {
 
     @FXML
     private PasswordField passfiCon;
-
-  @FXML
-private void handleLogin() {
-    String user = tfnombreUs.getText().trim();
-    String pass = passfiCon.getText().trim();
     
-    if (user.isEmpty() || pass.isEmpty()) {
-        mostrarAlerta("No llenaste un campo", "Por favor, verifica tus datos.");
-        return; 
-    }
+    @FXML
+    private Hyperlink linkRegistrar;
 
-    List<Usuarios> listaUsuarios = AgendaUsuariosBase.getUsuariosBase();
-    boolean loginExitoso = false;
-    
-    for (Usuarios u : listaUsuarios) {
-        if (u.getUsuario().equals(user) && u.getContraseña().equals(pass)) {
-            loginExitoso = true;
-            usuarioActual = u; //usuario que inició sesión
-            
-            try {
-                if (u.getPermisos()) { // Es true (Gerente)
-                    System.out.println("Iniciando sesión como Gerente: " + u.getNombre());
-                    App.setRoot("MenuGerente"); 
-                } else { // Es false (Empleado)
-                    System.out.println("Iniciando sesión como Empleado: " + u.getNombre());
-                    App.setRoot("MenuVentas");
+    @FXML
+    private void handleLogin() {
+        String user = tfnombreUs.getText().trim();
+        String pass = passfiCon.getText().trim();
+
+        if (user.isEmpty() || pass.isEmpty()) {
+            mostrarAlerta("No llenaste un campo", "Por favor, verifica tus datos.");
+            return; 
+        }
+
+        List<Usuarios> listaUsuarios = AgendaUsuariosBase.getUsuariosBase();
+        boolean loginExitoso = false;
+
+        for (Usuarios u : listaUsuarios) {
+            if (u.getUsuario().equals(user) && u.getContraseña().equals(pass)) {
+                loginExitoso = true;
+                usuarioActual = u; //usuario que inició sesión
+
+                try {
+                    if (u.getPermisos()) { // Es true (Gerente)
+                        System.out.println("Iniciando sesión como Gerente: " + u.getNombre());
+                        App.setRoot("MenuGerente"); 
+                    } else { // Es false (Empleado)
+                        System.out.println("Iniciando sesión como Empleado: " + u.getNombre());
+                        App.setRoot("MenuVentas");
+                    }
+                } catch (IOException e) {
+                    e.printStackTrace();
+                    mostrarAlerta("ERROR DE SISTEMA", "No se pudo cargar la ventana.");
                 }
-            } catch (IOException e) {
-                e.printStackTrace();
-                mostrarAlerta("ERROR DE SISTEMA", "No se pudo cargar la ventana.");
+                break;
             }
-            break;
+        }
+
+        if (!loginExitoso) {
+            mostrarAlerta("Credencial incorrecta", "Usuario o contraseña no válidos.");
+            passfiCon.clear();
         }
     }
-    
-    if (!loginExitoso) {
-        mostrarAlerta("Credencial incorrecta", "Usuario o contraseña no válidos.");
-        passfiCon.clear();
-    }
-}
     
     
     private void mostrarAlerta(String titulo, String mensaje) {
@@ -65,5 +71,15 @@ private void handleLogin() {
         alert.setHeaderText(null);
         alert.setContentText(mensaje);
         alert.showAndWait();
+    }
+    
+    @FXML
+    private void IrRegistro(ActionEvent event) {
+        try {
+            App.setRoot("RegistroView");
+        } catch (IOException e) {
+            System.err.println("Error al cerrar sesión: " + e.getMessage());
+            e.printStackTrace();
+        }
     }
 }

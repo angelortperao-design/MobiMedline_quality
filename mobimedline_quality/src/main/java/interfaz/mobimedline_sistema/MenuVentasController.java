@@ -138,7 +138,7 @@ public class MenuVentasController implements Initializable{
     @FXML
     private void cerrarSesion(MouseEvent event) {
         try {
-            App.setRoot("IniciarSes");
+            App.setRoot("LoginView");
         } catch (IOException e) {
             System.err.println("Error al cerrar sesión: " + e.getMessage());
             e.printStackTrace();
