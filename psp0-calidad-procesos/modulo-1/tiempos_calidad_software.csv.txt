@@ -1,0 +1,2196 @@
+/Task-Schedule/Mobimedline (Ortiz Pérez Miguel Angel)/XML Task List,<EVModel rct='true' tlid='ve82om.mu7v4u8u' tz='America/Mexico_City'><task name='Mobimedline' pt='0.0' at='0.0' psd='@1789279200000' pd='@1789279199000' rpd='@9223372036854775807' tid='TL-ve82om.mu7v4u8u' who='Ortiz Pérez Miguel Angel' flag='plain'><task name='CalidadSoftware/Mobimedline' pt='0.0' at='0.0' psd='@1789279200000' pd='@1789279199000' rpd='@9223372036854775807' nt='' nts=',(processName:Software System Development),Oversight,Development Env,Planning,Sys Reqts,Sys Reqts Review,Sys Reqts Inspect,Sys Test Prep,Sys Design,Sys Design Review,Sys Design Inspect,SW Reqts,SW Reqts Review,SW Reqts Inspect,SW Test Prep,SW Design,SW Design Review,SW Design Inspect,Design,Design Review,Design Inspect,Code,Code Review,Compile,Code Inspect,Test,SW Int Test,TRR,SW Qual Test,Sys Int Test,Sys Qual Test,SW Use Prep,Misc,Postmortem,SW Use,'/></task><schedule tpt='0.0' evt='0.0' at='0.0' pt='0.0' it='0.0' start='@1789279200000' eff='@1790144960313'><period end='@1789279200000' pt='0.0' at='0.0' cpv='0.0' cev='0.0' cac='0.0'/><period end='@1789884000000' pt='120.0' at='0.0' cpv='0.0' cev='0.0' cac='0.0'/></schedule></EVModel>
+/CalidadSoftware/Mobimedline/DLDR_vs_UT/Defect Ratio,Infinity
+/CalidadSoftware/Mobimedline/QP_Estimated DLDR_Time,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Review/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Sys Design Review/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Development Env/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/11/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Estimated Text Pages,0.0
+/CalidadSoftware/Mobimedline/Team_Process_Name,Software System Development
+/CalidadSoftware/Mobimedline/Sys Reqts/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/3/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Sys Int Test/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Indiv_Export_Filename,me-data.pdash
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Development Env/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/SW Qual Test/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Design Review/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Target Code Review/Code Ratio,0.5
+/CalidadSoftware/Mobimedline/SW Use Prep/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Sys Qual Test/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/Planning/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/TRR/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Code Review/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Compile/DRL,NaN
+/CalidadSoftware/Mobimedline/Design vs Code/Estimated Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/SSDD Pages,0.0
+/CalidadSoftware/Mobimedline/Development Env/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Size/10/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Size/27/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Code Review/Estimated Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Size/12/Actual Size,0.0
+/CalidadSoftware/Mobimedline/SSDD Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Size/1/Actual Size,0.0
+/CalidadSoftware/Mobimedline/SW Design/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Test/Time,0.0
+/CalidadSoftware/Mobimedline/End to End SSDD Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts Review/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/5/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Size/7/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Sys Design/Estimated Defects Injected per Hour,0.25
+/CalidadSoftware/Mobimedline/Base LOC,0.0
+/CalidadSoftware/Mobimedline/Sys Design Review/DRL,NaN
+/CalidadSoftware/Mobimedline/Code Inspect/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Size/3/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/SW Reqts Inspect,1.0
+/CalidadSoftware/Mobimedline/QP_CR_Time,0.0
+/CalidadSoftware/Mobimedline/Design Review/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Compile,
+/CalidadSoftware/Mobimedline/Design Inspect/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/SW Use Prep/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Test/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Sys Int Test/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Oversight/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Size/20/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Design Inspect,1.0
+/CalidadSoftware/Mobimedline/Size/9/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Test/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/16/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Code Review/DRL,NaN
+/CalidadSoftware/Mobimedline/Size/14/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Size/18/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Estimated End to End Text Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Code/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/21/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Quality_Phase_List,Sys Reqts ReviewSys Reqts InspectSys Design ReviewSys Design InspectSW Reqts ReviewSW Reqts InspectSW Design ReviewSW Design InspectDesign ReviewDesign InspectCode ReviewCompileCode InspectTestSW Int TestTRRSW Qual TestSys Int TestSys Qual TestSW Use
+/CalidadSoftware/Mobimedline/Size/23/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Code Review/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Design/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Size/16/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Planning/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Size/45/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Estimated Inspected DLD Lines,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/Size/29/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Postmortem/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Misc/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Filtered_Sized_Object_List,
+/CalidadSoftware/Mobimedline/Estimated STP Pages,0.0
+/CalidadSoftware/Mobimedline/SW Use/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/TRR/Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Size/34/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Code/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Design/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts Review/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/SSS Pages/Appraisal Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Analyze Rollup Data/Time,0.0
+/CalidadSoftware/Mobimedline/Code Inspect/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/SW Int Test/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/30/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Estimated Aggregate Inspected SSS Pages,0.0
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/TRR,
+/CalidadSoftware/Mobimedline/Size/21/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Size/42/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Planning,
+/CalidadSoftware/Mobimedline/Test/Estimated % Phase Yield,0.5
+/CalidadSoftware/Mobimedline/Size/9/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Size/17/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Sys Design Review/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Workflow_Param/PSP/Test/Estimated % Phase Yield,0.5
+/CalidadSoftware/Mobimedline/Code Inspect/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Size/11/Unmanaged_List,
+/CalidadSoftware/Mobimedline/After Development/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Size/41/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Size/38/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/SW Reqts/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Design Review vs Test/Estimated Defect Ratio,Infinity
+/CalidadSoftware/Mobimedline/Code Inspect/Time,0.0
+/CalidadSoftware/Mobimedline/Size/27/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Size/25/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Size/29/Actual Size,0.0
+/CalidadSoftware/Mobimedline/SW Reqts/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Design Inspect/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Size/45/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Add_Task_Handler,pdash.addTeamTask
+/CalidadSoftware/Mobimedline/Test/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Phase_List,OversightDevelopment EnvPlanningSys ReqtsSys Reqts ReviewSys Reqts InspectSys Test PrepSys DesignSys Design ReviewSys Design InspectSW ReqtsSW Reqts ReviewSW Reqts InspectSW Test PrepSW DesignSW Design ReviewSW Design InspectDesignDesign ReviewDesign InspectCodeCode ReviewCompileCode InspectTestSW Int TestTRRSW Qual TestSys Int TestSys Qual TestSW Use PrepMiscPostmortemSW Use
+/CalidadSoftware/Mobimedline/Design/Appraisal Rate,NaN
+/CalidadSoftware/Mobimedline/Rollup_Date_Filter_On,1.0
+/CalidadSoftware/Mobimedline/Code Review/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Size/18/Plan Size,0.0
+/CalidadSoftware/Mobimedline/TRR/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Development Env/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/41/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Planning/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/6/Metric_ID,SDD Pages
+/CalidadSoftware/Mobimedline/New & Changed LOC Productivity,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/SSS Pages,0.0
+/CalidadSoftware/Mobimedline/SW Use Prep/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/DLD_vs_CODE/Estimated Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Postmortem/Time,0.0
+/CalidadSoftware/Mobimedline/Estimated Reused LOC,0.0
+/CalidadSoftware/Mobimedline/Size/19/Plan Size,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Review/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Design/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Rollup_Language_Filter_On,0.0
+/CalidadSoftware/Mobimedline/Code Inspect/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Team Project Indiv Root,TAG
+/CalidadSoftware/Mobimedline/SDD Pages/Size_Index,6.0
+/CalidadSoftware/Mobimedline/Estimated New & Changed KLOC,0.0
+/CalidadSoftware/Mobimedline/Size/34/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Inspected SSS Pages,0.0
+/CalidadSoftware/Mobimedline/Planning/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Test/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Size/30/Actual Size,0.0
+/CalidadSoftware/Mobimedline/CR_vs_COMP/Defect Ratio,Infinity
+/CalidadSoftware/Mobimedline/Compile/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Estimated Aggregate STP Pages,0.0
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/SW Reqts,
+/CalidadSoftware/Mobimedline/Size/36/Plan Size,0.0
+/CalidadSoftware/Mobimedline/SW Design Inspect/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/Size/38/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Estimated Inspected SRS Pages,0.0
+/CalidadSoftware/Mobimedline/Design/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/43/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/DRL,NaN
+/CalidadSoftware/Mobimedline/Compile/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Size/0/Managed_Prefix,Sized_Objects/LOC
+/CalidadSoftware/Mobimedline/Sys Design Review/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Postmortem/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/SW Use Prep/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/8/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Design vs Code/Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Quality_Profile_1,1.0
+/CalidadSoftware/Mobimedline/Child_List,OversightDevelopment EnvPlanningSys ReqtsSys Reqts ReviewSys Reqts InspectSys Test PrepSys DesignSys Design ReviewSys Design InspectSW ReqtsSW Reqts ReviewSW Reqts InspectSW Test PrepSW DesignSW Design ReviewSW Design InspectDesignDesign ReviewDesign InspectCodeCode ReviewCompileCode InspectTestSW Int TestTRRSW Qual TestSys Int TestSys Qual TestSW Use PrepMiscPostmortemSW Use
+/CalidadSoftware/Mobimedline/SW Int Test/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Quality_Profile_2,1.0
+/CalidadSoftware/Mobimedline/Quality_Profile_3,1.0
+/CalidadSoftware/Mobimedline/Quality_Profile_4,1.0
+/CalidadSoftware/Mobimedline/SW Use Prep/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Code Review/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Quality_Profile_5,1.0
+/CalidadSoftware/Mobimedline/Size/32/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Oversight/Time,0.0
+/CalidadSoftware/Mobimedline/SW Use/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Code Inspect/Estimated Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Uncategorized/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Estimated Yield,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Design/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Size/2/Metric_Long_Name,SSDD Pages
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/SW Design Review,
+/CalidadSoftware/Mobimedline/Workflow_Param/PSP/Planning/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Workflow_Param/PSP/Design/Estimated Defects Injected per Hour,0.75
+/CalidadSoftware/Mobimedline/Design Review/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Before Development/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Size/7/Plan Size,0.0
+/CalidadSoftware/Mobimedline/SW Qual Test/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/SW Use Prep,1.0
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Time,0.0
+/CalidadSoftware/Mobimedline/SSS Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Sys Test Prep/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Qual Test/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Compile/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/5/Metric_ID,Test Cases
+/CalidadSoftware/Mobimedline/Size/49/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Code Review/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/SW Test Prep/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Design/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/SW Test Prep/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Design Review/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Size/15/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Size/18/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/SW Int Test/DRL,NaN
+/CalidadSoftware/Mobimedline/SW Test Prep/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Qual Test/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Size/5/Managed_Prefix,Sized_Objects/Test Cases
+/CalidadSoftware/Mobimedline/SW Int Test/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Productivity,Infinity
+/CalidadSoftware/Mobimedline/Workflow_Param/PSP/Test/Estimated Defects Injected per Hour,0.067
+/CalidadSoftware/Mobimedline/SW Int Test/Time,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Oversight/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Size/45/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/End to End STP Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Postmortem/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Design Inspect/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Test,1.0
+/CalidadSoftware/Mobimedline/Size/46/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Design Inspect/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/21/Unmanaged_List,
+/CalidadSoftware/Mobimedline/SW Design Inspect/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Aggregate Text Pages,0.0
+/CalidadSoftware/Mobimedline/Sys Design Review/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Compile/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Printable_Rollup_List,
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Sys Test Prep,1.0
+/CalidadSoftware/Mobimedline/Postmortem/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Size/3/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Estimated Aggregate Size,0.0
+/CalidadSoftware/Mobimedline/SDD Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Planning,1.0
+/CalidadSoftware/Mobimedline/Reused LOC,0.0
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Misc,1.0
+/CalidadSoftware/Mobimedline/Postmortem/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/SW Int Test,1.0
+/CalidadSoftware/Mobimedline/SW Qual Test/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Sys Design/Time,0.0
+/CalidadSoftware/Mobimedline/Misc/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Total Development /Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Design Review vs Design/Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/SW Qual Test,1.0
+/CalidadSoftware/Mobimedline/Misc/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/SW Qual Test/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Misc/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/SW Qual Test/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Planning/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Estimated End to End STP Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Rollup_Keyword,
+/CalidadSoftware/Mobimedline/Estimated SSS Pages,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/SSDD Pages/Size_Index,2.0
+/CalidadSoftware/Mobimedline/Total Development /Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Design Review/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Sys Design/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/TRR/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Sys Int Test/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Size/1/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Misc/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Size/2/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Size/4/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Development Env/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/% Appraisal COQ,Infinity
+/CalidadSoftware/Mobimedline/Size/5/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Aggregate Test Cases,0.0
+/CalidadSoftware/Mobimedline/Task_Labels,label:Completed_Taskslabel_data:hiddenglob_engine:deferredglob_engine:deferred_token:/CalidadSoftware/Mobimedline/Indiv_Auto_Labelslabel:Completed_Componentslabel_data:hiddenglob_engine:deferredglob_engine:deferred_token:/CalidadSoftware/Mobimedline/Indiv_Auto_Labels
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Design Review/Appraisal Rate,NaN
+/CalidadSoftware/Mobimedline/TRR/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Workflow_Param/PSP/Code Review/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Design Review/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Compile/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Oversight,
+/CalidadSoftware/Mobimedline/Test/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/SW Reqts Review/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Estimated Inspected Test Cases,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Size/3/Metric_Long_Name,SRS Pages
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Size/18/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/SW Int Test/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Design/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Oversight/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Code,
+/CalidadSoftware/Mobimedline/Size/39/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Size/36/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/SW Use/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Estimated SRS Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Size/37/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Estimated Deleted LOC,0.0
+/CalidadSoftware/Mobimedline/SW Use/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Workflow_Param/PSP/Compile/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Sys Int Test/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Sys Design Review/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/SW Reqts/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Size/20/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Sys Reqts/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Sys Qual Test/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/26/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Development Env/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Size/43/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/SW Design/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Code Inspect/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Sys Int Test/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/Estimated End to End SDD Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/SW Reqts,1.0
+/CalidadSoftware/Mobimedline/Sys Design/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Development Env/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Sys Int Test,1.0
+/CalidadSoftware/Mobimedline/Size/4/Metric_Name,STP Pages
+/CalidadSoftware/Mobimedline/Text Pages,0.0
+/CalidadSoftware/Mobimedline/Design Inspect/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/28/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Design Inspect/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Time,0.0
+/CalidadSoftware/Mobimedline/Size/36/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/SW Design/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Misc/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Analyze Rollup Data/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Test/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Estimated SSDD Pages,0.0
+/CalidadSoftware/Mobimedline/Workflow_Param/PSP/Code/Estimated Defects Injected per Hour,2.0
+/CalidadSoftware/Mobimedline/Size/0/Plan Size,0.0
+/CalidadSoftware/Mobimedline/DLD Lines Estimating Error,Infinity
+/CalidadSoftware/Mobimedline/Size/42/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Sys Test Prep/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Size/36/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Size/25/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Misc/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Total Development /Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Postmortem/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Use Prep/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Workflow_Param/PSP/Code/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Sys Design/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Sys Test Prep,
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Estimated Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Size/1/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Design Inspect/Estimated % Phase Yield,0.7
+/CalidadSoftware/Mobimedline/Development Env/Time,0.0
+/CalidadSoftware/Mobimedline/SW Design Inspect/Time,0.0
+/CalidadSoftware/Mobimedline/Sys Qual Test/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Design Inspect/Estimated % Phase Yield,0.7
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Size/30/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Design/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Analyze Rollup Data/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Size/40/Unmanaged_List,
+/CalidadSoftware/Mobimedline/STP Pages Estimating Error,Infinity
+/CalidadSoftware/Mobimedline/Size/2/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Size/16/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Has Compile Phase,TAG
+/CalidadSoftware/Mobimedline/Design Inspect/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Sys Int Test/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Design Inspect/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts Review/Estimated Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Aggregate Size,0.0
+/CalidadSoftware/Mobimedline/Size/4/Managed_Prefix,Sized_Objects/STP Pages
+/CalidadSoftware/Mobimedline/Sys Int Test/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/SW Design Review/Estimated % Phase Yield,0.7
+/CalidadSoftware/Mobimedline/SW Use/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Sys Int Test/Estimated % Phase Yield,0.5
+/CalidadSoftware/Mobimedline/CR_vs_CODE/Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Sys Design Review/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Enable_Reverse_Sync,1.0
+/CalidadSoftware/Mobimedline/Sys Qual Test/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/SW Reqts Review/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Sys Design,
+/CalidadSoftware/Mobimedline/SW Test Prep/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Design Review/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/27/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Size/24/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Design,1.0
+/CalidadSoftware/Mobimedline/Sys Test Prep/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Estimated Aggregate Inspected SSDD Pages,0.0
+/CalidadSoftware/Mobimedline/SSDD Pages/Estimated Appraisal Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Planning/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Size/47/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Code/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Inspected SSDD Pages,0.0
+/CalidadSoftware/Mobimedline/Design Inspect/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Test Cases/Appraisal Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Oversight/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/SW Reqts/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Size,0.0
+/CalidadSoftware/Mobimedline/Design Review/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Development Env/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Design Review/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/24/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Oversight/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Sys Design Review/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Test/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/After Development/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Analyze Rollup Data/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Code/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/SW Int Test/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Size_Metric_ID_List,LOCSSS PagesSSDD PagesSRS PagesSTP PagesTest CasesSDD PagesText PagesDLD Lines
+/CalidadSoftware/Mobimedline/Code Review/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Estimated Inspected New & Changed KLOC,0.0
+/CalidadSoftware/Mobimedline/Inspected SRS Pages Estimating Error,Infinity
+/CalidadSoftware/Mobimedline/Analyze Rollup Data/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Size/33/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Design Review/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Test Cases/Estimated Appraisal Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Size/0/Metric_ID,LOC
+/CalidadSoftware/Mobimedline/Size/33/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Sys Reqts/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Code/Time,0.0
+/CalidadSoftware/Mobimedline/Design Review/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Sys Design/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Sys Test Prep/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Time Estimating Error,Infinity
+/CalidadSoftware/Mobimedline/Size/10/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Development Env/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Sys Int Test/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Review/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Test Prep/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Size/40/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Size_Metric_Eff_Units_List,New & Changed LOCSSS PagesSSDD PagesSRS PagesSTP PagesTest CasesSDD PagesText PagesDLD Lines
+/CalidadSoftware/Mobimedline/SRS Pages/Size_Index,3.0
+/CalidadSoftware/Mobimedline/End to End SRS Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Design Inspect/Time,0.0
+/CalidadSoftware/Mobimedline/SW Use Prep/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Estimated Total LOC,0.0
+/CalidadSoftware/Mobimedline/SW Reqts/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Size/45/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Sys Reqts Review/DRL,NaN
+/CalidadSoftware/Mobimedline/Sys Reqts/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/SW Reqts/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Sys Reqts Review,1.0
+/CalidadSoftware/Mobimedline/Size/26/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Code/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Unadorned_Rollup_List,
+/CalidadSoftware/Mobimedline/WBS_Read_Only,1.0
+/CalidadSoftware/Mobimedline/Sys Qual Test/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Size/29/Plan Size,0.0
+/CalidadSoftware/Mobimedline/DLDR_vs_DLD/Estimated Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/STP Pages/Size_Index,4.0
+/CalidadSoftware/Mobimedline/Sys Design Review/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/TRR/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/QP_Estimated DLD_Time,0.0
+/CalidadSoftware/Mobimedline/SSS Pages Estimating Error,Infinity
+/CalidadSoftware/Mobimedline/Rollup_Language,
+/CalidadSoftware/Mobimedline/Size/31/Plan Size,0.0
+/CalidadSoftware/Mobimedline/New & Changed KLOC,0.0
+/CalidadSoftware/Mobimedline/% New Reused,Infinity
+/CalidadSoftware/Mobimedline/Size/46/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Text Pages/Appraisal Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Size/26/Unmanaged_List,
+/CalidadSoftware/Mobimedline/SW Use/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Code Inspect/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/TRR/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/DLD Lines/Size_Index,8.0
+/CalidadSoftware/Mobimedline/Size/13/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Sys Design Inspect/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Size/19/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Compile/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Size/35/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/SW Use Prep/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/SIZE_METRIC_NAME,Size
+/CalidadSoftware/Mobimedline/Sys Qual Test/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Size/34/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/% COQ,Infinity
+/CalidadSoftware/Mobimedline/Inspected DLD Lines,0.0
+/CalidadSoftware/Mobimedline/SW Qual Test/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/End to End Text Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Sys Qual Test/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Design Review/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/SW Design/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/SW Qual Test/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Code Review/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/Size/8/Managed_Prefix,Sized_Objects/DLD Lines
+/CalidadSoftware/Mobimedline/Workflow_Param/PSP/Postmortem/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Design Review/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Code/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Misc/Time,0.0
+/CalidadSoftware/Mobimedline/Sys Design Review/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Development Env/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Int Test/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Size/35/Plan Size,0.0
+/CalidadSoftware/Mobimedline/QP_Estimated UT_Def,Infinity
+/CalidadSoftware/Mobimedline/Planning/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Size/2/Metric_Name,SSDD Pages
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Oversight,1.0
+/CalidadSoftware/Mobimedline/SW Use/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/1/Metric_Name,SSS Pages
+/CalidadSoftware/Mobimedline/SDD Pages Estimating Error,Infinity
+/CalidadSoftware/Mobimedline/Sys Test Prep/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/TRR/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/5/Metric_Name,Test Cases
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Uncategorized,
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Total Development /Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Uncategorized/Time,0.0
+/CalidadSoftware/Mobimedline/Indiv_Auto_Labels_Deferred,label:Completed_Taskslabel_data:hiddenglob_engine:deferredglob_engine:deferred_token:/CalidadSoftware/Mobimedline/Indiv_Auto_Labelslabel:Completed_Componentslabel_data:hiddenglob_engine:deferredglob_engine:deferred_token:/CalidadSoftware/Mobimedline/Indiv_Auto_Labels
+/CalidadSoftware/Mobimedline/Size/31/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Size/49/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Design/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Compile/Estimated Defects Injected per Hour,0.3
+/CalidadSoftware/Mobimedline/Estimated AFR,Infinity
+/CalidadSoftware/Mobimedline/Code Review vs Code/Estimated Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/19/Unmanaged_List,
+/CalidadSoftware/Mobimedline/TRR/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Design Review/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/Size/3/Metric_Eff_Units,SRS Pages
+/CalidadSoftware/Mobimedline/SW Int Test/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Indiv_Initials,me
+/CalidadSoftware/Mobimedline/STP Pages,0.0
+/CalidadSoftware/Mobimedline/Rollup_Prefix,
+/CalidadSoftware/Mobimedline/Size/42/Unmanaged_List,
+/CalidadSoftware/Mobimedline/SW Test Prep/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts Review/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Design/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Design Review/DRL,NaN
+/CalidadSoftware/Mobimedline/CPI,Infinity
+/CalidadSoftware/Mobimedline/Design Inspect/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Review/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Rollup_Prefix_Filter_On,0.0
+/CalidadSoftware/Mobimedline/SW Int Test/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/AGGR_SIZE_METRIC_NAME_ABBR,Size
+/CalidadSoftware/Mobimedline/Postmortem/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Postmortem/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/End to End SDD Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/SW Use Prep/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/17/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Oversight/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Test Prep/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Size/4/Metric_ID,STP Pages
+/CalidadSoftware/Mobimedline/Misc/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Sys Design/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Code Inspect/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Test/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Rollup_Keyword_Filter_On,0.0
+/CalidadSoftware/Mobimedline/Size/22/Plan Size,0.0
+/CalidadSoftware/Mobimedline/SW Design/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/SW Design Review/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Size/35/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Design Inspect/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Code/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Size/47/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/28/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Inspected SRS Pages,0.0
+/CalidadSoftware/Mobimedline/SW Design Inspect/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Postmortem/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Estimated Text Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/PDSSD Team Project Indiv Root,TAG
+/CalidadSoftware/Mobimedline/Analyze Rollup Data/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Overhead_Phase_List,OversightDevelopment EnvPlanningMiscPostmortem
+/CalidadSoftware/Mobimedline/Size/24/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/SRS Pages Estimating Error,Infinity
+/CalidadSoftware/Mobimedline/Oversight/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Sys Design/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Design Inspect/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Code Review/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Oversight/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Rollup_List,
+/CalidadSoftware/Mobimedline/Size/21/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Size/39/Unmanaged_List,
+/CalidadSoftware/Mobimedline/SW Design/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Design/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Size/45/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Compile/Time,0.0
+/CalidadSoftware/Mobimedline/SW Int Test/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Design Inspect/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/16/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/SW Design Review/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts Review/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Misc/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Design Review/Time,0.0
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/12/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Size/15/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Size/0/Metric_Long_Name,New & Changed LOC
+/CalidadSoftware/Mobimedline/TRR/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/Design/Estimated Appraisal Rate,NaN
+/CalidadSoftware/Mobimedline/Development Env/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Planning/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Code/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Postmortem/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Development_Phase_List,Sys ReqtsSys Test PrepSys DesignSW ReqtsSW Test PrepSW DesignDesignCodeSW Use Prep
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Code Review/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/SW Design Inspect/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/SW Design Inspect/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/QP_Estimated CODE_Time,0.0
+/CalidadSoftware/Mobimedline/Oversight/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Size/39/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Aggregate SSS Pages,0.0
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Code Inspect,
+/CalidadSoftware/Mobimedline/Size/44/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Planning/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Aggregate Inspected DLD Lines,0.0
+/CalidadSoftware/Mobimedline/PQI,1.0
+/CalidadSoftware/Mobimedline/SW Reqts/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Sys Int Test/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/Size/10/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Size/38/Unmanaged_List,
+/CalidadSoftware/Mobimedline/End to End New & Changed LOC Productivity,Infinity
+/CalidadSoftware/Mobimedline/Size/22/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Estimated New Reused LOC,0.0
+/CalidadSoftware/Mobimedline/Exporting_Namespaced_Phase_Metrics,1.0
+/CalidadSoftware/Mobimedline/SW Reqts Review/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Last_Failure_Phase,SW Use
+/CalidadSoftware/Mobimedline/Size/23/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Sys Design/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Estimated Inspected STP Pages,0.0
+/CalidadSoftware/Mobimedline/Misc/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Size/12/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Prefer Actual Size for Inspection Estimates,0.0
+/CalidadSoftware/Mobimedline/Size/14/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/SW Qual Test/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Design Inspect/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/Size/37/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Relaunchable_Settings,Defect Type StandardTarget Design/Code RatioTarget Code Review/Code RatioTarget Compile Defect DensityTarget Test Defect DensityTarget Design Review/Design RatioPrefer Actual Size for Inspection Estimates*PHASE*/Estimated % Phase Yield*PHASE*/Estimated Defects Injected per HourPhase_Display_Filter_Include/*PHASE*
+/CalidadSoftware/Mobimedline/Size/16/Plan Size,0.0
+/CalidadSoftware/Mobimedline/EV Project Tag,TAG
+/CalidadSoftware/Mobimedline/Code/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Sys Qual Test/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Estimated Inspected SDD Pages,0.0
+/CalidadSoftware/Mobimedline/DLD_vs_CODE/Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Size/1/Metric_Eff_Units,SSS Pages
+/CalidadSoftware/Mobimedline/Design Review/Estimated Appraisal Rate,NaN
+/CalidadSoftware/Mobimedline/Size/9/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Size/23/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Rollup_Namespaced_Phase_Metrics,1.0
+/CalidadSoftware/Mobimedline/Time,0.0
+/CalidadSoftware/Mobimedline/SW Design Inspect/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Added LOC,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Review/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Deleted LOC,0.0
+/CalidadSoftware/Mobimedline/PDSSD Indiv Root Tag,TAG
+/CalidadSoftware/Mobimedline/Size/44/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/TRR/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Compile/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/Size/22/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Size/2/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Design/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Code Review,
+/CalidadSoftware/Mobimedline/Size/33/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Code Inspect/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Planning/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Size/37/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Size/48/Actual Size,0.0
+/CalidadSoftware/Mobimedline/SIZE_METRIC_NAME_ABBR,Size
+/CalidadSoftware/Mobimedline/SW Reqts/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Int Test/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Size/48/Unmanaged_List,
+/CalidadSoftware/Mobimedline/DLDR_vs_DLD/Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Sys Design,1.0
+/CalidadSoftware/Mobimedline/Design/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/SW Qual Test/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Qual Test/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/7/Metric_Long_Name,Text Pages
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Design Review/Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Autosync_Disabled,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Size/8/Metric_Name,DLD Lines
+/CalidadSoftware/Mobimedline/SW Design Inspect/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Sys Design/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Size/11/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/QP_UT_Def,Infinity
+/CalidadSoftware/Mobimedline/Estimated Size,0.0
+/CalidadSoftware/Mobimedline/SW Use/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts Review/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/41/Plan Size,0.0
+/CalidadSoftware/Mobimedline/file_sep,\\
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Design Inspect/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Test Prep/Time,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Postmortem/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Aggregate Inspected SRS Pages,0.0
+/CalidadSoftware/Mobimedline/SW Use Prep/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Design/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Test Prep/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Size/43/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Design Inspect/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/TRR/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Design Review/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Design/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Inspected SSS Pages Estimating Error,Infinity
+/CalidadSoftware/Mobimedline/Sys Qual Test/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/SW Qual Test,
+/CalidadSoftware/Mobimedline/SRS Pages/Estimated Appraisal Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Estimated % New Reused,Infinity
+/CalidadSoftware/Mobimedline/Size/37/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Size/12/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/SW Reqts/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Qual Test/Time,0.0
+/CalidadSoftware/Mobimedline/Misc/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Qual Test/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/SW Design Review/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/8/Metric_Eff_Units,DLD Lines
+/CalidadSoftware/Mobimedline/Planning/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Design Inspect/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Sys Test Prep/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Review/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Sys Design Review/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Test Prep/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Code Review vs Compile/Estimated Defect Ratio,Infinity
+/CalidadSoftware/Mobimedline/Failure_Phase_List,CompileTestSW Int TestSW Qual TestSys Int TestSys Qual TestSW Use
+/CalidadSoftware/Mobimedline/SSS Pages/Estimated Appraisal Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Sys Qual Test/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Size/46/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Design Review/Time,0.0
+/CalidadSoftware/Mobimedline/Size/47/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Estimated Aggregate SDD Pages,0.0
+/CalidadSoftware/Mobimedline/Size/20/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/SW Design,1.0
+/CalidadSoftware/Mobimedline/Sys Design Review/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Design/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Size/13/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/SW Reqts Review/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/Text Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Target Design/Code Ratio,1.0
+/CalidadSoftware/Mobimedline/SW Test Prep/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Design Inspect/DRL,NaN
+/CalidadSoftware/Mobimedline/Size/14/Plan Size,0.0
+/CalidadSoftware/Mobimedline/SW Reqts/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Size/26/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Bundle_Qualifier,mu7v4u53
+/CalidadSoftware/Mobimedline/SW Design Inspect/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/SW Use Prep,
+/CalidadSoftware/Mobimedline/Design Review/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Planning/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Size/27/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Size_Metric_Name_List,LOCSSS PagesSSDD PagesSRS PagesSTP PagesTest CasesSDD PagesText PagesDLD Lines
+/CalidadSoftware/Mobimedline/Design Review vs Design/Estimated Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Development Env/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Test/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/TRR,1.0
+/CalidadSoftware/Mobimedline/Size_Metric_API_Handler,mcfSizeMetricApiHandler
+/CalidadSoftware/Mobimedline/Team_Process_PID,PDSSD
+/CalidadSoftware/Mobimedline/Code Inspect/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Analyze Rollup Data/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Design Inspect/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts Review/Estimated % Phase Yield,0.7
+/CalidadSoftware/Mobimedline/Sys Qual Test/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/10/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Code/Estimated Defects Injected per Hour,4.0
+/CalidadSoftware/Mobimedline/Rollup As Of Date,ene 01, 1970 06:00:00 a.m.
+/CalidadSoftware/Mobimedline/Design/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Inspected Test Cases,0.0
+/CalidadSoftware/Mobimedline/PDSSD Rollup Tag,TAG
+/CalidadSoftware/Mobimedline/PSP Compatible,TAG
+/CalidadSoftware/Mobimedline/Code Inspect/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Design/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Size/11/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Design/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/2/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Size/13/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Sys Test Prep/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Size/0/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Size/34/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Size/6/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Development Env/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/SW Test Prep,
+/CalidadSoftware/Mobimedline/Estimated Inspected SSDD Pages,0.0
+/CalidadSoftware/Mobimedline/SW Design/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/TRR/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Code/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Int Test/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Size/4/Actual Size,0.0
+/CalidadSoftware/Mobimedline/SW Use/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Estimated SDD Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Size/8/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Size/17/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Size/15/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Size/19/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Misc/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Sys Qual Test/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Size/49/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Workflow_Param/PSP/Design/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Design Review/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Code/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Size/49/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/SW Reqts Review/Time,0.0
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/SW Design Inspect,1.0
+/CalidadSoftware/Mobimedline/Design/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Size/9/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Design Inspect/Appraisal Rate,NaN
+/CalidadSoftware/Mobimedline/Design Inspect/Estimated Appraisal Rate,NaN
+/CalidadSoftware/Mobimedline/SW Int Test/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Misc/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Code Review/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Postmortem/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Design Inspect/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/SW Use Prep/Time,0.0
+/CalidadSoftware/Mobimedline/Sys Design/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/29/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Estimated Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Design/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Design/Estimated Defects Injected per Hour,2.0
+/CalidadSoftware/Mobimedline/Sys Int Test/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/PROBE_TARGET_SIZE_METRIC_NAME,Size
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Sys Reqts Review,
+/CalidadSoftware/Mobimedline/Sys Reqts/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Quality Profile Capable,TAG
+/CalidadSoftware/Mobimedline/PDSSD Indiv2 Root Tag,TAG
+/CalidadSoftware/Mobimedline/Test Cases Estimating Error,Infinity
+/CalidadSoftware/Mobimedline/Sys Qual Test/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/48/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Analyze Rollup Data/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Use Prep/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/TRR/Time,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/SW Design/Estimated Defects Injected per Hour,0.25
+/CalidadSoftware/Mobimedline/Test/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Code Review/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Total LOC,0.0
+/CalidadSoftware/Mobimedline/Design Review/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/Size/9/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Size/24/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Test/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Size/6/Metric_Long_Name,SDD Pages
+/CalidadSoftware/Mobimedline/Size/41/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Sync_Full_WBS,0.0
+/CalidadSoftware/Mobimedline/Size/11/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Size/32/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Size/31/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Code Review/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Compile/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Sys Reqts Inspect,1.0
+/CalidadSoftware/Mobimedline/PDSSD/Rollup Tag,TAG
+/CalidadSoftware/Mobimedline/Size/2/Metric_ID,SSDD Pages
+/CalidadSoftware/Mobimedline/Code Inspect/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Code Inspect/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/27/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Size/4/Plan Size,0.0
+/CalidadSoftware/Mobimedline/QP_DLD_Time,0.0
+/CalidadSoftware/Mobimedline/SW Use/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Size/30/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/PROBE_INPUT_SIZE_METRIC_NAME,Unadjusted Estimated Size
+/CalidadSoftware/Mobimedline/Modified LOC,0.0
+/CalidadSoftware/Mobimedline/Size/42/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Postmortem/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Sys Test Prep/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Compile/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Design Review/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Estimated Aggregate Test Cases,0.0
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Inspected New & Changed LOC,0.0
+/CalidadSoftware/Mobimedline/TRR/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/36/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Sys Reqts/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Design/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Code Review/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/SW Design Inspect/Estimated Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/CR_vs_COMP/Estimated Defect Ratio,Infinity
+/CalidadSoftware/Mobimedline/Code Inspect/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Software_Project_List,
+/CalidadSoftware/Mobimedline/Sys Qual Test/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Estimated STP Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Sync_Require_Delete_Permission,0.0
+/CalidadSoftware/Mobimedline/Text Pages Estimating Error,Infinity
+/CalidadSoftware/Mobimedline/Size/31/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Code Review/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Effective_Defect_Phase_List,PlanningSys ReqtsSys Reqts ReviewSys Reqts InspectSys Test PrepSys DesignSys Design ReviewSys Design InspectSW ReqtsSW Reqts ReviewSW Reqts InspectSW Test PrepSW DesignSW Design ReviewSW Design InspectDesignDesign ReviewDesign InspectCodeCode ReviewCompileCode InspectTestSW Int TestTRRSW Qual TestSys Int TestSys Qual TestSW Use PrepSW Use
+/CalidadSoftware/Mobimedline/Size/35/Actual Size,0.0
+/CalidadSoftware/Mobimedline/SW Design Inspect/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Use/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Estimated % COQ,Infinity
+/CalidadSoftware/Mobimedline/Oversight/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Sys Design Review/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Size/33/Plan Size,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Review/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Reverse_Sync_New_Members,1.0
+/CalidadSoftware/Mobimedline/Design Inspect/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Development Env/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Test Prep/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/38/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Estimated End to End Test Cases Productivity,Infinity
+/CalidadSoftware/Mobimedline/SW Design Inspect/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Appraisal_Phase_List,Sys Reqts ReviewSys Reqts InspectSys Design ReviewSys Design InspectSW Reqts ReviewSW Reqts InspectSW Design ReviewSW Design InspectDesign ReviewDesign InspectCode ReviewCode InspectTRR
+/CalidadSoftware/Mobimedline/Size/39/Actual Size,0.0
+/CalidadSoftware/Mobimedline/SW Use Prep/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/New & Changed LOC Estimating Error,Infinity
+/CalidadSoftware/Mobimedline/Sys Int Test/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Size/25/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Estimated Aggregate Inspected SDD Pages,0.0
+/CalidadSoftware/Mobimedline/SW Design/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Size/23/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Estimated SRS Pages,0.0
+/CalidadSoftware/Mobimedline/Size/20/Actual Size,0.0
+/CalidadSoftware/Mobimedline/SSDD Pages Estimating Error,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Test/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Size/13/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Code Inspect/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Size/24/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Postmortem/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Design,
+/CalidadSoftware/Mobimedline/SW Design Inspect/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Misc/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts/Estimated Defects Injected per Hour,0.25
+/CalidadSoftware/Mobimedline/Code Review vs Compile/Defect Ratio,Infinity
+/CalidadSoftware/Mobimedline/Code Review/Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Test/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Analyze Rollup Data/Node_Type,(Analyze Rollup Data)
+/CalidadSoftware/Mobimedline/Compile/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Qual Test/DRL,NaN
+/CalidadSoftware/Mobimedline/Test/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Development Env/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Estimated End to End New & Changed LOC Productivity,Infinity
+/CalidadSoftware/Mobimedline/Size/7/Managed_Prefix,Sized_Objects/Text Pages
+/CalidadSoftware/Mobimedline/Sys Test Prep/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Test Prep/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Code Inspect/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Sys Design Review,1.0
+/CalidadSoftware/Mobimedline/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/SW Design,
+/CalidadSoftware/Mobimedline/Test/DRL,NaN
+/CalidadSoftware/Mobimedline/Sys Int Test/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts/Time,0.0
+/CalidadSoftware/Mobimedline/Code Inspect/Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/SSS Pages/Size_Index,1.0
+/CalidadSoftware/Mobimedline/EXPORT_FILE/Instructions,file:/PDSSD/metricsExportFilterManaged.xml
+/CalidadSoftware/Mobimedline/SW Design Inspect/DRL,NaN
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/SW Reqts Review,1.0
+/CalidadSoftware/Mobimedline/Size/28/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Indiv_Auto_Labels,label:Completed_Taskslabel_data:hiddenlabel:Completed_Componentslabel_data:hidden
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Design Review,1.0
+/CalidadSoftware/Mobimedline/TRR/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Design Review/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Code Review/Estimated % Phase Yield,0.7
+/CalidadSoftware/Mobimedline/Size/47/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/SW Design Review/DRL,NaN
+/CalidadSoftware/Mobimedline/Estimated Inspected New & Changed LOC,0.0
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/SW Test Prep,1.0
+/CalidadSoftware/Mobimedline/Code Inspect/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Size/5/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Code Review/Time,0.0
+/CalidadSoftware/Mobimedline/EXPORT_FILE,.\\data\\mu7v4u53\\me-data.pdash
+/CalidadSoftware/Mobimedline/SW Test Prep/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Test/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Test Prep/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Compile/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/SDD Pages/Estimated Appraisal Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Size/48/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Int Test/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/SW Design Review/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/5/Metric_Long_Name,Test Cases
+/CalidadSoftware/Mobimedline/Sys Qual Test/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Compile/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/AGGR_SIZE_METRIC_NAME,Size
+/CalidadSoftware/Mobimedline/Sys Test Prep/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Design/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/SW Design/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Size/14/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Misc/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Size/4/Metric_Eff_Units,STP Pages
+/CalidadSoftware/Mobimedline/Planning/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Test Prep/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Node_Type_Spec,(processName:Software System Development)OversightDevelopment EnvPlanningSys ReqtsSys Reqts ReviewSys Reqts InspectSys Test PrepSys DesignSys Design ReviewSys Design InspectSW ReqtsSW Reqts ReviewSW Reqts InspectSW Test PrepSW DesignSW Design ReviewSW Design InspectDesignDesign ReviewDesign InspectCodeCode ReviewCompileCode InspectTestSW Int TestTRRSW Qual TestSys Int TestSys Qual TestSW Use PrepMiscPostmortemSW Use
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/New & Changed LOC/Size_Index,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Sys Design/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/3/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Postmortem/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/New & Changed LOC,0.0
+/CalidadSoftware/Mobimedline/Estimated Aggregate New & Changed LOC,0.0
+/CalidadSoftware/Mobimedline/Code/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/SW Qual Test/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Design Review/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Planning/Time,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Use Prep/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Estimated Aggregate SRS Pages,0.0
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Estimated % Phase Yield,0.7
+/CalidadSoftware/Mobimedline/SW Test Prep/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Export_Max_Node_Depth,0.0
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Sys Reqts,1.0
+/CalidadSoftware/Mobimedline/TRR/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Estimated Productivity,Infinity
+/CalidadSoftware/Mobimedline/Compile/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Inspected SDD Pages Estimating Error,Infinity
+/CalidadSoftware/Mobimedline/Size/22/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Size/8/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Size/44/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/SW Use/Estimated % Phase Yield,1.0
+/CalidadSoftware/Mobimedline/SW Qual Test/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Team_Directory_Eff,.
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Postmortem,1.0
+/CalidadSoftware/Mobimedline/Size/6/Managed_Prefix,Sized_Objects/SDD Pages
+/CalidadSoftware/Mobimedline/Size/6/Metric_Eff_Units,SDD Pages
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Estimated DLD Lines,0.0
+/CalidadSoftware/Mobimedline/SW Use Prep/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Development Env,1.0
+/CalidadSoftware/Mobimedline/Oversight/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/SW Design/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Design Inspect/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/SSDD Pages/Appraisal Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Compile/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/25/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/SW Use Prep/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/FILES_XML,,/PDSSD/files.xml,/PDSSD/files2.xml,
+/CalidadSoftware/Mobimedline/Estimated End to End SSS Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Aggregate SRS Pages,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Size/32/Plan Size,0.0
+/CalidadSoftware/Mobimedline/SW Qual Test/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Estimated SSS Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Test/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Test/Estimated Defects Injected per Hour,0.2
+/CalidadSoftware/Mobimedline/SW Qual Test/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Estimated % Failure COQ,Infinity
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Sys Qual Test,
+/CalidadSoftware/Mobimedline/DLDR_vs_UT/Estimated Defect Ratio,Infinity
+/CalidadSoftware/Mobimedline/% Reused,Infinity
+/CalidadSoftware/Mobimedline/Size/2/Managed_Prefix,Sized_Objects/SSDD Pages
+/CalidadSoftware/Mobimedline/Size/8/Metric_ID,DLD Lines
+/CalidadSoftware/Mobimedline/SW Int Test/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Size/28/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Size/29/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Planning/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/SDD Pages,0.0
+/CalidadSoftware/Mobimedline/Sys Design Inspect/DRL,NaN
+/CalidadSoftware/Mobimedline/Size/19/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Size/18/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Size/44/Actual Size,0.0
+/CalidadSoftware/Mobimedline/TRR/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/SW Reqts Review,
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/SW Use/Time,0.0
+/CalidadSoftware/Mobimedline/End to End SSS Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Size/1/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Size/7/Metric_Name,Text Pages
+/CalidadSoftware/Mobimedline/Size/25/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Size/0/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Code Review/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Misc/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Estimated Aggregate DLD Lines,0.0
+/CalidadSoftware/Mobimedline/Size/33/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Code Inspect/DRL,NaN
+/CalidadSoftware/Mobimedline/Design/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Design Review/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Planning/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Oversight/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Size/23/Unmanaged_List,
+/CalidadSoftware/Mobimedline/SW Design/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Task_ID_WBS_Order,none
+/CalidadSoftware/Mobimedline/SW Design/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Sys Test Prep/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/SW Qual Test/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/SW Int Test,
+/CalidadSoftware/Mobimedline/Size/3/Managed_Prefix,Sized_Objects/SRS Pages
+/CalidadSoftware/Mobimedline/PDSSD Tag,TAG
+/CalidadSoftware/Mobimedline/SW Design Review/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Review/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/SW Design Inspect,
+/CalidadSoftware/Mobimedline/Sized_Object_List,
+/CalidadSoftware/Mobimedline/Aggregate SSDD Pages,0.0
+/CalidadSoftware/Mobimedline/Size/22/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Compile/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/SW Qual Test/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Code Inspect/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/Compile/Estimated % Phase Yield,0.5
+/CalidadSoftware/Mobimedline/SRS Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Size/31/Unmanaged_List,
+/CalidadSoftware/Mobimedline/SW Int Test/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts Review/DRL,NaN
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Size/35/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/SW Reqts/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Design Review/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Int Test/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Design Inspect/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Code/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/QP_Estimated COMP_Def,Infinity
+/CalidadSoftware/Mobimedline/Target Test Defect Density,5.0
+/CalidadSoftware/Mobimedline/Team_Directory_URL_Only,0.0
+/CalidadSoftware/Mobimedline/Size/17/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Sys Int Test/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Task_Label_Sort_Order,none
+/CalidadSoftware/Mobimedline/Development Env/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Aggregate Inspected SSS Pages,0.0
+/CalidadSoftware/Mobimedline/Size/43/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/SW Use/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Test/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Design/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Code/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Reqts/Time,0.0
+/CalidadSoftware/Mobimedline/Planning/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Postmortem/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Software_Project_Count,0.0
+/CalidadSoftware/Mobimedline/SW Test Prep/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/32/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Sys Design Review/Estimated % Phase Yield,0.7
+/CalidadSoftware/Mobimedline/Sys Design Review/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Test Prep/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Sys Qual Test,1.0
+/CalidadSoftware/Mobimedline/SW Design/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Estimated PQI,1.0
+/CalidadSoftware/Mobimedline/Oversight/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List,
+/CalidadSoftware/Mobimedline/Aggregate DLD Lines,0.0
+/CalidadSoftware/Mobimedline/Size/5/Metric_Eff_Units,Test Cases
+/CalidadSoftware/Mobimedline/Oversight/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Int Test/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Qual Test/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/6/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Test,
+/CalidadSoftware/Mobimedline/Estimated Base LOC,0.0
+/CalidadSoftware/Mobimedline/Sys Test Prep/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Design Review/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Sys Test Prep/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Qual Test/Estimated % Phase Yield,0.5
+/CalidadSoftware/Mobimedline/Target Compile Defect Density,10.0
+/CalidadSoftware/Mobimedline/Design Review/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Team_Settings_Node,/Team_Settings /
+/CalidadSoftware/Mobimedline/SW Int Test/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Sys Design/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Oversight/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/SW Use Prep/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Size/28/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Before Development/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Design Review/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Estimated Test Cases Productivity,Infinity
+/CalidadSoftware/Mobimedline/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Estimated Aggregate Inspected SRS Pages,0.0
+/CalidadSoftware/Mobimedline/Size/4/Metric_Long_Name,STP Pages
+/CalidadSoftware/Mobimedline/Design/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Size/6/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Rollup_WBS_ID_Filter,,,
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Postmortem,
+/CalidadSoftware/Mobimedline/Sys Test Prep/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Size/13/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Misc/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Estimated Aggregate Text Pages,0.0
+/CalidadSoftware/Mobimedline/Estimated Quality_Profile_1,1.0
+/CalidadSoftware/Mobimedline/Rollup Tag,TAG
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Design Inspect,
+/CalidadSoftware/Mobimedline/Size/1/Metric_Long_Name,SSS Pages
+/CalidadSoftware/Mobimedline/Estimated Modified LOC,0.0
+/CalidadSoftware/Mobimedline/Size/0/Metric_Eff_Units,New & Changed LOC
+/CalidadSoftware/Mobimedline/Estimated Quality_Profile_4,1.0
+/CalidadSoftware/Mobimedline/Design Review/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Estimated Quality_Profile_5,1.0
+/CalidadSoftware/Mobimedline/SW Use Prep/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Estimated Quality_Profile_2,1.0
+/CalidadSoftware/Mobimedline/Estimated Quality_Profile_3,1.0
+/CalidadSoftware/Mobimedline/Aggregate Inspected SDD Pages,0.0
+/CalidadSoftware/Mobimedline/Node_Type,
+/CalidadSoftware/Mobimedline/Team_Directory,.
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Sys Design Review,
+/CalidadSoftware/Mobimedline/Sys Qual Test/Time,0.0
+/CalidadSoftware/Mobimedline/Sys Design/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Planning/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/SRS Pages,0.0
+/CalidadSoftware/Mobimedline/Target Design Review/Design Ratio,0.5
+/CalidadSoftware/Mobimedline/Estimated % Appraisal COQ,Infinity
+/CalidadSoftware/Mobimedline/Sys Design/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Object LOC,0.0
+/CalidadSoftware/Mobimedline/Test/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/SW Design/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Time,0.0
+/CalidadSoftware/Mobimedline/Estimated New & Changed LOC,0.0
+/CalidadSoftware/Mobimedline/Rollup_Filter_Prototype,[Completed] > [{Rollup As Of Date}]
+/CalidadSoftware/Mobimedline/SW Use/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Project_Path_Prefix,/CalidadSoftware/Mobimedline
+/CalidadSoftware/Mobimedline/Code/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/38/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Code Inspect,1.0
+/CalidadSoftware/Mobimedline/SW Reqts Review/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/SW Use/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Design Review/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/AFR,Infinity
+/CalidadSoftware/Mobimedline/Sys Design Review/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Development Env/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/SW Use,
+/CalidadSoftware/Mobimedline/SW Design Review/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Compile,1.0
+/CalidadSoftware/Mobimedline/Design Review vs Test/Defect Ratio,Infinity
+/CalidadSoftware/Mobimedline/Size/0/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Development Env/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/SRS Pages/Appraisal Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts Review/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Use/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Code Inspect/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Development Env/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Size/17/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Inspected SDD Pages,0.0
+/CalidadSoftware/Mobimedline/Size/7/Metric_ID,Text Pages
+/CalidadSoftware/Mobimedline/Estimated Added LOC,0.0
+/CalidadSoftware/Mobimedline/SW Int Test/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Size/34/Plan Size,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Rollup_Filter_Regexp,m\n^(\\Q\\E)(/.+)?$\n
+/CalidadSoftware/Mobimedline/Size/14/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/SW Use/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Aggregate Inspected New & Changed LOC,0.0
+/CalidadSoftware/Mobimedline/Size/7/Metric_Eff_Units,Text Pages
+/CalidadSoftware/Mobimedline/Code Review/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/PDSSD-rollup-prototype Tag,TAG
+/CalidadSoftware/Mobimedline/Synchronized_Task_ID_WBS_Order,none
+/CalidadSoftware/Mobimedline/Oversight/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Code/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Sys Design/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Estimated End to End SRS Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Estimated End to End SSDD Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Oversight/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Design Inspect/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/QP_DLDR_Time,0.0
+/CalidadSoftware/Mobimedline/Size/6/Metric_Name,SDD Pages
+/CalidadSoftware/Mobimedline/Analyze Rollup Data/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Test Prep/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/QP_CODE_Time,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Project_ID,mu7v4u53
+/CalidadSoftware/Mobimedline/Sys Test Prep/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Estimated Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Design Review/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Workflow_Param/PSP/Design Review/Estimated % Phase Yield,0.7
+/CalidadSoftware/Mobimedline/Inspected Text Pages,0.0
+/CalidadSoftware/Mobimedline/Sys Int Test/DRL,NaN
+/CalidadSoftware/Mobimedline/Estimated SDD Pages,0.0
+/CalidadSoftware/Mobimedline/Size/1/Managed_Prefix,Sized_Objects/SSS Pages
+/CalidadSoftware/Mobimedline/SW Design Inspect/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Code,1.0
+/CalidadSoftware/Mobimedline/SW Design Review/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Estimated Aggregate Inspected DLD Lines,0.0
+/CalidadSoftware/Mobimedline/Code/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Planning/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Use Prep/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Misc/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/12/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Oversight/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Total Development /Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Estimated Inspected SSS Pages,0.0
+/CalidadSoftware/Mobimedline/Code/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Int Test/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Sys Test Prep/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/8/Metric_Long_Name,Detailed Design Lines
+/CalidadSoftware/Mobimedline/Code Review/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Size/47/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Sys Design Review/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Design Review/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Code Inspect/Estimated % Phase Yield,0.7
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Estimated % Phase Yield,0.7
+/CalidadSoftware/Mobimedline/Test Cases/Size_Index,5.0
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Estimated Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Sys Reqts Inspect,
+/CalidadSoftware/Mobimedline/Rollup_Filter,nvlz(!defined([{Filtered_Task_Labels}]), intersects([{Filtered_Task_Labels}], [EV_Task_IDs])) && nvlz([Project_WBS_ID] == [{Project_WBS_ID_Filter}], startsWith([{Project_WBS_ID_Filter}] & "/", [Project_WBS_ID]))
+/CalidadSoftware/Mobimedline/Estimated % Reused,Infinity
+/CalidadSoftware/Mobimedline/Sys Qual Test/Estimated % Phase Yield,0.5
+/CalidadSoftware/Mobimedline/Development Env/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Oversight/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Compile/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Planning/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/TRR/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Workflow_Param/PSP/Compile/Estimated Defects Injected per Hour,0.3
+/CalidadSoftware/Mobimedline/Yield_Phase_List,OversightDevelopment EnvPlanningSys ReqtsSys Reqts ReviewSys Reqts InspectSys Test PrepSys DesignSys Design ReviewSys Design InspectSW ReqtsSW Reqts ReviewSW Reqts InspectSW Test PrepSW DesignSW Design ReviewSW Design InspectDesignDesign ReviewDesign InspectCodeCode Review
+/CalidadSoftware/Mobimedline/Sys Reqts/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/SW Design Review/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Aggregate STP Pages,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/SW Design/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/STP Pages/Estimated Appraisal Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Size/21/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Code Inspect/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Int Test/Time,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Review/Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Text Pages/Estimated Appraisal Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Text Pages/Size_Index,7.0
+/CalidadSoftware/Mobimedline/Size/39/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Estimated Test Cases,0.0
+/CalidadSoftware/Mobimedline/Postmortem/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Synchronized_Task_Label_Sort_Order,none
+/CalidadSoftware/Mobimedline/Analyze Rollup Data/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Misc,
+/CalidadSoftware/Mobimedline/STP Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Sys Test Prep/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Design Inspect/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Postmortem/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/TRR/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Test Prep/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Total Development /Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Code Review/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/4/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Inspected New & Changed KLOC,0.0
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/CR_vs_CODE/Estimated Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/SW Int Test/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Exclude Children of Rollup_List for Defects,TAG
+/CalidadSoftware/Mobimedline/Code Review/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Int Test/Estimated % Phase Yield,0.5
+/CalidadSoftware/Mobimedline/Planning/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Analyze Rollup Data/Estimated Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Estimated New & Changed LOC Productivity,Infinity
+/CalidadSoftware/Mobimedline/End to End Test Cases Productivity,Infinity
+/CalidadSoftware/Mobimedline/SW Design Review/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Qual Test/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Size/20/Unmanaged_List,
+/CalidadSoftware/Mobimedline/SW Test Prep/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Test Cases Productivity,Infinity
+/CalidadSoftware/Mobimedline/TRR/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/node,TAG
+/CalidadSoftware/Mobimedline/Analyze Rollup Data/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/SW Design Review/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Design Review/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/SW Design/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Test Cases,0.0
+/CalidadSoftware/Mobimedline/Sys Design Review/Time,0.0
+/CalidadSoftware/Mobimedline/SW Qual Test/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts Review/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Estimated % Phase Yield,0.7
+/CalidadSoftware/Mobimedline/SW Design/Time,0.0
+/CalidadSoftware/Mobimedline/Size_Metric_Long_Name_List,New & Changed LOCSSS PagesSSDD PagesSRS PagesSTP PagesTest CasesSDD PagesText PagesDetailed Design Lines
+/CalidadSoftware/Mobimedline/SW Design Inspect/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Test Prep/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Project_WBS_ID,mu7v4u53
+/CalidadSoftware/Mobimedline/Size/5/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Size/1/Metric_ID,SSS Pages
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Sys Design Inspect,
+/CalidadSoftware/Mobimedline/SW Int Test/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Design/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Qual Test/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Qual Test/DRL,NaN
+/CalidadSoftware/Mobimedline/Size/46/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Estimated SSDD Pages Productivity,Infinity
+/CalidadSoftware/Mobimedline/Compile/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/EXPORT_FILE/Disabled,0.0
+/CalidadSoftware/Mobimedline/SW Use/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/SW Design Review,1.0
+/CalidadSoftware/Mobimedline/Team_Data_Directory,.\\data\\mu7v4u53
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Estimated Time,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/TRR/DRL,NaN
+/CalidadSoftware/Mobimedline/Workflow_Param/PSP/Code Review/Estimated % Phase Yield,0.7
+/CalidadSoftware/Mobimedline/Size/41/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/SW Reqts/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Design/Time,0.0
+/CalidadSoftware/Mobimedline/SW Design Review/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Reqts/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Sys Qual Test/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/6/Unmanaged_List,
+/CalidadSoftware/Mobimedline/SW Design/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/SW Reqts Inspect,
+/CalidadSoftware/Mobimedline/SW Design Review/Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Sys Test Prep/Time,0.0
+/CalidadSoftware/Mobimedline/Size/3/Metric_ID,SRS Pages
+/CalidadSoftware/Mobimedline/Planning/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Sys Design Inspect,1.0
+/CalidadSoftware/Mobimedline/SW Int Test/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Time,0.0
+/CalidadSoftware/Mobimedline/Estimated Aggregate SSS Pages,0.0
+/CalidadSoftware/Mobimedline/Size/44/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Misc/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Size/48/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/Sys Int Test/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Workflow_Param/PSP/Design Review/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Sys Design/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/SW Use/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Estimated Object LOC,0.0
+/CalidadSoftware/Mobimedline/Size/15/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Workflow_Param/PSP/Postmortem/Estimated Defects Injected per Hour,0.0
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/Code Review,1.0
+/CalidadSoftware/Mobimedline/Size/7/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Size/40/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Estimated Aggregate SSDD Pages,0.0
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Design Review,
+/CalidadSoftware/Mobimedline/Misc/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Sys Int Test/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Development Env/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/QP_Estimated CR_Time,0.0
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Test/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/37/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Inspected STP Pages,0.0
+/CalidadSoftware/Mobimedline/Process_ID,PDSSD
+/CalidadSoftware/Mobimedline/SW Design Inspect/Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Size/30/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Size/46/Actual Size,0.0
+/CalidadSoftware/Mobimedline/SW Int Test/Estimated DRL,NaN
+/CalidadSoftware/Mobimedline/Size/26/Managed_Owned_List,
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Development Env,
+/CalidadSoftware/Mobimedline/Design Inspect/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/40/Actual Size,0.0
+/CalidadSoftware/Mobimedline/New Reused LOC,0.0
+/CalidadSoftware/Mobimedline/Size/43/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Size/49/Managed_Prefix,Sized_Objects/
+/CalidadSoftware/Mobimedline/TRR/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts/Estimated Defects Injected per Hour,0.25
+/CalidadSoftware/Mobimedline/SW Use/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Sys Test Prep/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Design Inspect/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/SW Design/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/SW Test Prep/Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/Sys Qual Test/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/SDD Pages/Appraisal Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Size/7/Unmanaged_List,
+/CalidadSoftware/Mobimedline/SW Reqts Review/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/3/Metric_Name,SRS Pages
+/CalidadSoftware/Mobimedline/Code Review vs Code/Time Ratio,Infinity
+/CalidadSoftware/Mobimedline/Size/8/Unmanaged_List,
+/CalidadSoftware/Mobimedline/SW Qual Test/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Code/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Reqts Inspect/DRL,NaN
+/CalidadSoftware/Mobimedline/SW Use Prep/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/SW Use Prep/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Size/40/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Size/32/Actual Size,0.0
+/CalidadSoftware/Mobimedline/Size/0/Metric_Name,LOC
+/CalidadSoftware/Mobimedline/DLD Lines,0.0
+/CalidadSoftware/Mobimedline/Code Review/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Inspect/Estimated % Phase Yield,0.7
+/CalidadSoftware/Mobimedline/Design Review/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Postmortem/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Analyze Rollup Data/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Compile/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Aggregate New & Changed LOC,0.0
+/CalidadSoftware/Mobimedline/TRR/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Sys Reqts,
+/CalidadSoftware/Mobimedline/Inspected DLD Lines Estimating Error,Infinity
+/CalidadSoftware/Mobimedline/Sys Int Test/Estimated Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Design Inspect/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Code Inspect/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/SW Qual Test/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Test Prep/Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Phase_Display_Filter_Include/SW Use,1.0
+/CalidadSoftware/Mobimedline/Sys Reqts Review/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Analyze Rollup Data/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/QP_COMP_Def,Infinity
+/CalidadSoftware/Mobimedline/Size/15/Plan Size,0.0
+/CalidadSoftware/Mobimedline/Sys Reqts Review/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Estimated Inspected Text Pages,0.0
+/CalidadSoftware/Mobimedline/Design Inspect/Estimated Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Size/10/Unmanaged_List,
+/CalidadSoftware/Mobimedline/Postmortem/Estimated Defects Removed,0.0
+/CalidadSoftware/Mobimedline/PDSSD /Effective_Phase,?????
+/CalidadSoftware/Mobimedline/Inspected New & Changed LOC Estimating Error,Infinity
+/CalidadSoftware/Mobimedline/Size Estimating Error,Infinity
+/CalidadSoftware/Mobimedline/Misc/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/Sys Int Test/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Sys Design Review/Estimated Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Namespaced_Rollup_List/Sys Int Test,
+/CalidadSoftware/Mobimedline/Test/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Design Review/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Sys Reqts Review/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/SW Design Review/Estimated Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/Size/Max_Num,50.0
+/CalidadSoftware/Mobimedline/Workflow_Param/PSP/Planning/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Design Review/Estimated % Phase Yield,0.7
+/CalidadSoftware/Mobimedline/% Failure COQ,Infinity
+/CalidadSoftware/Mobimedline/Aggregate Inspected SSDD Pages,0.0
+/CalidadSoftware/Mobimedline/SW Design Review/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Size/2/Metric_Eff_Units,SSDD Pages
+/CalidadSoftware/Mobimedline/Estimated Aggregate Inspected New & Changed LOC,0.0
+/CalidadSoftware/Mobimedline/SW Design Inspect/Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/Compile/% Phase Yield,Infinity
+/CalidadSoftware/Mobimedline/Design Inspect/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Compile/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/TRR/Estimated Appraisal Rate,Infinity
+/CalidadSoftware/Mobimedline/SW Design Inspect/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/SW Design Review/Defects_Removed_So_Far,0.0
+/CalidadSoftware/Mobimedline/Aggregate SDD Pages,0.0
+/CalidadSoftware/Mobimedline/Project_WBS_ID_Filter,mu7v4u53
+/CalidadSoftware/Mobimedline/SW Int Test/Defect Density,Infinity
+/CalidadSoftware/Mobimedline/Code/Estimated % Phase Yield,0.0
+/CalidadSoftware/Mobimedline/Postmortem/Defects Removed,0.0
+/CalidadSoftware/Mobimedline/Code Inspect/Defects Injected per Hour,Infinity
+/CalidadSoftware/Mobimedline/TRR/Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/SW Use Prep/Estimated Defect Injection Density,Infinity
+/CalidadSoftware/Mobimedline/Code Review/Estimated Defects Injected,0.0
+/CalidadSoftware/Mobimedline/Size/42/Plan Size,0.0
+/CalidadSoftware/Mobimedline/SW Use/Estimated % Process Yield,Infinity
+/CalidadSoftware/Mobimedline/Inspected SSDD Pages Estimating Error,Infinity
+/CalidadSoftware/Mobimedline/Sys Design Review/Estimated Defects_Injected_So_Far,0.0
+/CalidadSoftware/Mobimedline/SW Design Review/% Process Yield,Infinity
+/CalidadSoftware/Mobimedline/STP Pages/Appraisal Time Ratio,Infinity
+/CalidadSoftware/PSP0/HLD Review/Time To Date,0.0
+/CalidadSoftware/PSP0/Planning/Estimated Defects Injected,0.0
+/CalidadSoftware/PSP0/Code Review/Cumulative Defect Removal % To Date,0.7692307692307692
+/CalidadSoftware/PSP0/Sized_Objects/0/Sized_Object_Units,New & Changed LOC
+/CalidadSoftware/PSP0/Compile/Estimated Time To Date,0.0
+/CalidadSoftware/PSP0/Design Review vs Design/Estimated Time Ratio,NaN
+/CalidadSoftware/PSP0/Code/Defects Injected per Hour To Date,3.9999999999999996
+/CalidadSoftware/PSP0/Size,0.0
+/CalidadSoftware/PSP0/Code/Defect Density To Date,4.999999999999999
+/CalidadSoftware/PSP0/Design Review/Defects Injected per Hour,Infinity
+/CalidadSoftware/PSP0/Postmortem/Estimated Defects Injected per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Base_Parts/0/Modified To Date,0.0
+/CalidadSoftware/PSP0/Postmortem/node,TAG
+/CalidadSoftware/PSP0/Test/Estimated Defect Injection Density To Date,Infinity
+/CalidadSoftware/PSP0/Code Review/Defects Removed per Hour To Date,6.0
+/CalidadSoftware/PSP0/Design Review/Defects Injected per Hour To Date,0.0
+/CalidadSoftware/PSP0/After Development/Defects Removed,0.0
+/CalidadSoftware/PSP0/Design Review/Time To Date,6.0E-5
+/CalidadSoftware/PSP0/Code/Defects Removed,4.0
+/CalidadSoftware/PSP0/Object LOC To Date,0.0
+/CalidadSoftware/PSP0/Design vs Code/Estimated Time Ratio To Date,Infinity
+/CalidadSoftware/PSP0/Code Review/Defects Injected per Hour,Infinity
+/CalidadSoftware/PSP0/Code/Estimated Defects Injected per Hour,NaN
+/CalidadSoftware/PSP0/Design/Estimated Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Proxy Size To Date,0.0
+/CalidadSoftware/PSP0/Planning/Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Code Review/Phase_Color,#00c000
+/CalidadSoftware/PSP0/Planning_Is_Done,1.0
+/CalidadSoftware/PSP0/Design/Defects Removed per Hour,0.0
+/CalidadSoftware/PSP0/Design Review/Defects Removed per Hour,Infinity
+/CalidadSoftware/PSP0/Design Review/Defect Density,Infinity
+/CalidadSoftware/PSP0/Design vs Code/Time Ratio To Date,1.0
+/CalidadSoftware/PSP0/Postmortem/Defect Injection Density To Date,0.0
+/CalidadSoftware/PSP0/Design Review/Appraisal Rate To Date,200.0
+/CalidadSoftware/PSP0/Design/Combined Defects Injected,2.0
+/CalidadSoftware/PSP0/Planning/Estimated Defect Injection Density,NaN
+/CalidadSoftware/PSP0/Before Development/Defects Injected,0.0
+/CalidadSoftware/PSP0/Sized_Objects/0/Estimated Size To Date,0.0
+/CalidadSoftware/PSP0/HLD Review/DRL To Date,Infinity
+/CalidadSoftware/PSP0/Base_Parts/0/Actual Base To Date,0.0
+/CalidadSoftware/PSP0/Compile/DRL,3.5294117647058827
+/CalidadSoftware/PSP0/Design Review/Estimated Defect Density,NaN
+/CalidadSoftware/PSP0/HLD/Defects Injected per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Code/Time,492.0
+/CalidadSoftware/PSP0/Design vs Code/Estimated Time Ratio,NaN
+/CalidadSoftware/PSP0/Design Review/Estimated Defects Injected per Hour,Infinity
+/CalidadSoftware/PSP0/Sized_Objects/0/Sized_Object_Units_ID,LOC
+/CalidadSoftware/PSP0/Code/Estimated Time To Date,0.0
+/CalidadSoftware/PSP0/Estimated Defect Density,NaN
+/CalidadSoftware/PSP0/Design/Defects Injected per Hour,0.5106382978723404
+/CalidadSoftware/PSP0/Code Review/Estimated Appraisal Rate,NaN
+/CalidadSoftware/PSP0/Time Estimating Error,NaN
+/CalidadSoftware/PSP0/Reassessment/Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/Estimated Time/LPI To Date,0.0
+/CalidadSoftware/PSP0/Test/Time,65.0
+/CalidadSoftware/PSP0/Design Review/Defects Removed To Date,3.0E-6
+/CalidadSoftware/PSP0/Design/Estimated Defects Injected,0.0
+/CalidadSoftware/PSP0/Simple Project Tag,TAG
+/CalidadSoftware/PSP0/Reassessment/Estimated Time To Date,0.0
+/CalidadSoftware/PSP0/Base LOC,0.0
+/CalidadSoftware/PSP0/Size To Date,2.0E-4
+/CalidadSoftware/PSP0/Reassessment/Estimated Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/Estimated Added & Modified Size/LPI To Date,0.0
+/CalidadSoftware/PSP0/Design Review/Estimated Time,0.0
+/CalidadSoftware/PSP0/Code/Defect Injection Density,Infinity
+/CalidadSoftware/PSP0/Normalization %/Defects Injected/PSP0-2 To Date,1.0
+/CalidadSoftware/PSP0/Estimated Quality_Profile_1,1.0
+/CalidadSoftware/PSP0/PM/Defects Removed,0.0
+/CalidadSoftware/PSP0/Quality_Profile_5 To Date,1.0
+/CalidadSoftware/PSP0/HLD Review/Appraisal Rate To Date,Infinity
+/CalidadSoftware/PSP0/Reassessment/Defect Density To Date,0.0
+/CalidadSoftware/PSP0/Design Review/Estimated Defects Injected per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Design Review vs Design/Time Ratio To Date,0.5
+/CalidadSoftware/PSP0/Estimated Quality_Profile_4,1.0
+/CalidadSoftware/PSP0/Design Review/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/PSP0/Estimated Quality_Profile_5,1.0
+/CalidadSoftware/PSP0/Estimated Quality_Profile_2,1.0
+/CalidadSoftware/PSP0/Estimated Quality_Profile_3,1.0
+/CalidadSoftware/PSP0/Code Review/Estimated DRL To Date,NaN
+/CalidadSoftware/PSP0/Code Review/DRL,Infinity
+/CalidadSoftware/PSP0/Code/Estimated Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Design/Node_Type,(Design)
+/CalidadSoftware/PSP0/Compile/Phase_Color,#ffe000
+/CalidadSoftware/PSP0/Reassessment/Estimated Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/ESTIMATED Time To Date,0.0
+/CalidadSoftware/PSP0/Design Review/Estimated Defects Injected,0.0
+/CalidadSoftware/PSP0/Code/Defects Removed per Hour,0.4878048780487805
+/CalidadSoftware/PSP0/Code/Defect Density,Infinity
+/CalidadSoftware/PSP0/LOC per Hour To Date,25.0
+/CalidadSoftware/PSP0/Quality_Phase_List,Design ReviewCode ReviewCompileTest
+/CalidadSoftware/PSP0/Estimated % Appraisal COQ,NaN
+/CalidadSoftware/PSP0/Postmortem/Estimated Time To Date,0.0
+/CalidadSoftware/PSP0/Reassessment/Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Design/Estimated Defects Removed,0.0
+/CalidadSoftware/PSP0/Design/Cumulative Defect Injection %,0.4
+/CalidadSoftware/PSP0/Estimated_Time_Mismatch To Date,0.0
+/CalidadSoftware/PSP0/Postmortem/Estimated Defect Density To Date,Infinity
+/CalidadSoftware/PSP0/Base_Parts/0/Base To Date,0.0
+/CalidadSoftware/PSP0/HLD Review vs HLD/Estimated Time Ratio,NaN
+/CalidadSoftware/PSP0/Test/Estimated Defects Injected,0.0
+/CalidadSoftware/PSP0/Code/Time To Date,1.2E-4
+/CalidadSoftware/PSP0/Design Review/Cumulative Defect Removal %,0.0
+/CalidadSoftware/PSP0/Planning/Defects Removed,0.0
+/CalidadSoftware/PSP0/Test/Defects Removed per Hour To Date,0.9999999999999999
+/CalidadSoftware/PSP0/Postmortem/Defect Density,Infinity
+/CalidadSoftware/PSP0/Code/Combined Time,492.0
+/CalidadSoftware/PSP0/HLD/Estimated Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/% Appraisal COQ To Date,0.25
+/CalidadSoftware/PSP0/New & Changed LOC To Date,2.0E-4
+/CalidadSoftware/PSP0/Postmortem/Estimated Defect Injection Density To Date,Infinity
+/CalidadSoftware/PSP0/% New Reused To Date,0.0
+/CalidadSoftware/PSP0/HLD Review vs HLD/Time Ratio To Date,Infinity
+/CalidadSoftware/PSP0/Bottom_Up_Estimated Time To Date,NaN
+/CalidadSoftware/PSP0/Design/Estimated Defect Density,NaN
+/CalidadSoftware/PSP0/Postmortem/Estimated Defects Injected,0.0
+/CalidadSoftware/PSP0/Design/Estimated Defects Injected per Hour,NaN
+/CalidadSoftware/PSP0/HLD vs Design/Estimated Time Ratio,NaN
+/CalidadSoftware/PSP0/Design/Combined Defects Removed,0.0
+/CalidadSoftware/PSP0/Size Estimating Error To Date,Infinity
+/CalidadSoftware/PSP0/Estimated Quality_Profile_1 To Date,1.0
+/CalidadSoftware/PSP0/PROBE_TARGET_SIZE_METRIC_NAME,Added & Modified Size
+/CalidadSoftware/PSP0/Compile/Cumulative Defect Removal %,1.0
+/CalidadSoftware/PSP0/HLD Review/Estimated Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/Estimated New & Changed KLOC To Date,0.0
+/CalidadSoftware/PSP0/Estimated Added & Modified Size/UPI To Date,0.0
+/CalidadSoftware/PSP0/Code Review/Appraisal Rate To Date,200.0
+/CalidadSoftware/PSP0/Estimated Base LOC To Date,0.0
+/CalidadSoftware/PSP0/% COQ To Date,0.4
+/CalidadSoftware/PSP0/Code/Cumulative Defect Injection %,0.8
+/CalidadSoftware/PSP0/Code/Estimated Defect Density,NaN
+/CalidadSoftware/PSP0/Base_Parts/0/Deleted To Date,0.0
+/CalidadSoftware/PSP0/Code Review/Estimated Defects Injected per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Quality Profile Capable,TAG
+/CalidadSoftware/PSP0/New & Changed KLOC,0.0
+/CalidadSoftware/PSP0/PSP0 Tag,TAG
+/CalidadSoftware/PSP0/Test/Phase_Color,#ff9900
+/CalidadSoftware/PSP0/FreezeFlag/.*Estimated.*,0.0
+/CalidadSoftware/PSP0/Added & Modified Size,0.0
+/CalidadSoftware/PSP0/Code Review/Defects Injected per Hour To Date,0.0
+/CalidadSoftware/PSP0/Test/Defects Injected,0.0
+/CalidadSoftware/PSP0/Design Review/Estimated Defects Removed,0.0
+/CalidadSoftware/PSP0/AFR,0.0
+/CalidadSoftware/PSP0/HLD/Estimated Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Estimated Added & Modified Size To Date,0.0
+/CalidadSoftware/PSP0/Code Review/Defects Injected,0.0
+/CalidadSoftware/PSP0/Estimated Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Estimated New & Changed LOC To Date,0.0
+/CalidadSoftware/PSP0/Compile/Defects Injected To Date,1.0E-6
+/CalidadSoftware/PSP0/Planning_Is_Done To Date,1.0
+/CalidadSoftware/PSP0/HLD Review/Estimated Defect Density To Date,Infinity
+/CalidadSoftware/PSP0/Total LOC,0.0
+/CalidadSoftware/PSP0/Design Review/Estimated DRL,Infinity
+/CalidadSoftware/PSP0/Test/Defects Removed per KLOC To Date,4.999999999999999
+/CalidadSoftware/PSP0/Reassessment/Time To Date,0.0
+/CalidadSoftware/PSP0/Compile/Defect Injection Density,Infinity
+/CalidadSoftware/PSP0/Test/Cumulative Defect Removal % To Date,1.0
+/CalidadSoftware/PSP0/Code Review/Defect Density To Date,29.999999999999996
+/CalidadSoftware/PSP0/Test/Defect Injection Density,Infinity
+/CalidadSoftware/PSP0/After Development/Estimated Defects Removed,0.0
+/CalidadSoftware/PSP0/Postmortem/Estimated Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Code/Estimated Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/Reassessment/Defects Injected per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Code Review/Estimated Appraisal Rate To Date,Infinity
+/CalidadSoftware/PSP0/Estimated New & Changed LOC/LPI To Date,0.0
+/CalidadSoftware/PSP0/Test/leaf,TAG
+/CalidadSoftware/PSP0/Estimated Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/SIZE_METRIC_NAME,New & Changed LOC
+/CalidadSoftware/PSP0/Code Review/Defects Removed,0.0
+/CalidadSoftware/PSP0/Reassessment/Defects Removed per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Design/Combined Defects Removed To Date,3.0E-6
+/CalidadSoftware/PSP0/% COQ,0.045657015590200446
+/CalidadSoftware/PSP0/Sized_Objects/0/Description,PSP-Entered Size
+/CalidadSoftware/PSP0/HLD vs Design/Estimated Time Ratio To Date,Infinity
+/CalidadSoftware/PSP0/Compile/Force_Completed_Task_Time,0.0
+/CalidadSoftware/PSP0/Base Additions LOC To Date,0.0
+/CalidadSoftware/PSP0/PROBE_INPUT_SIZE_METRIC_NAME,Estimated Proxy Size
+/CalidadSoftware/PSP0/Planning/node,TAG
+/CalidadSoftware/PSP0/Modified LOC,0.0
+/CalidadSoftware/PSP0/Postmortem/Estimated Defects Removed per Hour,NaN
+/CalidadSoftware/PSP0/New Objects LOC To Date,0.0
+/CalidadSoftware/PSP0/Design/Phase_Color,#aaaaff
+/CalidadSoftware/PSP0/PSP To Date Subset Prefix,/To Date/PSP/All
+/CalidadSoftware/PSP0/Code Review/Estimated DRL,Infinity
+/CalidadSoftware/PSP0/PROBE_NO_EDIT_INPUT,TAG
+/CalidadSoftware/PSP0/Compile/Estimated Defects Injected per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Add_Task_Handler,none
+/CalidadSoftware/PSP0/Test/Estimated Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Test/Estimated Defect Density,NaN
+/CalidadSoftware/PSP0/Estimated Total LOC To Date,0.0
+/CalidadSoftware/PSP0/Phase_List,PlanningDesignDesign ReviewCodeCode ReviewCompileTestPostmortem
+/CalidadSoftware/PSP0/Code Review/% Phase Yield,Infinity
+/CalidadSoftware/PSP0/Productivity To Date,25.0
+/CalidadSoftware/PSP0/PSP Project,TAG
+/CalidadSoftware/PSP0/Test/Estimated Defects Removed per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Planning/Defects Injected per Hour,0.0
+/CalidadSoftware/PSP0/Code Review/Estimated Time To Date,0.0
+/CalidadSoftware/PSP0/Code Review/Defect Density,Infinity
+/CalidadSoftware/PSP0/Code/Phase_Color,#66ff66
+/CalidadSoftware/PSP0/Compile/Cumulative Defect Removal % To Date,0.923076923076923
+/CalidadSoftware/PSP0/Code/Estimated Time,NaN
+/CalidadSoftware/PSP0/Postmortem/Time,0.0
+/CalidadSoftware/PSP0/Code Review/Cumulative Defect Removal %,0.8
+/CalidadSoftware/PSP0/Reassessment/Estimated Defects Removed per Hour To Date,Infinity
+/CalidadSoftware/PSP0/HLD Review/Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/PSP Rollup Eligible,TAG
+/CalidadSoftware/PSP0/Design Review/Estimated Time To Date,0.0
+/CalidadSoftware/PSP0/Estimated Size To Date,0.0
+/CalidadSoftware/PSP0/Quality_Profile_4 To Date,1.0000000000000002
+/CalidadSoftware/PSP0/PROBE_Input_Mismatch To Date,0.0
+/CalidadSoftware/PSP0/Code Review/Defect Injection Density,Infinity
+/CalidadSoftware/PSP0/PROBE_Time_Output_Mismatch To Date,0.0
+/CalidadSoftware/PSP0/Base Added LOC To Date,0.0
+/CalidadSoftware/PSP0/Design Review/Defects Injected,0.0
+/CalidadSoftware/PSP0/PQI To Date,1.0
+/CalidadSoftware/PSP0/Estimated New & Changed KLOC,NaN
+/CalidadSoftware/PSP0/Planning/Estimated Defects Removed,0.0
+/CalidadSoftware/PSP0/Code Review/Estimated Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/Estimated New Reused LOC To Date,0.0
+/CalidadSoftware/PSP0/Test/Defects Removed,0.0
+/CalidadSoftware/PSP0/Total LOC To Date,2.0E-4
+/CalidadSoftware/PSP0/Design Review/Estimated Defect Injection Density To Date,Infinity
+/CalidadSoftware/PSP0/Estimated % COQ,NaN
+/CalidadSoftware/PSP0/Compile/Estimated Defects Injected per Hour,NaN
+/CalidadSoftware/PSP0/Estimated AFR,NaN
+/CalidadSoftware/PSP0/Code Review vs Code/Estimated Time Ratio,NaN
+/CalidadSoftware/PSP0/Code/node,TAG
+/CalidadSoftware/PSP0/Time To Date,4.8E-4
+/CalidadSoftware/PSP0/Code/Defects Removed per Hour To Date,0.49999999999999994
+/CalidadSoftware/PSP0/Sized_Objects/0/Size,0.0
+/CalidadSoftware/PSP0/PSP3_Cycle_Count To Date,0.0
+/CalidadSoftware/PSP0/Estimated % Reused To Date,Infinity
+/CalidadSoftware/PSP0/Design/node,TAG
+/CalidadSoftware/PSP0/HLD Review/Estimated Defects Injected per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Estimated PQI To Date,1.0
+/CalidadSoftware/PSP0/Estimated Aggregate Size To Date,0.0
+/CalidadSoftware/PSP0/Compile/Defects Injected per Hour,3.5294117647058822
+/CalidadSoftware/PSP0/Code/Combined Estimated Time To Date,0.0
+/CalidadSoftware/PSP0/Defects Injected,5.0
+/CalidadSoftware/PSP0/Test/Cumulative Defect Removal %,1.0
+/CalidadSoftware/PSP0/Design/Defects Removed per Hour To Date,0.0
+/CalidadSoftware/PSP0/Defects Injected per Hour To Date,1.6250000000000002
+/CalidadSoftware/PSP0/Code/Defects Injected per Hour,0.24390243902439024
+/CalidadSoftware/PSP0/Estimated Reused LOC To Date,0.0
+/CalidadSoftware/PSP0/Design/Defect Density To Date,0.0
+/CalidadSoftware/PSP0/Estimated Base Added LOC To Date,0.0
+/CalidadSoftware/PSP0/Appraisal_Phase_List,Design ReviewCode Review
+/CalidadSoftware/PSP0/Estimated Productivity To Date,Infinity
+/CalidadSoftware/PSP0/Estimated % Failure COQ To Date,Infinity
+/CalidadSoftware/PSP0/Planning/Estimated Defects Removed per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Design Review/DRL To Date,3.0000000000000004
+/CalidadSoftware/PSP0/PM/Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Design/Estimated Time,NaN
+/CalidadSoftware/PSP0/Design Review/DRL,Infinity
+/CalidadSoftware/PSP0/CPI,NaN
+/CalidadSoftware/PSP0/PM/Time To Date,2.4E-5
+/CalidadSoftware/PSP0/Normalization %/Time/PSP3cycle To Date,0.9
+/CalidadSoftware/PSP0/Design Review/% Phase Yield To Date,0.75
+/CalidadSoftware/PSP0/Code/Estimated Defect Injection Density,NaN
+/CalidadSoftware/PSP0/Estimated Additions LOC To Date,0.0
+/CalidadSoftware/PSP0/Design/Estimated Defects Removed per Hour,NaN
+/CalidadSoftware/PSP0/Design Review/Estimated Defects Removed per Hour To Date,Infinity
+/CalidadSoftware/PSP0/HLD Review/Estimated Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Test/Estimated Defects Removed,0.0
+/CalidadSoftware/PSP0/HLD/Defects Removed per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Code Review/Estimated Time,0.0
+/CalidadSoftware/PSP0/Postmortem/Defects Removed per Hour,Infinity
+/CalidadSoftware/PSP0/AGGR_SIZE_METRIC_NAME_ABBR,KLOC
+/CalidadSoftware/PSP0/Design/Defect Injection Density To Date,19.999999999999996
+/CalidadSoftware/PSP0/Compile/Estimated Defects Removed,0.0
+/CalidadSoftware/PSP0/HLD vs Design/Time Ratio To Date,0.0
+/CalidadSoftware/PSP0/Design Review/Estimated Defect Injection Density,NaN
+/CalidadSoftware/PSP0/HLD/Time To Date,0.0
+/CalidadSoftware/PSP0/Planning/Defects Removed per Hour To Date,0.0
+/CalidadSoftware/PSP0/Postmortem/Estimated Defects Injected per Hour,NaN
+/CalidadSoftware/PSP0/PROBE_ACT_SIZE_SYNC_DELTA To Date,0.0
+/CalidadSoftware/PSP0/PM/Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/Test/Defect Injection Density To Date,0.0
+/CalidadSoftware/PSP0/Design vs Code/Time Ratio,0.47764227642276424
+/CalidadSoftware/PSP0/Compile/Defects Injected per Hour To Date,4.999999999999999
+/CalidadSoftware/PSP0/Compile/Estimated Defect Injection Density To Date,Infinity
+/CalidadSoftware/PSP0/HLD/Phase_Color,#cc66ff
+/CalidadSoftware/PSP0/New_Objects_Prefix_List To Date,/To Date/PSP/All/New Objects/0
+/CalidadSoftware/PSP0/Quality_Profile_1,0.47764227642276424
+/CalidadSoftware/PSP0/Child_List,PlanningDesignDesign ReviewCodeCode ReviewCompileTestPostmortem
+/CalidadSoftware/PSP0/Quality_Profile_2,0.0
+/CalidadSoftware/PSP0/Code Review/Appraisal Rate,Infinity
+/CalidadSoftware/PSP0/Quality_Profile_3,1.0
+/CalidadSoftware/PSP0/Quality_Profile_4,1.0
+/CalidadSoftware/PSP0/Code Review/Estimated Defect Injection Density,NaN
+/CalidadSoftware/PSP0/Quality_Profile_5,0.0
+/CalidadSoftware/PSP0/Test/Estimated Defects Removed per Hour,NaN
+/CalidadSoftware/PSP0/PM/Time,0.0
+/CalidadSoftware/PSP0/HLD Review/Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Code Review/Time To Date,6.0E-5
+/CalidadSoftware/PSP0/Test/Defects Injected per Hour,0.0
+/CalidadSoftware/PSP0/Postmortem/leaf,TAG
+/CalidadSoftware/PSP0/Before Development/Estimated Defects Injected To Date,NaN
+/CalidadSoftware/PSP0/Compile/Estimated Defect Density,NaN
+/CalidadSoftware/PSP0/Test/Node_Type,(Test)
+/CalidadSoftware/PSP0/Normalization %/Defects Removed/PSP3cycle To Date,1.0
+/CalidadSoftware/PSP0/Planning/Estimated Time,NaN
+/CalidadSoftware/PSP0/Defects per KLOC To Date,64.99999999999999
+/CalidadSoftware/PSP0/PROBE_Size_Output_Mismatch To Date,0.0
+/CalidadSoftware/PSP0/Yield_Phase_List,PlanningDesignDesign ReviewCodeCode Review
+/CalidadSoftware/PSP0/HLD Review/Estimated Time To Date,0.0
+/CalidadSoftware/PSP0/Reused Objects/0/Actual LOC To Date,0.0
+/CalidadSoftware/PSP0/Estimated Yield,Infinity
+/CalidadSoftware/PSP0/Normalization %/Defects Removed/PSP3 To Date,1.0
+/CalidadSoftware/PSP0/Design Review/Cumulative Defect Removal % To Date,0.23076923076923078
+/CalidadSoftware/PSP0/Code/Node_Type,(Code)
+/CalidadSoftware/PSP0/Planning/Estimated Time To Date,0.0
+/CalidadSoftware/PSP0/Estimated Defects Removed,0.0
+/CalidadSoftware/PSP0/Compile/Estimated Defect Density To Date,Infinity
+/CalidadSoftware/PSP0/Estimated % COQ To Date,Infinity
+/CalidadSoftware/PSP0/Modified LOC To Date,0.0
+/CalidadSoftware/PSP0/Compile/Estimated Defects Removed per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Test/Estimated Time To Date,0.0
+/CalidadSoftware/PSP0/HLD/Defect Injection Density To Date,0.0
+/CalidadSoftware/PSP0/HLD/Estimated Defects Injected per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Test/Estimated Defects Removed per KLOC To Date,Infinity
+/CalidadSoftware/PSP0/Added & Modified Size To Date,2.0E-4
+/CalidadSoftware/PSP0/Postmortem/Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/Code/Combined Defects Removed To Date,7.0E-6
+/CalidadSoftware/PSP0/Compile/Estimated Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Reused_Objects_Prefix_List To Date,/To Date/PSP/All/Reused Objects/0
+/CalidadSoftware/PSP0/Estimated Quality_Profile_2 To Date,1.0
+/CalidadSoftware/PSP0/Overhead_Phase_List,PlanningPostmortem
+/CalidadSoftware/PSP0/Compile/DRL To Date,10.0
+/CalidadSoftware/PSP0/Normalization %/Defects Removed/PSP0-2 To Date,1.0
+/CalidadSoftware/PSP0/Design Review/% Phase Yield,0.0
+/CalidadSoftware/PSP0/Estimated New & Changed LOC/UPI To Date,0.0
+/CalidadSoftware/PSP0/Planning/Estimated Defect Injection Density To Date,Infinity
+/CalidadSoftware/PSP0/Design/Estimated Defects Injected per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Compile/Node_Type,(Compile)
+/CalidadSoftware/PSP0/Postmortem/Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Compile/Force_Completed_Task_Time To Date,0.0
+/CalidadSoftware/PSP0/Postmortem/Estimated Time,NaN
+/CalidadSoftware/PSP0/Estimated Defects Injected,0.0
+/CalidadSoftware/PSP0/Before Development/Estimated Defects Injected,0.0
+/CalidadSoftware/PSP0/Planning/Phase_Color,#cdaa7d
+/CalidadSoftware/PSP0/Estimated Defect Density To Date,Infinity
+/CalidadSoftware/PSP0/Base_Additions_Prefix_List To Date,
+/CalidadSoftware/PSP0/Reused LOC To Date,0.0
+/CalidadSoftware/PSP0/Design/Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/HLD/Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Code Review/Estimated Defects Removed,0.0
+/CalidadSoftware/PSP0/Compile/Estimated Defects Removed per Hour,NaN
+/CalidadSoftware/PSP0/Design Review/Estimated Defect Density To Date,Infinity
+/CalidadSoftware/PSP0/Test/Time To Date,6.0E-5
+/CalidadSoftware/PSP0/Normalized_Estimated_Defects_Injected To Date,NaN
+/CalidadSoftware/PSP0/Code Review/Defects Removed per Hour,Infinity
+/CalidadSoftware/PSP0/HLD/Defect Density To Date,0.0
+/CalidadSoftware/PSP0/Code Review/Estimated Defects Injected per Hour,Infinity
+/CalidadSoftware/PSP0/Reassessment/Estimated Defect Injection Density To Date,Infinity
+/CalidadSoftware/PSP0/Design/Defects Injected,2.0
+/CalidadSoftware/PSP0/Code/Cumulative Defect Injection % To Date,0.9230769230769229
+/CalidadSoftware/PSP0/Design Review/Estimated Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/HLD Review/Estimated Appraisal Rate To Date,Infinity
+/CalidadSoftware/PSP0/Code Review/Time,0.0
+/CalidadSoftware/PSP0/HLD vs Design/Time Ratio,NaN
+/CalidadSoftware/PSP0/Design/Defects Removed,0.0
+/CalidadSoftware/PSP0/Before Development/Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Compile/Time,17.0
+/CalidadSoftware/PSP0/HLD Review vs HLD/Time Ratio,NaN
+/CalidadSoftware/PSP0/Defects Injected To Date,1.3000000000000001E-5
+/CalidadSoftware/PSP0/Compile/Estimated Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/Design/leaf,TAG
+/CalidadSoftware/PSP0/Base_Parts/0/Actual Modified To Date,0.0
+/CalidadSoftware/PSP0/Productivity,0.0
+/CalidadSoftware/PSP0/Reassessment/Estimated Defects Injected per Hour To Date,Infinity
+/CalidadSoftware/PSP0/% Reused To Date,0.0
+/CalidadSoftware/PSP0/Test/Defect Density,Infinity
+/CalidadSoftware/PSP0/Compile/Defects Injected,1.0
+/CalidadSoftware/PSP0/Code/Defects Removed To Date,1.0E-6
+/CalidadSoftware/PSP0/Estimated Quality_Profile_3 To Date,1.0
+/CalidadSoftware/PSP0/Design/Estimated Defect Density To Date,Infinity
+/CalidadSoftware/PSP0/Code/Defects Injected To Date,8.0E-6
+/CalidadSoftware/PSP0/Design Review/Time,0.0
+/CalidadSoftware/PSP0/node,TAG
+/CalidadSoftware/PSP0/Defect Density To Date,64.99999999999999
+/CalidadSoftware/PSP0/Time Estimating Error To Date,Infinity
+/CalidadSoftware/PSP0/Design Review/Defect Injection Density To Date,0.0
+/CalidadSoftware/PSP0/Defects Removed per Hour To Date,1.625
+/CalidadSoftware/PSP0/Compile/Defects Removed,1.0
+/CalidadSoftware/PSP0/AGGR_SIZE_METRIC_NAME,New & Changed KLOC
+/CalidadSoftware/PSP0/Deleted LOC To Date,0.0
+/CalidadSoftware/PSP0/Estimated Defects Removed per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Planning/Defect Injection Density To Date,0.0
+/CalidadSoftware/PSP0/Design/Estimated Defect Injection Density,NaN
+/CalidadSoftware/PSP0/Code/Estimated Defects Removed per Hour,NaN
+/CalidadSoftware/PSP0/Compile/Estimated Time,NaN
+/CalidadSoftware/PSP0/Postmortem/Defects Injected per Hour,Infinity
+/CalidadSoftware/PSP0/Development_Phase_List,DesignCode
+/CalidadSoftware/PSP0/Postmortem/Estimated Defect Injection Density,NaN
+/CalidadSoftware/PSP0/Code Review/Estimated Defect Density,NaN
+/CalidadSoftware/PSP0/Reassessment/Estimated Defect Density To Date,Infinity
+/CalidadSoftware/PSP0/Estimated Aggregate Size,NaN
+/CalidadSoftware/PSP0/Reused LOC,0.0
+/CalidadSoftware/PSP0/Planning/Estimated Defect Density,NaN
+/CalidadSoftware/PSP0/Design Review/Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Code Review vs Code/Estimated Time Ratio To Date,Infinity
+/CalidadSoftware/PSP0/Design/Cumulative Defect Injection % To Date,0.30769230769230765
+/CalidadSoftware/PSP0/Postmortem/Defects Injected,0.0
+/CalidadSoftware/PSP0/Normalization %/Defects Injected/PSP3 To Date,1.0
+/CalidadSoftware/PSP0/Planning/Estimated Defects Injected per Hour To Date,Infinity
+/CalidadSoftware/PSP0/New & Changed LOC,0.0
+/CalidadSoftware/PSP0/PQI,0.0
+/CalidadSoftware/PSP0/Reassessment/Defect Injection Density To Date,0.0
+/CalidadSoftware/PSP0/Design Review vs Design/Time Ratio,0.0
+/CalidadSoftware/PSP0/Code/Estimated Defects Injected,0.0
+/CalidadSoftware/PSP0/Design Review/Defects Removed,0.0
+/CalidadSoftware/PSP0/Compile/Estimated Defects Injected,0.0
+/CalidadSoftware/PSP0/Planning/Time,987.0
+/CalidadSoftware/PSP0/Sized_Objects/0/Estimated Size,0.0
+/CalidadSoftware/PSP0/Yield,1.0
+/CalidadSoftware/PSP0/Sized_Objects/0/Size To Date,2.0E-4
+/CalidadSoftware/PSP0/Planning/Defect Injection Density,Infinity
+/CalidadSoftware/PSP0/Test/Defects Removed To Date,1.0E-6
+/CalidadSoftware/PSP0/Estimated Productivity,NaN
+/CalidadSoftware/PSP0/Estimated % Appraisal COQ To Date,Infinity
+/CalidadSoftware/PSP0/Compile/Defects Removed per Hour,3.5294117647058822
+/CalidadSoftware/PSP0/Test/Estimated Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/Planning/Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/Normalization %/Time/PSP0-2 To Date,1.0
+/CalidadSoftware/PSP0/Last_Failure_Phase,Test
+/CalidadSoftware/PSP0/Code/Estimated Defect Injection Density To Date,Infinity
+/CalidadSoftware/PSP0/HLD Review/Defect Injection Density To Date,0.0
+/CalidadSoftware/PSP0/Planning/Node_Type,(Planning)
+/CalidadSoftware/PSP0/Design/Time,235.0
+/CalidadSoftware/PSP0/Design/Defects Injected To Date,4.0E-6
+/CalidadSoftware/PSP0/Code Review/Estimated Defect Density To Date,Infinity
+/CalidadSoftware/PSP0/Design/Estimated Defects Removed per Hour To Date,Infinity
+/CalidadSoftware/PSP0/% Appraisal COQ,0.0
+/CalidadSoftware/PSP0/Compile/leaf,TAG
+/CalidadSoftware/PSP0/New & Changed KLOC To Date,2.0000000000000002E-7
+/CalidadSoftware/PSP0/Estimated Proxy Size To Date,0.0
+/CalidadSoftware/PSP0/Design Review/Appraisal Rate,Infinity
+/CalidadSoftware/PSP0/Code/Estimated Defects Removed,0.0
+/CalidadSoftware/PSP0/Estimated Object LOC To Date,0.0
+/CalidadSoftware/PSP0/New Reused LOC To Date,0.0
+/CalidadSoftware/PSP0/Design/Combined Time,235.0
+/CalidadSoftware/PSP0/HLD Review/Estimated DRL To Date,NaN
+/CalidadSoftware/PSP0/Design Review/Estimated Appraisal Rate,NaN
+/CalidadSoftware/PSP0/Compile/Defects Removed To Date,2.0E-6
+/CalidadSoftware/PSP0/Code/Combined Defects Injected To Date,8.0E-6
+/CalidadSoftware/PSP0/Postmortem/Node_Type,(Postmortem)
+/CalidadSoftware/PSP0/Compile/Defect Density,Infinity
+/CalidadSoftware/PSP0/Base_Parts/0/Added To Date,0.0
+/CalidadSoftware/PSP0/% Failure COQ To Date,0.15
+/CalidadSoftware/PSP0/HLD/Estimated Time To Date,0.0
+/CalidadSoftware/PSP0/Time,1796.0
+/CalidadSoftware/PSP0/Reused Objects/0/LOC To Date,0.0
+/CalidadSoftware/PSP0/Design/Defects Injected per Hour To Date,1.9999999999999998
+/CalidadSoftware/PSP0/FILES_XML,,/pspDoc/custom.xml,/pspDoc/files.xml,
+/CalidadSoftware/PSP0/Added LOC,0.0
+/CalidadSoftware/PSP0/Defects Removed To Date,1.3E-5
+/CalidadSoftware/PSP0/Deleted LOC,0.0
+/CalidadSoftware/PSP0/After Development/Estimated Defects Removed To Date,NaN
+/CalidadSoftware/PSP0/PSP3_Cycle_Size To Date,0.0
+/CalidadSoftware/PSP0/Postmortem/Phase_Color,#996633
+/CalidadSoftware/PSP0/Code/Defect Injection Density To Date,39.99999999999999
+/CalidadSoftware/PSP0/Added LOC To Date,2.0E-4
+/CalidadSoftware/PSP0/Code/Estimated Defect Density To Date,Infinity
+/CalidadSoftware/PSP0/Planning/Defects Injected per Hour To Date,0.0
+/CalidadSoftware/PSP0/Yield To Date,0.8333333333333333
+/CalidadSoftware/PSP0/Test/Estimated Time,NaN
+/CalidadSoftware/PSP0/Compile/Estimated DRL,NaN
+/CalidadSoftware/PSP0/Base_Parts/0/Actual Added To Date,0.0
+/CalidadSoftware/PSP0/Design Review vs Design/Estimated Time Ratio To Date,Infinity
+/CalidadSoftware/PSP0/CPI To Date,0.0
+/CalidadSoftware/PSP0/Test/Estimated Defects Injected per Hour,NaN
+/CalidadSoftware/PSP0/Estimated Base Additions LOC To Date,0.0
+/CalidadSoftware/PSP0/Planning/leaf,TAG
+/CalidadSoftware/PSP0/Design Review/Phase_Color,#6666ff
+/CalidadSoftware/PSP0/Estimated % Failure COQ,NaN
+/CalidadSoftware/PSP0/Planning/Estimated Defects Injected per Hour,NaN
+/CalidadSoftware/PSP0/Process_ID,PSP0
+/CalidadSoftware/PSP0/AFR To Date,1.6666666666666667
+/CalidadSoftware/PSP0/Estimated Deleted LOC To Date,0.0
+/CalidadSoftware/PSP0/Base_Parts/0/Actual Deleted To Date,0.0
+/CalidadSoftware/PSP0/Defects Removed per KLOC To Date,64.99999999999999
+/CalidadSoftware/PSP0/Code/Combined Time To Date,1.8E-4
+/CalidadSoftware/PSP0/SIZE_METRIC_NAME_ABBR,LOC
+/CalidadSoftware/PSP0/Quality_Profile_3 To Date,1.0000000000000002
+/CalidadSoftware/PSP0/HLD Review/Estimated Defects Removed per Hour To Date,Infinity
+/CalidadSoftware/PSP0/In_Postmortem,0.0
+/CalidadSoftware/PSP0/Estimated Time,NaN
+/CalidadSoftware/PSP0/Estimated Time To Date,0.0
+/CalidadSoftware/PSP0/Compile/node,TAG
+/CalidadSoftware/PSP0/New Reused LOC,0.0
+/CalidadSoftware/PSP0/PSP0,TAG
+/CalidadSoftware/PSP0/Design Review/Defect Density To Date,14.999999999999998
+/CalidadSoftware/PSP0/Estimated Added LOC To Date,0.0
+/CalidadSoftware/PSP0/Postmortem/Defects Removed per Hour To Date,0.0
+/CalidadSoftware/PSP0/Design Review/Estimated DRL To Date,NaN
+/CalidadSoftware/PSP0/Test/Estimated Defect Density To Date,Infinity
+/CalidadSoftware/PSP0/Test/Defects Injected per Hour To Date,0.0
+/CalidadSoftware/PSP0/Design/Defect Injection Density,Infinity
+/CalidadSoftware/PSP0/Code Review vs Code/Time Ratio To Date,0.5
+/CalidadSoftware/PSP0/Test/Defect Density To Date,4.999999999999999
+/CalidadSoftware/PSP0/PM/Defects Injected,0.0
+/CalidadSoftware/PSP0/Quality_Profile_1 To Date,1.0
+/CalidadSoftware/PSP0/Code/Combined Defects Removed,4.0
+/CalidadSoftware/PSP0/Postmortem/Time To Date,2.4E-5
+/CalidadSoftware/PSP0/Normalization %/Time/PSP3 To Date,1.0
+/CalidadSoftware/PSP0/Normalized_Estimated_Defects_Removed To Date,NaN
+/CalidadSoftware/PSP0/Code Review/DRL To Date,6.000000000000001
+/CalidadSoftware/PSP0/PSP3_Cycle_Even_Time To Date,Infinity
+/CalidadSoftware/PSP0/Code Review/Defect Injection Density To Date,0.0
+/CalidadSoftware/PSP0/Estimated New Objects LOC To Date,0.0
+/CalidadSoftware/PSP0/Estimated LOC per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Estimated AFR To Date,Infinity
+/CalidadSoftware/PSP0/Code Review/% Phase Yield To Date,0.7499999999999999
+/CalidadSoftware/PSP0/HLD Review/Phase_Color,#990099
+/CalidadSoftware/PSP0/Estimated Defect Injection Density To Date,Infinity
+/CalidadSoftware/PSP0/Postmortem/Defects Injected per Hour To Date,0.0
+/CalidadSoftware/PSP0/Test/Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Code/Estimated Defects Injected per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Code Review vs Code/Time Ratio,0.0
+/CalidadSoftware/PSP0/psp0,TAG
+/CalidadSoftware/PSP0/Design/Combined Estimated Time To Date,0.0
+/CalidadSoftware/PSP0/Base LOC To Date,0.0
+/CalidadSoftware/PSP0/Estimated % New Reused To Date,Infinity
+/CalidadSoftware/PSP0/Code Review/Estimated Defects Removed per Hour,Infinity
+/CalidadSoftware/PSP0/Defect Injection Density To Date,65.0
+/CalidadSoftware/PSP0/Design Review/Defects Removed per Hour To Date,3.0
+/CalidadSoftware/PSP0/Design/Estimated Time To Date,0.0
+/CalidadSoftware/PSP0/Estimated Yield To Date,Infinity
+/CalidadSoftware/PSP0/Design/Estimated Defect Injection Density To Date,Infinity
+/CalidadSoftware/PSP0/Code/Combined Defects Injected,2.0
+/CalidadSoftware/PSP0/HLD Review/Defect Density To Date,0.0
+/CalidadSoftware/PSP0/HLD/Estimated Defects Removed per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Planning/Estimated Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/Postmortem/Estimated Defect Density,NaN
+/CalidadSoftware/PSP0/Design/Combined Defects Injected To Date,4.0E-6
+/CalidadSoftware/PSP0/Test/node,TAG
+/CalidadSoftware/PSP0/Aggregate Size To Date,2.0000000000000002E-7
+/CalidadSoftware/PSP0/Planning/Defect Density,Infinity
+/CalidadSoftware/PSP0/Design Review/Defect Injection Density,Infinity
+/CalidadSoftware/PSP0/Postmortem/Defect Injection Density,Infinity
+/CalidadSoftware/PSP0/Postmortem/Defect Density To Date,0.0
+/CalidadSoftware/PSP0/Planning/Time To Date,2.4E-5
+/CalidadSoftware/PSP0/Additions LOC To Date,0.0
+/CalidadSoftware/PSP0/Design/Time To Date,1.2E-4
+/CalidadSoftware/PSP0/Planning/Estimated Defect Density To Date,Infinity
+/CalidadSoftware/PSP0/Postmortem/Estimated Defects Removed per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Test/Defects Removed per Hour,0.0
+/CalidadSoftware/PSP0/Test/Estimated Defects Injected per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Code Review/Estimated Defects Removed per Hour To Date,Infinity
+/CalidadSoftware/PSP0/PROBE_ACT_SIZE_SYNC_DELTA,0.0
+/CalidadSoftware/PSP0/Compile/Defects Removed per Hour To Date,9.999999999999998
+/CalidadSoftware/PSP0/PSP Project Document Directory,?????
+/CalidadSoftware/PSP0/HLD/Estimated Defect Density To Date,Infinity
+/CalidadSoftware/PSP0/Use_Rollup,PSP
+/CalidadSoftware/PSP0/Estimated Time/UPI To Date,0.0
+/CalidadSoftware/PSP0/Estimated Quality_Profile_4 To Date,1.0
+/CalidadSoftware/PSP0/HLD Review/Estimated Defect Injection Density To Date,Infinity
+/CalidadSoftware/PSP0/Planning/Defects Removed per Hour,0.0
+/CalidadSoftware/PSP0/Compile/Time To Date,1.2E-5
+/CalidadSoftware/PSP0/Estimated Modified LOC To Date,0.0
+/CalidadSoftware/PSP0/Normalized_Estimated_Time To Date,NaN
+/CalidadSoftware/PSP0/HLD/Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/Failure_Phase_List,CompileTest
+/CalidadSoftware/PSP0/Compile/Estimated Defect Injection Density,NaN
+/CalidadSoftware/PSP0/Postmortem/Estimated Defects Removed,0.0
+/CalidadSoftware/PSP0/Design/Defect Density,Infinity
+/CalidadSoftware/PSP0/PSP3_Cycle_Time_Ratio To Date,Infinity
+/CalidadSoftware/PSP0/HLD/Estimated Defect Injection Density To Date,Infinity
+/CalidadSoftware/PSP0/Size Estimating Error,NaN
+/CalidadSoftware/PSP0/Base_Parts_Prefix_List To Date,/To Date/PSP/All/Base_Parts/0
+/CalidadSoftware/PSP0/PSP3_Cycle_Est_Time To Date,0.0
+/CalidadSoftware/PSP0/Postmortem/Estimated Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/Code/Estimated Defects Removed per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Estimated Defects Injected per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Test/Estimated Defect Injection Density,NaN
+/CalidadSoftware/PSP0/Has Compile Phase,TAG
+/CalidadSoftware/PSP0/Quality_Profile_2 To Date,1.0
+/CalidadSoftware/PSP0/HLD Review vs HLD/Estimated Time Ratio To Date,Infinity
+/CalidadSoftware/PSP0/Design Review/Estimated Appraisal Rate To Date,Infinity
+/CalidadSoftware/PSP0/In_Postmortem To Date,1.0
+/CalidadSoftware/PSP0/Code/Defects Injected,2.0
+/CalidadSoftware/PSP0/Design/Total Time To Date,1.8E-4
+/CalidadSoftware/PSP0/Estimated Quality_Profile_5 To Date,1.0
+/CalidadSoftware/PSP0/Design Review/Estimated Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/Planning/Defect Density To Date,0.0
+/CalidadSoftware/PSP0/Code/leaf,TAG
+/CalidadSoftware/PSP0/After Development/Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/Compile/Estimated DRL To Date,NaN
+/CalidadSoftware/PSP0/Aggregate Size,0.0
+/CalidadSoftware/PSP0/Reassessment/Phase_Color,#cdaa7d
+/CalidadSoftware/PSP0/Normalization %/Defects Injected/PSP3cycle To Date,1.0
+/CalidadSoftware/PSP0/% Failure COQ,0.045657015590200446
+/CalidadSoftware/PSP0/Defect Density,Infinity
+/CalidadSoftware/PSP0/HLD Review/Defects Injected per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Design/Estimated Defects Removed To Date,0.0
+/CalidadSoftware/PSP0/Compile/Defect Density To Date,9.999999999999998
+/CalidadSoftware/PSP0/Code Review/Estimated Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Planning/Estimated Defects Removed per Hour,NaN
+/CalidadSoftware/PSP0/Code Review/Defects Removed To Date,6.0E-6
+/CalidadSoftware/PSP0/Defects Removed,5.0
+/CalidadSoftware/PSP0/HLD Review/Defects Removed per Hour To Date,Infinity
+/CalidadSoftware/PSP0/Postmortem/Defects Removed,0.0
+/CalidadSoftware/PSP0/Code Review/Defects Injected To Date,0.0
+/CalidadSoftware/PSP0/Compile/Defect Injection Density To Date,4.999999999999999
+/CalidadSoftware/PSP0/Code Review/Estimated Defect Injection Density To Date,Infinity
+/CalidadSoftware/PSP0/PM/Estimated Time To Date,0.0
+/CalidadSoftware/PSP0/Code Review/Estimated Defects Injected,0.0
+/CalidadSoftware/PSP0/Phase_Display_Filter_List,PlanningDesignCodeCompileTestPostmortem
+/CalidadSoftware/PSP0/Estimated PQI,1.0
+/CalidadSoftware/PSP0/Estimated Defects Removed per KLOC To Date,Infinity
+/CalidadSoftware/PSP0/Planning/Defects Injected,0.0
+/CalidadSoftware/PSP0/Design/Combined Time To Date,1.8E-4
+/CalidadSoftware/PSP0/Planning/Estimated Defects Injected To Date,0.0
+/CalidadSoftware/Mobimedline/Project_Schedule_ID,ve82om.mu7v4u8u
+/CalidadSoftware/Mobimedline/EXPORT_FILE/Last_Export_Timestamp,sep 23, 2026 12:15:09 a.m.
+/CalidadSoftware/Data_Activity_Timestamp,sep 20, 2026 10:15:22 p.m.
+/CalidadSoftware/PSP0/Compile/Started,sep 20, 2026 06:23:05 p.m.
+/CalidadSoftware/PSP0/Planning/Started,sep 18, 2026 10:11:24 p.m.
+/CalidadSoftware/Mobimedline/Orphaned Time,0.0
+/CalidadSoftware/Mobimedline/Project_Schedule_Name,Mobimedline
+/CalidadSoftware/Mobimedline/Personal_Project,TAG
+/CalidadSoftware/PSP0/Started,sep 18, 2026 10:11:24 p.m.
+/CalidadSoftware/PSP0/Code/Started,sep 20, 2026 01:46:06 p.m.
+/CalidadSoftware/Started,sep 18, 2026 10:11:24 p.m.
+/CalidadSoftware/Mobimedline/leaf,TAG
+/CalidadSoftware/Mobimedline/WBS_Managed_Size_Data,1.0
+/CalidadSoftware/Mobimedline/TST_Mobimedline,0.0
+/CalidadSoftware/Mobimedline/WBS_Custom_Size_Metrics,1.0
+/CalidadSoftware/PSP0/Design/Started,sep 20, 2026 01:50:39 a.m.
+/CalidadSoftware/node,TAG
+/CalidadSoftware/PSP0/Test/Started,sep 20, 2026 10:15:22 p.m.
+!sep 18, 2026 10:11:24 p.m.!,330
+!sep 18, 2026 10:11:24 p.m.!,165
+!sep 19, 2026 04:53:44 p.m.!,236
+!sep 19, 2026 09:34:29 p.m.!,256
+!sep 20, 2026 01:50:39 a.m.!,45
+!sep 20, 2026 10:36:03 a.m.!,190
+!sep 20, 2026 01:46:06 p.m.!,277
+!sep 20, 2026 06:23:05 p.m.!,13
+!sep 20, 2026 06:35:57 p.m.!,215
+!sep 20, 2026 10:11:01 p.m.!,4
+!sep 20, 2026 10:15:22 p.m.!,65
+<!-- start defects -->
+<defects>
+<defect path="/CalidadSoftware/PSP0" date="@1789953841474" num="1" type="Environment" inj="Design" rem="Code" ft="30.3" fd="3" desc="Durante la fase de compilación del proyecto, se detectaron fallos ocasionados por inconsistencias en la transferencia y asignación de eventos en los botones, sumado a discrepancias en la nomenclatura de ciertos elementos del sistema. Esto generó errores de referencia que impidieron la compilación exitosa, por lo que fue necesario corregir la vinculación de los controladores y unificar los nombres de los componente&#10;&#10;Solucion, revision estricta de codigo para mejorar el enlace de manera menos sistematica y m,as logica."/>
+<defect path="/CalidadSoftware/PSP0" date="@1789956310175" num="2" type="Environment" inj="Code" rem="Code" ft="91.1" fd="" desc="problemas de valores de dieseño de la hoja cascada, entra en conflicto con valores de otros elementos&#10;&#10;Solucion, cambiar el estilo con otro grupo nuevo dediacdo"/>
+<defect path="/CalidadSoftware/PSP0" date="@1789957850118" num="3" type="Environment" inj="Code" rem="Code" ft="0.9" fd="" desc="nNo encontraba la accion que acvanbab de generar&#10;&#10;Soluccion, agregar el @FMXLal principio de el evento"/>
+<defect path="/CalidadSoftware/PSP0" date="@1789960070365" num="4" type="Documentation" inj="Design" rem="Code" ft="2.2" fd="" desc="Realice el Frame de mi registro usuario como una ventana emergente y decidi que no fuera de esta forma, opte por cambiarlo por una ventana dedicada para mejorar el enfoque del usuario ademas de mejorar el espacio disponible para los campo de manera mas natural"/>
+<defect path="/CalidadSoftware/PSP0" date="@1789963993840" num="5" type="Function" inj="Compile" rem="Compile" ft="1.9" fd="" desc="Problemas con la fiuncion de vinculo que saltar de una ventana a otra&#10;&#10;Solucion faltaba agregar una clase para recibir los datos"/>
+</defects>
