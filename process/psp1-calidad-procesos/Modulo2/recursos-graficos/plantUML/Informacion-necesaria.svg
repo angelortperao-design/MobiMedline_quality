@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="142px" preserveAspectRatio="none" style="width:756px;height:142px;background:#FFFFFF;" version="1.1" viewBox="0 0 756 142" width="756px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="71" x="6" y="18.457">MobiMedline</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="85" x="532" y="18.457">Usuario: Admin</text>
+        <rect fill="#EEEEEE" height="19.0938" rx="5" ry="5" style="stroke:#000000;stroke-width:2.5;" width="124" x="621.5" y="8.5"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="77" x="645" y="22.957">Cerrar Sesión</text>
+        <line style="stroke:#AAAAAA;stroke-width:1.0;" x1="6" x2="531" y1="35.5938" y2="35.5938"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="320" x="6" y="52.5508">Panel de Aprobación de Usuarios Pendientes (activo = 0)</text>
+        <line style="stroke:#AAAAAA;stroke-width:1.0;" x1="6" x2="531" y1="60.6875" y2="60.6875"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="45" x="7" y="78.6445">ID Corto</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="102" x="60" y="78.6445">Nombre Completo</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="39" x="164" y="78.6445">Correo</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="49" x="317" y="78.6445">Teléfono</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="39" x="389" y="78.6445">Estado</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="39" x="432" y="78.6445">Acción</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="51" x="7" y="95.7383">MED-015</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="63" x="60" y="95.7383">Miguel Ortiz</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="164" y="95.7383">miguel@mobimedline.com</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="70" x="317" y="95.7383">5512345678</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="41" x="389" y="95.7383">Inactivo</text>
+        <rect fill="#EEEEEE" height="19.0938" rx="5" ry="5" style="stroke:#000000;stroke-width:2.5;" width="92" x="434.5" y="85.7813"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="43" x="459" y="100.2383">Aprobar</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="51" x="7" y="121.832">MED-016</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="67" x="60" y="121.832">Brenda Ruiz</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="151" x="164" y="121.832">brenda@mobimedline.com</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="70" x="317" y="121.832">5587654321</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="41" x="389" y="121.832">Inactivo</text>
+        <rect fill="#EEEEEE" height="19.0938" rx="5" ry="5" style="stroke:#000000;stroke-width:2.5;" width="92" x="434.5" y="111.875"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="43" x="459" y="126.332">Aprobar</text>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="6" x2="59" y1="65.1875" y2="65.1875"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="163" x2="316" y1="108.375" y2="108.375"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="59" x2="163" y1="65.1875" y2="65.1875"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="316" x2="388" y1="108.375" y2="108.375"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="163" x2="316" y1="65.1875" y2="65.1875"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="388" x2="431" y1="108.375" y2="108.375"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="316" x2="388" y1="65.1875" y2="65.1875"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="431" x2="530" y1="108.375" y2="108.375"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="388" x2="431" y1="65.1875" y2="65.1875"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="431" x2="530" y1="65.1875" y2="65.1875"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="6" x2="59" y1="134.4688" y2="134.4688"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="59" x2="163" y1="134.4688" y2="134.4688"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="163" x2="316" y1="134.4688" y2="134.4688"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="6" x2="59" y1="82.2813" y2="82.2813"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="316" x2="388" y1="134.4688" y2="134.4688"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="59" x2="163" y1="82.2813" y2="82.2813"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="388" x2="431" y1="134.4688" y2="134.4688"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="163" x2="316" y1="82.2813" y2="82.2813"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="431" x2="530" y1="134.4688" y2="134.4688"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="316" x2="388" y1="82.2813" y2="82.2813"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="388" x2="431" y1="82.2813" y2="82.2813"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="431" x2="530" y1="82.2813" y2="82.2813"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="6" x2="59" y1="108.375" y2="108.375"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="59" x2="163" y1="108.375" y2="108.375"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="6" x2="6" y1="65.1875" y2="82.2813"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="163" x2="163" y1="108.375" y2="134.4688"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="59" x2="59" y1="65.1875" y2="82.2813"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="316" x2="316" y1="108.375" y2="134.4688"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="163" x2="163" y1="65.1875" y2="82.2813"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="388" x2="388" y1="108.375" y2="134.4688"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="316" x2="316" y1="65.1875" y2="82.2813"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="431" x2="431" y1="108.375" y2="134.4688"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="530" x2="530" y1="108.375" y2="134.4688"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="388" x2="388" y1="65.1875" y2="82.2813"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="431" x2="431" y1="65.1875" y2="82.2813"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="530" x2="530" y1="65.1875" y2="82.2813"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="6" x2="6" y1="82.2813" y2="108.375"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="59" x2="59" y1="82.2813" y2="108.375"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="163" x2="163" y1="82.2813" y2="108.375"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="316" x2="316" y1="82.2813" y2="108.375"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="388" x2="388" y1="82.2813" y2="108.375"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="431" x2="431" y1="82.2813" y2="108.375"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="530" x2="530" y1="82.2813" y2="108.375"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="6" x2="6" y1="108.375" y2="134.4688"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="59" x2="59" y1="108.375" y2="134.4688"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="5" x2="531" y1="5" y2="5"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="531" x2="618" y1="5" y2="5"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="618" x2="749" y1="5" y2="5"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="5" x2="531" y1="135.4688" y2="135.4688"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="531" x2="618" y1="135.4688" y2="135.4688"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="618" x2="749" y1="135.4688" y2="135.4688"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="5" x2="5" y1="5" y2="31.0938"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="749" x2="749" y1="56.1875" y2="64.1875"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="749" x2="749" y1="39.0938" y2="56.1875"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="749" x2="749" y1="31.0938" y2="39.0938"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="749" x2="749" y1="5" y2="31.0938"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="5" x2="5" y1="64.1875" y2="135.4688"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="5" x2="5" y1="56.1875" y2="64.1875"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="5" x2="5" y1="39.0938" y2="56.1875"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="5" x2="5" y1="31.0938" y2="39.0938"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="749" x2="749" y1="64.1875" y2="135.4688"/>
+        <!--SRC=[VLB1Rjf04BtlLupK2wWonGOJOgKH16WRn2QecAXIrSFQtg2Lx5qqkulKflcWdli9-R6CZP4uHBbOUk_Dl7apwubr0fqLfMDF7nd0LNRDJQQuB4gbvTMdx1h-mjPwWSeaC2qgfOdu2JE9A10sqggN_nf-KMiG7FlNGiiI2WdJFPfCv4q1mTR5mbhgGadjf8MEo9qw6FWC_Muzx6Jpz84-ZTlj76O6dMcZ47DdgWmbiTM-bES2rQ4ymwaiN_uz6dr6BMZTuWnFyoPUEng0B-P1Fun9v6hdQOrxTEeFmQg1aufkKnrlqyjDHK8SXz5W68yknWHkTRjFVQ9sVuJcEYVl4MatI1SGyDsJDS6iWMzwZoz6yN0GXUzxFxDdDY6FvXdPkXJQRVaA3XAjCXh2NjIF1htBJkebB3qH0mYZ90gJQ0YpJGgrt6MTh-iLMECnbr0ewr1btb5_bot5eKwh7ULBe4QTb7TXipYHiD07XKPNzAfi-S2FHV3DkCtUkAPuD0nkbACV1YaMF70sbu_2buvQSrCelKjWctu9ncmbzCwB7GsIbiqC3S3V2V0Vhm00]-->
+    </g>
+</svg>

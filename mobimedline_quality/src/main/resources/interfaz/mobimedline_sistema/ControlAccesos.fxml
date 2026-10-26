@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox spacing="15.0" stylesheets="@Estilos/Estilos_Interfaz.css" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="interfaz.mobimedline_sistema.controllers.ControlAccesosController">
+   <padding>
+      <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+   </padding>
+   <children>
+      <!-- Encabezado Operativo -->
+      <HBox alignment="CENTER_LEFT" spacing="10.0">
+         <children>
+            <VBox spacing="2.0">
+               <children>
+                  <Label style="-fx-font-size: 20px; -fx-font-weight: bold;" text="Control de Accesos" />
+                  <Label style="-fx-text-fill: #666666;" text="Gestión de altas pendientes, suspensiones y activaciones offline de personal." />
+               </children>
+            </VBox>
+            <Region HBox.hgrow="ALWAYS" />
+            <!-- Indicadores Rápidos -->
+            <HBox spacing="15.0" style="-fx-background-color: #f4f4f4; -fx-padding: 8 15; -fx-background-radius: 5;">
+               <children>
+                  <Label fx:id="lblPendientes" style="-fx-font-weight: bold; -fx-text-fill: #d32f2f;" text="Pendientes: 0" />
+               </children>
+            </HBox>
+         </children>
+      </HBox>
+
+      <!-- Barra de Filtros Rápidos -->
+      <HBox alignment="CENTER_LEFT" spacing="10.0">
+         <children>
+            <TextField fx:id="txtBuscar" promptText="Buscar por nombre o correo..." HBox.hgrow="ALWAYS" />
+            <ComboBox fx:id="cmbFiltroEstado" prefWidth="150.0" promptText="Estado" />
+            <Button mnemonicParsing="false" onAction="#handleRefrescar" text="Actualizar" />
+         </children>
+      </HBox>
+
+      <!-- Tabla Operativa (Expandible dinámicamente a Pantalla Completa) -->
+      <TableView fx:id="tblUsuarios" VBox.vgrow="ALWAYS">
+         <columns>
+            <TableColumn fx:id="colUsuario" prefWidth="110.0" text="USUARIOS" />
+            <TableColumn fx:id="colNombre" prefWidth="220.0" text="NOMBRE COMPLETO" />
+            <TableColumn fx:id="colCorreo" prefWidth="220.0" text="CORREO" />
+            <TableColumn fx:id="colTelefono" prefWidth="130.0" text="TELÉFONO" />
+         </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+      </TableView>
+
+      <!-- Panel Inferior: Acciones Offline para el Usuario Seleccionado -->
+      <VBox fx:id="panelAcciones" spacing="10.0" style="-fx-border-color: #cccccc; -fx-border-radius: 5; -fx-background-radius: 5; -fx-padding: 15; -fx-background-color: #fafafa;">
+         <children>
+            <Label fx:id="lblTituloAcciones" style="-fx-font-weight: bold; -fx-text-fill: #333333;" text="Acciones para el Usuario Seleccionado (Ninguno)" />
+            
+            <HBox alignment="CENTER_LEFT" spacing="20.0">
+               <children>
+                  <VBox spacing="5.0">
+                     <children>
+                        <Label style="-fx-font-size: 11px; -fx-text-fill: #666;" text="Cambiar rol" />
+                        <ComboBox fx:id="cmbRolAccion" prefWidth="160.0" />
+                     </children>
+                  </VBox>
+
+                  <VBox spacing="5.0">
+                     <children>
+                        <Label style="-fx-font-size: 11px; -fx-text-fill: #666;" text="Verificacion" />
+                        <ComboBox fx:id="cmbValidacionAccion" prefWidth="160.0" />
+                     </children>
+                  </VBox>
+
+                  <Region HBox.hgrow="ALWAYS" />
+
+                  <!-- Panel de Botones de Acción Inferior -->
+                  <HBox alignment="CENTER_RIGHT" spacing="10.0">
+                     <children>
+                        <Button fx:id="btnRechazar" mnemonicParsing="false" onAction="#handleRechazar" style="-fx-background-color: #d32f2f; -fx-text-fill: white; -fx-font-weight: bold;" text="Rechazar Registro" />
+                        <Button fx:id="btnGuardarCambios" mnemonicParsing="false" onAction="#handleGuardarCambios" style="-fx-background-color: #1976d2; -fx-text-fill: white; -fx-font-weight: bold;" text="Guardar cambios" />
+                     </children>
+                  </HBox>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </children>
+</VBox>

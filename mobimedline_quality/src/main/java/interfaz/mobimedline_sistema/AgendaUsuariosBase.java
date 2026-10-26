@@ -4,6 +4,7 @@
  */
 package interfaz.mobimedline_sistema;
 
+import interfaz.mobimedline_sistema.model.Usuarios;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -28,13 +29,19 @@ public class AgendaUsuariosBase {
         usuariosBase.add(usuario1);
         
         // --- Usuario Base: usuario ---
-        Usuarios usuario2 = new Usuarios("OIPM01", "Miguel Angel", "Pérez", "Smith", "c0mew1th");
-        // Se crea con la plantilla
+        Usuarios usuario2 = new Usuarios(
+            "OIPM01", "Miguel Angel", "Ortiz", "Pérez", "c0mewlth", 
+            "miguel@mobimedline.com", "5551234567"
+        );
+        usuario2.setAprobado(false);
         usuariosBase.add(usuario2);
         
         // --- Usuario Base: usuario ---
-        Usuarios usuario3 = new Usuarios("RAAA01", "Alejandro Rodolfo", "Ramirez", "Arzate", "1Oney");
-        // Se crea con la plantilla
+        Usuarios usuario3 = new Usuarios(
+            "RAAA01", "Alejandro Rodolfo", "Ramirez", "Arzate", "1Oney", 
+            "alejandro@mobimedline.com", "5551234534"
+        );
+        usuario3.setAprobado(false);
         usuariosBase.add(usuario3);
         
         // --- Usuario Base: usuario ---

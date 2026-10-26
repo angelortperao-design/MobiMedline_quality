@@ -1,1 +1,0 @@
-# Documento principal de arranque

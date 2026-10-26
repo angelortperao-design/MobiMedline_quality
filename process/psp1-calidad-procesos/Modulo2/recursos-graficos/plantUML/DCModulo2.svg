@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="788px" preserveAspectRatio="none" style="width:1680px;height:788px;background:#FFFFFF;" version="1.1" viewBox="0 0 1680 788" width="1680px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--class Usuarios-->
+        <g id="elem_Usuarios">
+            <rect codeLine="3" fill="#F1F1F1" height="364.9688" id="Usuarios" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="273" x="715.5" y="417"/>
+            <ellipse cx="820.25" cy="433" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M823.0156,428.875 Q823.1719,428.6563 823.3594,428.5469 Q823.5469,428.4375 823.7656,428.4375 Q824.1406,428.4375 824.375,428.7031 Q824.6094,428.9531 824.6094,429.5625 L824.6094,431.0156 Q824.6094,431.625 824.375,431.8906 Q824.1406,432.1563 823.7656,432.1563 Q823.4219,432.1563 823.2188,431.9531 Q823.0156,431.7656 822.9063,431.25 Q822.8594,430.8906 822.6719,430.7031 Q822.3438,430.3281 821.7344,430.1094 Q821.125,429.8906 820.5,429.8906 Q819.7344,429.8906 819.0938,430.2188 Q818.4688,430.5469 817.9688,431.2969 Q817.4844,432.0469 817.4844,433.0781 L817.4844,434.1719 Q817.4844,435.4063 818.375,436.2344 Q819.2656,437.0469 820.8594,437.0469 Q821.7969,437.0469 822.4531,436.7969 Q822.8438,436.6406 823.2656,436.2031 Q823.5313,435.9375 823.6719,435.8594 Q823.8281,435.7813 824.0313,435.7813 Q824.3594,435.7813 824.6094,436.0469 Q824.875,436.2969 824.875,436.6406 Q824.875,436.9844 824.5313,437.3906 Q824.0313,437.9688 823.2344,438.2969 Q822.1563,438.75 820.8594,438.75 Q819.3438,438.75 818.1406,438.125 Q817.1563,437.625 816.4688,436.5625 Q815.7813,435.4844 815.7813,434.2031 L815.7813,433.0469 Q815.7813,431.7188 816.3906,430.5781 Q817.0156,429.4219 818.1094,428.8125 Q819.2031,428.1875 820.4375,428.1875 Q821.1719,428.1875 821.8125,428.3594 Q822.4688,428.5156 823.0156,428.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="840.75" y="438.7285">Usuarios</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="716.5" x2="987.5" y1="449" y2="449"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="721.5" y="467.5332">-int id</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="94" x="721.5" y="485.1426">-String nombre</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="721.5" y="502.752">-String correo</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="721.5" y="520.3613">-String contraseña</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="721.5" y="537.9707">-String rol</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="97" x="721.5" y="555.5801">-String telefono</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="716.5" x2="987.5" y1="562.6563" y2="562.6563"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="721.5" y="581.1895">+getId(): int</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="721.5" y="598.7988">+setId(id: int): void</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="721.5" y="616.4082">+getNombre(): String</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="213" x="721.5" y="634.0176">+setNombre(nombre: String): void</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="127" x="721.5" y="651.627">+getCorreo(): String</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="201" x="721.5" y="669.2363">+setCorreo(correo: String): void</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="721.5" y="686.8457">+getContraseña(): String</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="261" x="721.5" y="704.4551">+setContraseña(contraseña: String): void</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="721.5" y="722.0645">+getRol(): String</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="721.5" y="739.6738">+setRol(rol: String): void</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="139" x="721.5" y="757.2832">+getTelefono(): String</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="223" x="721.5" y="774.8926">+setTelefono(telefono: String): void</text>
+        </g>
+        <!--class UsuarioService-->
+        <g id="elem_UsuarioService">
+            <rect codeLine="24" fill="#F1F1F1" height="118.4375" id="UsuarioService" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="383" x="660.5" y="221"/>
+            <ellipse cx="800.25" cy="237" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M803.0156,232.875 Q803.1719,232.6563 803.3594,232.5469 Q803.5469,232.4375 803.7656,232.4375 Q804.1406,232.4375 804.375,232.7031 Q804.6094,232.9531 804.6094,233.5625 L804.6094,235.0156 Q804.6094,235.625 804.375,235.8906 Q804.1406,236.1563 803.7656,236.1563 Q803.4219,236.1563 803.2188,235.9531 Q803.0156,235.7656 802.9063,235.25 Q802.8594,234.8906 802.6719,234.7031 Q802.3438,234.3281 801.7344,234.1094 Q801.125,233.8906 800.5,233.8906 Q799.7344,233.8906 799.0938,234.2188 Q798.4688,234.5469 797.9688,235.2969 Q797.4844,236.0469 797.4844,237.0781 L797.4844,238.1719 Q797.4844,239.4063 798.375,240.2344 Q799.2656,241.0469 800.8594,241.0469 Q801.7969,241.0469 802.4531,240.7969 Q802.8438,240.6406 803.2656,240.2031 Q803.5313,239.9375 803.6719,239.8594 Q803.8281,239.7813 804.0313,239.7813 Q804.3594,239.7813 804.6094,240.0469 Q804.875,240.2969 804.875,240.6406 Q804.875,240.9844 804.5313,241.3906 Q804.0313,241.9688 803.2344,242.2969 Q802.1563,242.75 800.8594,242.75 Q799.3438,242.75 798.1406,242.125 Q797.1563,241.625 796.4688,240.5625 Q795.7813,239.4844 795.7813,238.2031 L795.7813,237.0469 Q795.7813,235.7188 796.3906,234.5781 Q797.0156,233.4219 798.1094,232.8125 Q799.2031,232.1875 800.4375,232.1875 Q801.1719,232.1875 801.8125,232.3594 Q802.4688,232.5156 803.0156,232.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="820.75" y="242.7285">UsuarioService</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="661.5" x2="1042.5" y1="253" y2="253"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="661.5" x2="1042.5" y1="261" y2="261"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="288" x="666.5" y="279.5332">+registrarUsuario(usuario: Usuarios): boolean</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="371" x="666.5" y="297.1426">+iniciarSesion(correo: String, contraseña: String): Usuarios</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="295" x="666.5" y="314.752">+actualizarUsuario(usuario: Usuarios): boolean</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="208" x="666.5" y="332.3613">+eliminarUsuario(id: int): boolean</text>
+        </g>
+        <!--class TelegramService-->
+        <g id="elem_TelegramService">
+            <rect codeLine="31" fill="#F1F1F1" height="118.4375" id="TelegramService" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="414" x="7" y="221"/>
+            <ellipse cx="156.25" cy="237" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M159.0156,232.875 Q159.1719,232.6563 159.3594,232.5469 Q159.5469,232.4375 159.7656,232.4375 Q160.1406,232.4375 160.375,232.7031 Q160.6094,232.9531 160.6094,233.5625 L160.6094,235.0156 Q160.6094,235.625 160.375,235.8906 Q160.1406,236.1563 159.7656,236.1563 Q159.4219,236.1563 159.2188,235.9531 Q159.0156,235.7656 158.9063,235.25 Q158.8594,234.8906 158.6719,234.7031 Q158.3438,234.3281 157.7344,234.1094 Q157.125,233.8906 156.5,233.8906 Q155.7344,233.8906 155.0938,234.2188 Q154.4688,234.5469 153.9688,235.2969 Q153.4844,236.0469 153.4844,237.0781 L153.4844,238.1719 Q153.4844,239.4063 154.375,240.2344 Q155.2656,241.0469 156.8594,241.0469 Q157.7969,241.0469 158.4531,240.7969 Q158.8438,240.6406 159.2656,240.2031 Q159.5313,239.9375 159.6719,239.8594 Q159.8281,239.7813 160.0313,239.7813 Q160.3594,239.7813 160.6094,240.0469 Q160.875,240.2969 160.875,240.6406 Q160.875,240.9844 160.5313,241.3906 Q160.0313,241.9688 159.2344,242.2969 Q158.1563,242.75 156.8594,242.75 Q155.3438,242.75 154.1406,242.125 Q153.1563,241.625 152.4688,240.5625 Q151.7813,239.4844 151.7813,238.2031 L151.7813,237.0469 Q151.7813,235.7188 152.3906,234.5781 Q153.0156,233.4219 154.1094,232.8125 Q155.2031,232.1875 156.4375,232.1875 Q157.1719,232.1875 157.8125,232.3594 Q158.4688,232.5156 159.0156,232.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="176.75" y="242.7285">TelegramService</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="420" y1="253" y2="253"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81" x="13" y="271.5332">-String token</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="13" y="289.1426">-String chatId</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="420" y1="296.2188" y2="296.2188"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="242" x="13" y="314.752">+enviarMensaje(mensaje: String): void</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="402" x="13" y="332.3613">+enviarNotificacionOtp(telefono: String, codigo: String): boolean</text>
+        </g>
+        <!--class IniciarSesionController-->
+        <g id="elem_IniciarSesionController">
+            <rect codeLine="38" fill="#F1F1F1" height="118.4375" id="IniciarSesionController" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="305" x="1368.5" y="16"/>
+            <ellipse cx="1445.75" cy="32" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1448.5156,27.875 Q1448.6719,27.6563 1448.8594,27.5469 Q1449.0469,27.4375 1449.2656,27.4375 Q1449.6406,27.4375 1449.875,27.7031 Q1450.1094,27.9531 1450.1094,28.5625 L1450.1094,30.0156 Q1450.1094,30.625 1449.875,30.8906 Q1449.6406,31.1563 1449.2656,31.1563 Q1448.9219,31.1563 1448.7188,30.9531 Q1448.5156,30.7656 1448.4063,30.25 Q1448.3594,29.8906 1448.1719,29.7031 Q1447.8438,29.3281 1447.2344,29.1094 Q1446.625,28.8906 1446,28.8906 Q1445.2344,28.8906 1444.5938,29.2188 Q1443.9688,29.5469 1443.4688,30.2969 Q1442.9844,31.0469 1442.9844,32.0781 L1442.9844,33.1719 Q1442.9844,34.4063 1443.875,35.2344 Q1444.7656,36.0469 1446.3594,36.0469 Q1447.2969,36.0469 1447.9531,35.7969 Q1448.3438,35.6406 1448.7656,35.2031 Q1449.0313,34.9375 1449.1719,34.8594 Q1449.3281,34.7813 1449.5313,34.7813 Q1449.8594,34.7813 1450.1094,35.0469 Q1450.375,35.2969 1450.375,35.6406 Q1450.375,35.9844 1450.0313,36.3906 Q1449.5313,36.9688 1448.7344,37.2969 Q1447.6563,37.75 1446.3594,37.75 Q1444.8438,37.75 1443.6406,37.125 Q1442.6563,36.625 1441.9688,35.5625 Q1441.2813,34.4844 1441.2813,33.2031 L1441.2813,32.0469 Q1441.2813,30.7188 1441.8906,29.5781 Q1442.5156,28.4219 1443.6094,27.8125 Q1444.7031,27.1875 1445.9375,27.1875 Q1446.6719,27.1875 1447.3125,27.3594 Q1447.9688,27.5156 1448.5156,27.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="1466.25" y="37.7285">IniciarSesionController</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1369.5" x2="1672.5" y1="48" y2="48"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="198" x="1374.5" y="66.5332">-UsuarioService usuarioService</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1369.5" x2="1672.5" y1="73.6094" y2="73.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="1374.5" y="92.1426">+initialize(): void</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="293" x="1374.5" y="109.752">+handleIniciarSesion(event: ActionEvent): void</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="282" x="1374.5" y="127.3613">+cambiarARegistro(event: ActionEvent): void</text>
+        </g>
+        <!--class RegistroController-->
+        <g id="elem_RegistroController">
+            <rect codeLine="45" fill="#F1F1F1" height="136.0469" id="RegistroController" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="283" x="72.5" y="7"/>
+            <ellipse cx="152.25" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M155.0156,18.875 Q155.1719,18.6563 155.3594,18.5469 Q155.5469,18.4375 155.7656,18.4375 Q156.1406,18.4375 156.375,18.7031 Q156.6094,18.9531 156.6094,19.5625 L156.6094,21.0156 Q156.6094,21.625 156.375,21.8906 Q156.1406,22.1563 155.7656,22.1563 Q155.4219,22.1563 155.2188,21.9531 Q155.0156,21.7656 154.9063,21.25 Q154.8594,20.8906 154.6719,20.7031 Q154.3438,20.3281 153.7344,20.1094 Q153.125,19.8906 152.5,19.8906 Q151.7344,19.8906 151.0938,20.2188 Q150.4688,20.5469 149.9688,21.2969 Q149.4844,22.0469 149.4844,23.0781 L149.4844,24.1719 Q149.4844,25.4063 150.375,26.2344 Q151.2656,27.0469 152.8594,27.0469 Q153.7969,27.0469 154.4531,26.7969 Q154.8438,26.6406 155.2656,26.2031 Q155.5313,25.9375 155.6719,25.8594 Q155.8281,25.7813 156.0313,25.7813 Q156.3594,25.7813 156.6094,26.0469 Q156.875,26.2969 156.875,26.6406 Q156.875,26.9844 156.5313,27.3906 Q156.0313,27.9688 155.2344,28.2969 Q154.1563,28.75 152.8594,28.75 Q151.3438,28.75 150.1406,28.125 Q149.1563,27.625 148.4688,26.5625 Q147.7813,25.4844 147.7813,24.2031 L147.7813,23.0469 Q147.7813,21.7188 148.3906,20.5781 Q149.0156,19.4219 150.1094,18.8125 Q151.2031,18.1875 152.4375,18.1875 Q153.1719,18.1875 153.8125,18.3594 Q154.4688,18.5156 155.0156,18.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="115" x="172.75" y="28.7285">RegistroController</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="73.5" x2="354.5" y1="39" y2="39"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="198" x="78.5" y="57.5332">-UsuarioService usuarioService</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="218" x="78.5" y="75.1426">-TelegramService telegramService</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="73.5" x2="354.5" y1="82.2188" y2="82.2188"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="78.5" y="100.752">+initialize(): void</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="271" x="78.5" y="118.3613">+handleRegistrar(event: ActionEvent): void</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="171" x="78.5" y="135.9707">+validarCampos(): boolean</text>
+        </g>
+        <!--class VerificacionUsuario-->
+        <g id="elem_VerificacionUsuario">
+            <rect codeLine="53" fill="#F1F1F1" height="118.4375" id="VerificacionUsuario" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="279" x="390.5" y="16"/>
+            <ellipse cx="465.25" cy="32" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M468.0156,27.875 Q468.1719,27.6563 468.3594,27.5469 Q468.5469,27.4375 468.7656,27.4375 Q469.1406,27.4375 469.375,27.7031 Q469.6094,27.9531 469.6094,28.5625 L469.6094,30.0156 Q469.6094,30.625 469.375,30.8906 Q469.1406,31.1563 468.7656,31.1563 Q468.4219,31.1563 468.2188,30.9531 Q468.0156,30.7656 467.9063,30.25 Q467.8594,29.8906 467.6719,29.7031 Q467.3438,29.3281 466.7344,29.1094 Q466.125,28.8906 465.5,28.8906 Q464.7344,28.8906 464.0938,29.2188 Q463.4688,29.5469 462.9688,30.2969 Q462.4844,31.0469 462.4844,32.0781 L462.4844,33.1719 Q462.4844,34.4063 463.375,35.2344 Q464.2656,36.0469 465.8594,36.0469 Q466.7969,36.0469 467.4531,35.7969 Q467.8438,35.6406 468.2656,35.2031 Q468.5313,34.9375 468.6719,34.8594 Q468.8281,34.7813 469.0313,34.7813 Q469.3594,34.7813 469.6094,35.0469 Q469.875,35.2969 469.875,35.6406 Q469.875,35.9844 469.5313,36.3906 Q469.0313,36.9688 468.2344,37.2969 Q467.1563,37.75 465.8594,37.75 Q464.3438,37.75 463.1406,37.125 Q462.1563,36.625 461.4688,35.5625 Q460.7813,34.4844 460.7813,33.2031 L460.7813,32.0469 Q460.7813,30.7188 461.3906,29.5781 Q462.0156,28.4219 463.1094,27.8125 Q464.2031,27.1875 465.4375,27.1875 Q466.1719,27.1875 466.8125,27.3594 Q467.4688,27.5156 468.0156,27.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="485.75" y="37.7285">VerificacionUsuario</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="391.5" x2="668.5" y1="48" y2="48"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="198" x="396.5" y="66.5332">-UsuarioService usuarioService</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="391.5" x2="668.5" y1="73.6094" y2="73.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="396.5" y="92.1426">+initialize(): void</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="265" x="396.5" y="109.752">+verificarCodigo(event: ActionEvent): void</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="267" x="396.5" y="127.3613">+reenviarCodigo(event: ActionEvent): void</text>
+        </g>
+        <!--class ControlAccesosController-->
+        <g id="elem_ControlAccesosController">
+            <rect codeLine="60" fill="#F1F1F1" height="118.4375" id="ControlAccesosController" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="295" x="704.5" y="16"/>
+            <ellipse cx="767.25" cy="32" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M770.0156,27.875 Q770.1719,27.6563 770.3594,27.5469 Q770.5469,27.4375 770.7656,27.4375 Q771.1406,27.4375 771.375,27.7031 Q771.6094,27.9531 771.6094,28.5625 L771.6094,30.0156 Q771.6094,30.625 771.375,30.8906 Q771.1406,31.1563 770.7656,31.1563 Q770.4219,31.1563 770.2188,30.9531 Q770.0156,30.7656 769.9063,30.25 Q769.8594,29.8906 769.6719,29.7031 Q769.3438,29.3281 768.7344,29.1094 Q768.125,28.8906 767.5,28.8906 Q766.7344,28.8906 766.0938,29.2188 Q765.4688,29.5469 764.9688,30.2969 Q764.4844,31.0469 764.4844,32.0781 L764.4844,33.1719 Q764.4844,34.4063 765.375,35.2344 Q766.2656,36.0469 767.8594,36.0469 Q768.7969,36.0469 769.4531,35.7969 Q769.8438,35.6406 770.2656,35.2031 Q770.5313,34.9375 770.6719,34.8594 Q770.8281,34.7813 771.0313,34.7813 Q771.3594,34.7813 771.6094,35.0469 Q771.875,35.2969 771.875,35.6406 Q771.875,35.9844 771.5313,36.3906 Q771.0313,36.9688 770.2344,37.2969 Q769.1563,37.75 767.8594,37.75 Q766.3438,37.75 765.1406,37.125 Q764.1563,36.625 763.4688,35.5625 Q762.7813,34.4844 762.7813,33.2031 L762.7813,32.0469 Q762.7813,30.7188 763.3906,29.5781 Q764.0156,28.4219 765.1094,27.8125 Q766.2031,27.1875 767.4375,27.1875 Q768.1719,27.1875 768.8125,27.3594 Q769.4688,27.5156 770.0156,27.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="161" x="787.75" y="37.7285">ControlAccesosController</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="705.5" x2="998.5" y1="48" y2="48"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="198" x="710.5" y="66.5332">-UsuarioService usuarioService</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="705.5" x2="998.5" y1="73.6094" y2="73.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="710.5" y="92.1426">+initialize(): void</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="160" x="710.5" y="109.752">+verificarPermisos(): void</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="283" x="710.5" y="127.3613">+actualizarAccesos(event: ActionEvent): void</text>
+        </g>
+        <!--class ControlEmpleadosController-->
+        <g id="elem_ControlEmpleadosController">
+            <rect codeLine="67" fill="#F1F1F1" height="136.0469" id="ControlEmpleadosController" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="298" x="1035" y="7"/>
+            <ellipse cx="1090.75" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1093.5156,18.875 Q1093.6719,18.6563 1093.8594,18.5469 Q1094.0469,18.4375 1094.2656,18.4375 Q1094.6406,18.4375 1094.875,18.7031 Q1095.1094,18.9531 1095.1094,19.5625 L1095.1094,21.0156 Q1095.1094,21.625 1094.875,21.8906 Q1094.6406,22.1563 1094.2656,22.1563 Q1093.9219,22.1563 1093.7188,21.9531 Q1093.5156,21.7656 1093.4063,21.25 Q1093.3594,20.8906 1093.1719,20.7031 Q1092.8438,20.3281 1092.2344,20.1094 Q1091.625,19.8906 1091,19.8906 Q1090.2344,19.8906 1089.5938,20.2188 Q1088.9688,20.5469 1088.4688,21.2969 Q1087.9844,22.0469 1087.9844,23.0781 L1087.9844,24.1719 Q1087.9844,25.4063 1088.875,26.2344 Q1089.7656,27.0469 1091.3594,27.0469 Q1092.2969,27.0469 1092.9531,26.7969 Q1093.3438,26.6406 1093.7656,26.2031 Q1094.0313,25.9375 1094.1719,25.8594 Q1094.3281,25.7813 1094.5313,25.7813 Q1094.8594,25.7813 1095.1094,26.0469 Q1095.375,26.2969 1095.375,26.6406 Q1095.375,26.9844 1095.0313,27.3906 Q1094.5313,27.9688 1093.7344,28.2969 Q1092.6563,28.75 1091.3594,28.75 Q1089.8438,28.75 1088.6406,28.125 Q1087.6563,27.625 1086.9688,26.5625 Q1086.2813,25.4844 1086.2813,24.2031 L1086.2813,23.0469 Q1086.2813,21.7188 1086.8906,20.5781 Q1087.5156,19.4219 1088.6094,18.8125 Q1089.7031,18.1875 1090.9375,18.1875 Q1091.6719,18.1875 1092.3125,18.3594 Q1092.9688,18.5156 1093.5156,18.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="1111.25" y="28.7285">ControlEmpleadosController</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1036" x2="1332" y1="39" y2="39"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="198" x="1041" y="57.5332">-UsuarioService usuarioService</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1036" x2="1332" y1="64.6094" y2="64.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="1041" y="83.1426">+initialize(): void</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="163" x="1041" y="100.752">+cargarEmpleados(): void</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="286" x="1041" y="118.3613">+registrarEmpleado(event: ActionEvent): void</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="282" x="1041" y="135.9707">+eliminarEmpleado(event: ActionEvent): void</text>
+        </g>
+        <!--link IniciarSesionController to UsuarioService-->
+        <g id="link_IniciarSesionController_UsuarioService">
+            <path codeLine="75" d="M1376.72,134.11 C1368.05,137.21 1359.43,140.2 1351,143 C1252.43,175.75 1141.05,206.67 1048.56,230.73 " fill="none" id="IniciarSesionController-to-UsuarioService" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="1043.62,232.01,1053.3363,233.6203,1048.4596,230.7537,1051.3262,225.877,1043.62,232.01" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="21" x="1243" y="187.4951">usa</text>
+        </g>
+        <!--link RegistroController to UsuarioService-->
+        <g id="link_RegistroController_UsuarioService">
+            <path codeLine="76" d="M355.83,136.78 C361.61,138.93 367.35,141.01 373,143 C464.66,175.19 568.14,205.32 655.42,229.01 " fill="none" id="RegistroController-to-UsuarioService" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="660.35,230.34,652.7165,224.1167,655.5255,229.0268,650.6154,231.8359,660.35,230.34" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="21" x="518" y="187.4951">usa</text>
+        </g>
+        <!--link RegistroController to TelegramService-->
+        <g id="link_RegistroController_TelegramService">
+            <path codeLine="77" d="M214,143.03 C214,166.44 214,192.62 214,215.71 " fill="none" id="RegistroController-to-TelegramService" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="214,220.89,218,211.89,214,215.89,210,211.89,214,220.89" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="21" x="215" y="187.4951">usa</text>
+        </g>
+        <!--link VerificacionUsuario to UsuarioService-->
+        <g id="link_VerificacionUsuario_UsuarioService">
+            <path codeLine="78" d="M622.27,134.17 C664.05,160.51 713.42,191.63 755.67,218.27 " fill="none" id="VerificacionUsuario-to-UsuarioService" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="759.99,221,754.5176,212.8114,755.7629,218.3295,750.2448,219.5748,759.99,221" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="21" x="712" y="187.4951">usa</text>
+        </g>
+        <!--link ControlAccesosController to UsuarioService-->
+        <g id="link_ControlAccesosController_UsuarioService">
+            <path codeLine="79" d="M852,134.17 C852,159.65 852,189.62 852,215.67 " fill="none" id="ControlAccesosController-to-UsuarioService" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="852,220.82,856,211.82,852,215.82,848,211.82,852,220.82" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="21" x="853" y="187.4951">usa</text>
+        </g>
+        <!--link ControlEmpleadosController to UsuarioService-->
+        <g id="link_ControlEmpleadosController_UsuarioService">
+            <path codeLine="80" d="M1074.37,143.03 C1034.8,167.23 990.39,194.38 951.72,218.03 " fill="none" id="ControlEmpleadosController-to-UsuarioService" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="947.03,220.89,956.7945,219.6035,951.2946,218.2799,952.6183,212.78,947.03,220.89" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="21" x="1019" y="187.4951">usa</text>
+        </g>
+        <!--link UsuarioService to Usuarios-->
+        <g id="link_UsuarioService_Usuarios">
+            <path codeLine="81" d="M852,339.23 C852,360.3 852,385.37 852,411.5 " fill="none" id="UsuarioService-to-Usuarios" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="852,416.74,856,407.74,852,411.74,848,407.74,852,416.74" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="49" x="853" y="383.4951">gestiona</text>
+        </g>
+        <!--SRC=[hLJBRjim4BpxAtXKaHhesOS2Xf633qqBk-rzJMsKJIZI82aTKlIZ-WtziL8YzQAfA2xiYy3TdUNixD3cXUGPD9IC2p1cQwscKsLnpvKyqYkoJwjLcs4_J0MQb66_LipzreoaPPI7mz7XPC6aAayQfp6kj4OLnwJLOF3l7vWcj1BJW4M1Zqfw_1qhqExpxCEckJs4J1kYl8svJAq2gxRweMNK87p30HGoddANli3lMlOfVCZuyTx0zvEccmpfaIYpxGvAfDeqOIVTBEnxK365xNETr76Ntv45ZgXhuXYCSCSq5cGSSntoMUM_czuphjD9AO4W0uGaSG9zH4DAHX9-P6aXkcQX1N1RWQ3NQwv5GIN90J6OfglhPsrKAToxc0uxs5Aze8my_GJEYDrDidRpVK5fu1cpqd_Jw_6b3yhI8t7WJf2lzdonZ4QLd8hnSYuuxyUgjivIGg3kkKVxgoR7OJEM6btRDpEY-GGo5pYv8iCQfTsmBRVkTDySfXWEvSbLRm_U8UeDG3z4L_jV_DSNUxFJy_kcF7IENfomTaroq3iepyfagQNyHDqlDWnmcuNKeR7UjSPOfAhHEssnlASULh3b78qojpPKp_yRwfACbs-K7nvu8705vVloxBQGtvwqerk0xjjdiSJ1Drt1ubAwVwHt0DoCSmzylVuSZxLnWy4gyPYkhOqVb2zEkNgsywoFbX2fDSvYek2ephYA0asZAAp-0G00]-->
+    </g>
+</svg>

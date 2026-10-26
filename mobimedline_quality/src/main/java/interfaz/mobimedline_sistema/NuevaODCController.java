@@ -19,6 +19,7 @@ import javafx.scene.control.TableView;
 import javafx.scene.control.TextField;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.stage.Popup;
+import interfaz.mobimedline_sistema.controllers.IniciarSesionController;
 
 public class NuevaODCController implements Initializable {
 
@@ -59,7 +60,7 @@ public class NuevaODCController implements Initializable {
     private Popup suggestionPopup;
 
     private boolean esEmpleado() {
-        return !IniciarSesController.usuarioActual.getPermisos();
+        return !IniciarSesionController.usuarioActual.getPermisos();
     }
 
     @FXML
@@ -152,7 +153,7 @@ public class NuevaODCController implements Initializable {
             return;
         }
 
-        ODC nuevaODC = new ODC(IniciarSesController.usuarioActual, java.time.LocalDate.now().toString(),"Pendiente");
+        ODC nuevaODC = new ODC(IniciarSesionController.usuarioActual, java.time.LocalDate.now().toString(),"Pendiente");
         for (Producto producto : listaProductos) {
             nuevaODC.actualizarOAgregarProducto(producto,producto.getCantidad()
             );

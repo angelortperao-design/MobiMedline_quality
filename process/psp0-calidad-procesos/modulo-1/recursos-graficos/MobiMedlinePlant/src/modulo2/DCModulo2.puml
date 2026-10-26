@@ -1,0 +1,84 @@
+@startuml
+skinparam classAttributeIconSize 0
+
+class Usuarios {
+    - int id
+    - String nombre
+    - String correo
+    - String contraseña
+    - String rol
+    - String telefono
+    + getId(): int
+    + setId(id: int): void
+    + getNombre(): String
+    + setNombre(nombre: String): void
+    + getCorreo(): String
+    + setCorreo(correo: String): void
+    + getContraseña(): String
+    + setContraseña(contraseña: String): void
+    + getRol(): String
+    + setRol(rol: String): void
+    + getTelefono(): String
+    + setTelefono(telefono: String): void
+}
+
+class UsuarioService {
+    + registrarUsuario(usuario: Usuarios): boolean
+    + iniciarSesion(correo: String, contraseña: String): Usuarios
+    + actualizarUsuario(usuario: Usuarios): boolean
+    + eliminarUsuario(id: int): boolean
+}
+
+class TelegramService {
+    - String token
+    - String chatId
+    + enviarMensaje(mensaje: String): void
+    + enviarNotificacionOtp(telefono: String, codigo: String): boolean
+}
+
+class IniciarSesionController {
+    - UsuarioService usuarioService
+    + initialize(): void
+    + handleIniciarSesion(event: ActionEvent): void
+    + cambiarARegistro(event: ActionEvent): void
+}
+
+class RegistroController {
+    - UsuarioService usuarioService
+    - TelegramService telegramService
+    + initialize(): void
+    + handleRegistrar(event: ActionEvent): void
+    + validarCampos(): boolean
+}
+
+class VerificacionUsuario {
+    - UsuarioService usuarioService
+    + initialize(): void
+    + verificarCodigo(event: ActionEvent): void
+    + reenviarCodigo(event: ActionEvent): void
+}
+
+class ControlAccesosController {
+    - UsuarioService usuarioService
+    + initialize(): void
+    + verificarPermisos(): void
+    + actualizarAccesos(event: ActionEvent): void
+}
+
+class ControlEmpleadosController {
+    - UsuarioService usuarioService
+    + initialize(): void
+    + cargarEmpleados(): void
+    + registrarEmpleado(event: ActionEvent): void
+    + eliminarEmpleado(event: ActionEvent): void
+}
+
+IniciarSesionController --> UsuarioService : usa
+RegistroController --> UsuarioService : usa
+RegistroController --> TelegramService : usa
+VerificacionUsuario --> UsuarioService : usa
+ControlAccesosController --> UsuarioService : usa
+ControlEmpleadosController --> UsuarioService : usa
+UsuarioService --> Usuarios : gestiona
+
+@enduml

@@ -5,6 +5,7 @@
 package interfaz.mobimedline_sistema;
 
 //import interfaz.agregarusuario.ReporteUsuarioController;
+import interfaz.mobimedline_sistema.model.Usuarios;
 import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;

@@ -120,14 +120,14 @@
                                  </cursor></Label>
                               <VBox fx:id="vbSubUsuario" prefHeight="200.0" prefWidth="100.0">
                                  <children>
-                                    <Label fx:id="lblAgregarUsuario" onMouseClicked="#irAgregarUsuario" styleClass="Menu-Opciones" text="Agregar usuario" />
-                                    <Label fx:id="lblConsulatrUsuario" onMouseClicked="#irConsultarEmpleado" styleClass="Menu-Opciones" text="Directorio" />
+                                    <Label fx:id="lblAgregarUsuario" onMouseClicked="#irControlAcceso" styleClass="Menu-Opciones" text="Control Accesos" />
+                                    <Label fx:id="lblConsulatrUsuario" onMouseClicked="#irControlEmpleado" styleClass="Menu-Opciones" text="Control Empleados" />
                                  </children>
                               </VBox>
                            </children>
                         </VBox>
                         <Region prefHeight="178.0" prefWidth="170.0" VBox.vgrow="ALWAYS" />
-                        <Label fx:id="lblCerrarSesion" contentDisplay="CENTER" text="Cerra sesión">
+                        <Label fx:id="lblCerrarSesion" contentDisplay="CENTER" onMouseClicked="#cerrarSesion" text="Cerra sesión">
                            <cursor>
                               <Cursor fx:constant="HAND" />
                            </cursor>

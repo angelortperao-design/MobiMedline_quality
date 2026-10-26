@@ -706,17 +706,17 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
 
 /* Contenedor Raíz (Degradado Azul Marino Profundo) */
 .root-container {
-    -fx-background-color: linear-gradient(to bottom right, #070F1E, #0F2A4A, #18233C);
+    -fx-background-color: #0d273e;
 }
 
 /* Tarjeta Principal Dividida (Efecto Elevado con Borde Fino) */
 .split-card {
     -fx-background-color: #FFFFFF;
-    -fx-background-radius: 20px;
-    -fx-border-color: rgba(255, 255, 255, 0.18);
-    -fx-border-radius: 20px;
+    -fx-background-radius: 15px;
+    -fx-border-color: #d1d1d1;
+    -fx-border-radius: 15px;
     -fx-border-width: 1px;
-    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.45), 25, 0, 0, 10);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.3), 15, 0, 0, 5);
 }
 
 /* ==========================================================================
@@ -724,24 +724,23 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
    ========================================================================== */
 
 .left-banner {
-    -fx-background-color: linear-gradient(to bottom right, #0D233A, #1D4ED8);
-    -fx-background-radius: 20px 0px 0px 20px;
+    -fx-background-color: #0d273e;
+    -fx-background-radius: 15px 0px 0px 15px;
 }
 
 /* Badge Superior */
 .banner-badge {
-    -fx-background-color: rgba(255, 255, 255, 0.18);
-    -fx-text-fill: #93C5FD;
+    -fx-background-color: rgba(255, 255, 255, 0.1);
+    -fx-text-fill: #387eb9;
     -fx-font-size: 11px;
     -fx-font-weight: bold;
     -fx-padding: 5px 12px;
     -fx-background-radius: 20px;
-    -fx-letter-spacing: 1px;
 }
 
 /* Título y Descripción */
 .banner-title {
-    -fx-font-size: 26px;
+    -fx-font-size: 24px;
     -fx-font-weight: bold;
     -fx-text-fill: #FFFFFF;
 }
@@ -758,14 +757,14 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
 
 .right-form-panel {
     -fx-background-color: #FFFFFF;
-    -fx-background-radius: 0px 20px 20px 0px;
+    -fx-background-radius: 0px 15px 15px 0px;
 }
 
 /* Títulos y Encabezados */
 .form-title {
-    -fx-font-size: 22px;
+    -fx-font-size: 20px;
     -fx-font-weight: bold;
-    -fx-text-fill: #0F2A4A;
+    -fx-text-fill: #0d273e;
 }
 
 .form-subtitle {
@@ -777,13 +776,13 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
 .back-link {
     -fx-font-size: 12px;
     -fx-font-weight: bold;
-    -fx-text-fill: #2563EB;
+    -fx-text-fill: #387eb9;
     -fx-border-color: transparent;
     -fx-underline: false;
 }
 
 .back-link:hover {
-    -fx-text-fill: #1D4ED8;
+    -fx-text-fill: #0d273e;
     -fx-underline: true;
 }
 
@@ -794,25 +793,26 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
 .input-label {
     -fx-font-size: 12px;
     -fx-font-weight: bold;
-    -fx-text-fill: #334155;
+    -fx-text-fill: #0d273e;
 }
 
 .custom-input {
-    -fx-background-color: #F1F5F9;
-    -fx-border-color: #E2E8F0;
-    -fx-border-radius: 9px;
-    -fx-background-radius: 9px;
+    -fx-background-color: #f4f4f4;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
     -fx-padding: 8px 12px;
-    -fx-font-size: 13px;
-    -fx-text-fill: #0F172A;
+    -fx-font-size: 12px;
+    -fx-text-fill: #333333;
     -fx-prompt-text-fill: #94A3B8;
 }
 
 /* Efecto Neón Azul al seleccionar o escribir en un campo */
 .custom-input:focused {
     -fx-background-color: #FFFFFF;
-    -fx-border-color: #2563EB;
-    -fx-effect: dropshadow(two-pass-box, rgba(37, 99, 235, 0.25), 8, 0, 0, 0);
+    -fx-border-color: #387eb9;
+    -fx-border-width: 2px;
+    -fx-effect: none;
 }
 
 /* ==========================================================================
@@ -821,19 +821,26 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
 
 /* Botón Solicitar Registro (Gradiente con Resplandor) */
 .btn-primary {
-    -fx-background-color: linear-gradient(to right, #2563EB, #1D4ED8);
+    -fx-font-family: 'Roboto';
+    -fx-background-color: #387eb9;
     -fx-text-fill: #FFFFFF;
-    -fx-font-size: 14px;
     -fx-font-weight: bold;
+    -fx-font-size: 12px;
     -fx-background-radius: 10px;
-    -fx-padding: 11px;
+    -fx-border-radius: 10px;
+    -fx-padding: 10px 20px;
     -fx-cursor: hand;
-    -fx-effect: dropshadow(two-pass-box, rgba(37, 99, 235, 0.45), 10, 0, 0, 4);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.3), 10, 0, 0, 4);
 }
 
 .btn-primary:hover {
-    -fx-background-color: linear-gradient(to right, #3B82F6, #2563EB);
-    -fx-effect: dropshadow(two-pass-box, rgba(59, 130, 246, 0.65), 14, 0, 0, 6);
+    -fx-background-color: #4a92cd;
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.4), 12, 0, 0, 5);
+}
+
+.btn-primary:pressed {
+    -fx-background-color: #2d6696;
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.2), 4, 0, 0, 1);
 }
 
 /* Texto Informativo Pie de Página */

@@ -4,6 +4,7 @@
  */
 package interfaz.mobimedline_sistema;
 
+import interfaz.mobimedline_sistema.model.Usuarios;
 import java.net.URL;
 import java.time.LocalDate;
 import java.util.ArrayList;

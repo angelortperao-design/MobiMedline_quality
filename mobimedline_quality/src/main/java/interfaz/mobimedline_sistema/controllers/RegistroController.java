@@ -1,5 +1,11 @@
-package interfaz.mobimedline_sistema;
+package interfaz.mobimedline_sistema.controllers;
 
+import interfaz.mobimedline_sistema.App;
+import interfaz.mobimedline_sistema.CamposIncompletosException;
+import interfaz.mobimedline_sistema.ContrasenasNoCoincidenException;
+import interfaz.mobimedline_sistema.NombreConNumerosException;
+import interfaz.mobimedline_sistema.controllers.VerificacionUsuario;
+import interfaz.mobimedline_sistema.service.DialogService; // <--- Importamos nuestro servicio centralizado
 import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
@@ -50,9 +56,9 @@ public class RegistroController implements Initializable {
     private TextField txtTelefono;
 
     @FXML
-    private void IrLogin(ActionEvent event) {
+    private void irLogin(ActionEvent event) {
         try {
-            App.setRoot("LoginView");
+            App.setRoot("IniciarSesionView");
         } catch (IOException e) {
             System.err.println("Error al cerrar sesión: " + e.getMessage());
             e.printStackTrace();
@@ -62,36 +68,30 @@ public class RegistroController implements Initializable {
     @FXML
     private void accionSolicitarRegistro(ActionEvent event) {
         try {
-            // 1. Validar que los campos no estén vacíos, formato correcto y contraseñas coincidentes
             validarFormulario();
-
-            // 2. Generar el identificador interno (base 4 letras) para control
             String usuarioGenerado = obtenerUsuario();
-
-            // 3. Abrir la ventana emergente modal de recapitulación
             procesarAperturaVentanaModal(usuarioGenerado);
 
         } catch (CamposIncompletosException e) {
-            mostrarAlerta("Campos Incompletos", e.getMessage(), Alert.AlertType.WARNING);
+            DialogService.mostrarAlerta(Alert.AlertType.WARNING, "Campos Incompletos", e.getMessage(), txtNombre);
 
         } catch (ContrasenasNoCoincidenException e) {
-            mostrarAlerta("Error de Contraseña", e.getMessage(), Alert.AlertType.ERROR);
+            DialogService.mostrarAlerta(Alert.AlertType.ERROR, "Error de Contraseña", e.getMessage(), txtPassword);
             txtPassword.clear();
             txtConfirmPassword.clear();
 
         } catch (NombreConNumerosException e) {
-            mostrarAlerta("Formato Inválido", e.getMessage(), Alert.AlertType.WARNING);
+            DialogService.mostrarAlerta(Alert.AlertType.WARNING, "Formato Inválido", e.getMessage(), txtNombre);
 
         } catch (IOException e) {
-            mostrarAlerta("Error de Sistema", "No se pudo cargar la ventana emergente de resumen: " + e.getMessage(), Alert.AlertType.ERROR);
+            DialogService.mostrarAlerta(Alert.AlertType.ERROR, "Error de Sistema", "No se pudo cargar la ventana emergente de resumen: " + e.getMessage(), txtNombre);
         }
     }
 
     private void procesarAperturaVentanaModal(String usuarioGenerado) throws IOException {
-        FXMLLoader loader = new FXMLLoader(getClass().getResource("VerificacionView.fxml"));
+        FXMLLoader loader = new FXMLLoader(getClass().getResource("/interfaz/mobimedline_sistema/VerificacionView.fxml"));
         Parent root = loader.load();
 
-        // Transferencia de datos al controlador secundario
         VerificacionUsuario secundaryCtrl = loader.getController();
         secundaryCtrl.recibirDatos(
             txtNombre.getText().trim(),
@@ -102,7 +102,6 @@ public class RegistroController implements Initializable {
             txtPassword.getText()
         );
 
-        // Configuración de la escena transparente / emergente
         Stage stage = new Stage();
         stage.initStyle(StageStyle.TRANSPARENT);
         stage.setResizable(false);
@@ -114,28 +113,23 @@ public class RegistroController implements Initializable {
         stage.initModality(Modality.APPLICATION_MODAL);
         stage.showAndWait();
 
-        // Limpieza de campos tras cerrar la ventana modal
         limpiarCampos();
     }
 
     private void validarFormulario() throws CamposIncompletosException, ContrasenasNoCoincidenException, NombreConNumerosException {
-        // Validación de campos vacíos
         if (txtNombre.getText().trim().isEmpty() || 
             txtApellidos.getText().trim().isEmpty() || 
             txtCorreo.getText().trim().isEmpty() || 
             txtTelefono.getText().trim().isEmpty() || 
             txtPassword.getText().isEmpty() || 
             txtConfirmPassword.getText().isEmpty()) {
-
             throw new CamposIncompletosException("Por favor, llena todos los campos obligatorios para continuar.");
         }
 
-        // Validación de formato sin números en Nombre y Apellidos
         if (txtNombre.getText().matches(".*\\d.*") || txtApellidos.getText().matches(".*\\d.*")) {
             throw new NombreConNumerosException("Los campos de Nombre y Apellidos no pueden contener números.");
         }
 
-        // Validación de coincidencia de contraseñas
         if (!txtPassword.getText().equals(txtConfirmPassword.getText())) {
             throw new ContrasenasNoCoincidenException("Las contraseñas no coinciden. Por favor, verifícalas.");
         }
@@ -158,7 +152,7 @@ public class RegistroController implements Initializable {
         }
 
         char p3 = ape.contains(" ") && ape.indexOf(" ") + 1 < ape.length() 
-                  ? ape.charAt(ape.indexOf(" ") + 1) : 'X';
+                ? ape.charAt(ape.indexOf(" ") + 1) : 'X';
         char p4 = nom.charAt(0);
 
         return "" + p1 + p2 + p3 + p4;
@@ -173,21 +167,9 @@ public class RegistroController implements Initializable {
         txtConfirmPassword.clear();
     }
 
-    private void mostrarAlerta(String titulo, String mensaje, Alert.AlertType tipo) {
-        Alert alerta = new Alert(tipo);
-        alerta.setTitle(titulo);
-        alerta.setHeaderText(null);
-        alerta.setContentText(mensaje);
-        alerta.showAndWait();
-    }
-
     @Override
     public void initialize(URL url, ResourceBundle rb) {
-        if (btnSolicitarRegistro != null) {
-            btnSolicitarRegistro.setOnAction(this::accionSolicitarRegistro);
-        }
-        if (linkVolverLogin != null) {
-            linkVolverLogin.setOnAction(this::IrLogin);
-        }
+        // Al estar vinculados con la etiqueta @FXML en el archivo FXML mediante onAction,
+        // ya no es obligatorio instanciar los setOnAction aquí, manteniendo el método limpio.
     }
 }

@@ -84,7 +84,7 @@ public class MenuGerenteController implements Initializable{
     
     /* --- Eventos de las opciones del menu --- */
     @FXML
-    private void irAgregarUsuario(MouseEvent event) {
+    private void irControlAcceso(MouseEvent event) {
             // 1. Identificar el label que recibió el clic
         Label labelPresionado = (Label) event.getSource();
 
@@ -98,7 +98,7 @@ public class MenuGerenteController implements Initializable{
 
         // 4. Actualizar la referencia para la siguiente vez
         labelSeleccionado = labelPresionado;
-        mostrarVista("AgregarUsuario"); 
+        mostrarVista("ControlAccesos"); 
     }
     
     @FXML
@@ -172,7 +172,7 @@ public class MenuGerenteController implements Initializable{
     }
     
        @FXML
-    private void irConsultarEmpleado(MouseEvent event) {
+    private void irControlEmpleado(MouseEvent event) {
             // 1. Identificar el label que recibió el clic
         Label labelPresionado = (Label) event.getSource();
 
@@ -186,7 +186,7 @@ public class MenuGerenteController implements Initializable{
 
         // 4. Actualizar la referencia para la siguiente vez
         labelSeleccionado = labelPresionado;
-        mostrarVista("ConsultarEmpleado"); 
+        mostrarVista("ControlEmpleados"); 
     }
     
        @FXML
@@ -209,11 +209,10 @@ public class MenuGerenteController implements Initializable{
         mostrarVista("NuevaODC"); 
     }
     
-    //HOLIIIIIIIII, Aqui Trevorcito, les dejo lo de el volver al inicio de sesion al pulsar cerrar sesion :). Besitos
     @FXML
     private void cerrarSesion(MouseEvent event) {
         try {
-            App.setRoot("LoginView");
+            App.setRoot("IniciarSesionView");
         } catch (IOException e) {
             System.err.println("Error al cerrar sesión: " + e.getMessage());
             e.printStackTrace();

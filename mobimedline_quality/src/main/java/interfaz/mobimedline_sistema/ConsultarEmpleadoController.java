@@ -1,5 +1,6 @@
 package interfaz.mobimedline_sistema;
 
+import interfaz.mobimedline_sistema.model.Usuarios;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;

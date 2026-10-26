@@ -1,0 +1,51 @@
+@startuml
+skinparam DefaultTextAlignment center
+skinparam StateBackgroundColor #F9F9F9
+skinparam StateBorderColor #333333
+
+[*] --> ValidandoDatos : Usuario ingresa datos de registro
+
+state ValidandoDatos : Evalúa fortaleza de contraseña
+ValidandoDatos --> Inactivo : Datos correctos y cifrado BCrypt (activo = 0)
+
+state Inactivo {
+    Inactivo : Cuenta guardada en BD sin privilegios de acceso
+}
+
+Inactivo --> NotificandoTelegram : Intento de envío al Bot de Telegram
+state NotificandoTelegram {
+    state "Intentando HTTP" as IntentandoHTTP
+    state "Notificación Exitosa / Omitir Notificación" as NotificacionExitosa
+    IntentandoHTTP --> NotificacionExitosa
+}
+
+NotificandoTelegram --> EnEsperaAprobacion : Solicitud en bandeja administrativa
+
+state EnEsperaAprobacion {
+    EnEsperaAprobacion : Cuenta a la espera de validación
+    EnEsperaAprobacion --> ActivoPorAdmin : Aprobación manual (Control de Accesos)
+    EnEsperaAprobacion --> ActivoPorCodigo : Validación por código de 6 dígitos
+}
+
+ActivoPorAdmin --> EvaluandoCredenciales
+ActivoPorCodigo --> EvaluandoCredenciales
+
+state EvaluandoCredenciales {
+    EvaluandoCredenciales --> Autenticado : Credenciales correctas (u.isAprobado() && activo = 1)
+}
+
+state Autenticado {
+    Autenticado : Sesión activa en el sistema
+    Autenticado --> ConsultandoDatos : Peticiones con Prepared Statements
+    ConsultandoDatos --> GestionEmpleados : Acceso a ControlEmpleados / ControlAccesos
+    
+    state GestionEmpleados {
+        GestionEmpleados --> Suspendido : Cambio de estado a Inactivo (Admin)
+        Suspendido --> Activo : Reactivación por el Administrador
+        GestionEmpleados --> RolModificado : Actualización de privilegios o rol
+    }
+}
+
+Autenticado --> [*] : Cierre de sesión explícito (Logout)
+
+@enduml

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1633px" preserveAspectRatio="none" style="width:805px;height:1633px;background:#FFFFFF;" version="1.1" viewBox="0 0 805 1633" width="805px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--cluster EnEsperaAprobacion-->
+        <g id="cluster_EnEsperaAprobacion">
+            <path d="M167.5,624 L669.5,624 A12.5,12.5 0 0 1 682,636.5 L682,666.7031 L155,666.7031 L155,636.5 A12.5,12.5 0 0 1 167.5,624 " fill="#F9F9F9" style="stroke:#F9F9F9;stroke-width:1.0;"/>
+            <rect fill="none" height="200.72" rx="12.5" ry="12.5" style="stroke:#333333;stroke-width:0.5;" width="527" x="155" y="624"/>
+            <line style="stroke:#333333;stroke-width:0.5;" x1="155" x2="682" y1="666.7031" y2="666.7031"/>
+            <line style="stroke:#333333;stroke-width:0.5;" x1="155" x2="682" y1="646.6094" y2="646.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="134" x="328.5" y="642.5332">EnEsperaAprobacion</text>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="180" x="160" y="661.5664">Cuenta a la espera de validación</text>
+        </g>
+        <!--cluster EvaluandoCredenciales-->
+        <g id="cluster_EvaluandoCredenciales">
+            <path d="M19.5,873.72 L646.5,873.72 A12.5,12.5 0 0 1 659,886.22 L659,896.3294 L7,896.3294 L7,886.22 A12.5,12.5 0 0 1 19.5,873.72 " fill="#F9F9F9" style="stroke:#F9F9F9;stroke-width:1.0;"/>
+            <rect fill="none" height="754.16" rx="12.5" ry="12.5" style="stroke:#333333;stroke-width:0.5;" width="652" x="7" y="873.72"/>
+            <line style="stroke:#333333;stroke-width:0.5;" x1="7" x2="659" y1="896.3294" y2="896.3294"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="150" x="258" y="892.2532">EvaluandoCredenciales</text>
+        </g>
+        <!--cluster Autenticado-->
+        <g id="cluster_Autenticado">
+            <path d="M59.5,990.44 L606.5,990.44 A12.5,12.5 0 0 1 619,1002.94 L619,1033.1431 L47,1033.1431 L47,1002.94 A12.5,12.5 0 0 1 59.5,990.44 " fill="#F9F9F9" style="stroke:#F9F9F9;stroke-width:1.0;"/>
+            <rect fill="none" height="597.44" rx="12.5" ry="12.5" style="stroke:#333333;stroke-width:0.5;" width="572" x="47" y="990.44"/>
+            <line style="stroke:#333333;stroke-width:0.5;" x1="47" x2="619" y1="1033.1431" y2="1033.1431"/>
+            <line style="stroke:#333333;stroke-width:0.5;" x1="47" x2="619" y1="1013.0494" y2="1013.0494"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="257.5" y="1008.9732">Autenticado</text>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="151" x="52" y="1028.0064">Sesión activa en el sistema</text>
+        </g>
+        <!--cluster GestionEmpleados-->
+        <g id="cluster_GestionEmpleados">
+            <path d="M99.5,1239.16 L566.5,1239.16 A12.5,12.5 0 0 1 579,1251.66 L579,1261.7694 L87,1261.7694 L87,1251.66 A12.5,12.5 0 0 1 99.5,1239.16 " fill="#F9F9F9" style="stroke:#F9F9F9;stroke-width:1.0;"/>
+            <rect fill="none" height="308.72" rx="12.5" ry="12.5" style="stroke:#333333;stroke-width:0.5;" width="492" x="87" y="1239.16"/>
+            <line style="stroke:#333333;stroke-width:0.5;" x1="87" x2="579" y1="1261.7694" y2="1261.7694"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="119" x="273.5" y="1257.6932">GestionEmpleados</text>
+        </g>
+        <g id="EnEsperaAprobacion.ActivoPorAdmin">
+            <rect fill="#F9F9F9" height="50" rx="12.5" ry="12.5" style="stroke:#333333;stroke-width:0.5;" width="119" x="219.5" y="750.72"/>
+            <line style="stroke:#333333;stroke-width:0.5;" x1="219.5" x2="338.5" y1="778.3294" y2="778.3294"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="229.5" y="770.2532">ActivoPorAdmin</text>
+        </g>
+        <g id="EnEsperaAprobacion.ActivoPorCodigo">
+            <rect fill="#F9F9F9" height="50" rx="12.5" ry="12.5" style="stroke:#333333;stroke-width:0.5;" width="125" x="373.5" y="750.72"/>
+            <line style="stroke:#333333;stroke-width:0.5;" x1="373.5" x2="498.5" y1="778.3294" y2="778.3294"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="383.5" y="770.2532">ActivoPorCodigo</text>
+        </g>
+        <g id="EvaluandoCredenciales.Autenticado.ConsultandoDatos">
+            <rect fill="#F9F9F9" height="50" rx="12.5" ry="12.5" style="stroke:#333333;stroke-width:0.5;" width="137" x="262.5" y="1117.16"/>
+            <line style="stroke:#333333;stroke-width:0.5;" x1="262.5" x2="399.5" y1="1144.7694" y2="1144.7694"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="272.5" y="1136.6932">ConsultandoDatos</text>
+        </g>
+        <g id="EvaluandoCredenciales.Autenticado.GestionEmpleados.Suspendido">
+            <rect fill="#F9F9F9" height="50" rx="12.5" ry="12.5" style="stroke:#333333;stroke-width:0.5;" width="95" x="155.5" y="1345.88"/>
+            <line style="stroke:#333333;stroke-width:0.5;" x1="155.5" x2="250.5" y1="1373.4894" y2="1373.4894"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="165.5" y="1365.4132">Suspendido</text>
+        </g>
+        <g id="EvaluandoCredenciales.Autenticado.GestionEmpleados.Activo">
+            <rect fill="#F9F9F9" height="50" rx="12.5" ry="12.5" style="stroke:#333333;stroke-width:0.5;" width="58" x="171" y="1473.88"/>
+            <line style="stroke:#333333;stroke-width:0.5;" x1="171" x2="229" y1="1501.4894" y2="1501.4894"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="181" y="1493.4132">Activo</text>
+        </g>
+        <g id="EvaluandoCredenciales.Autenticado.GestionEmpleados.RolModificado">
+            <rect fill="#F9F9F9" height="50" rx="12.5" ry="12.5" style="stroke:#333333;stroke-width:0.5;" width="109" x="285.5" y="1345.88"/>
+            <line style="stroke:#333333;stroke-width:0.5;" x1="285.5" x2="394.5" y1="1373.4894" y2="1373.4894"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="295.5" y="1365.4132">RolModificado</text>
+        </g>
+        <ellipse cx="337" cy="16" fill="#181818" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/>
+        <g id="ValidandoDatos">
+            <rect fill="#F9F9F9" height="52.7031" rx="12.5" ry="12.5" style="stroke:#333333;stroke-width:0.5;" width="188" x="243" y="104"/>
+            <line style="stroke:#333333;stroke-width:0.5;" x1="243" x2="431" y1="131.6094" y2="131.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="287" y="123.5332">ValidandoDatos</text>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="168" x="248" y="149.0664">Evalúa fortaleza de contraseña</text>
+        </g>
+        <g id="Inactivo">
+            <rect fill="#F9F9F9" height="52.7031" rx="12.5" ry="12.5" style="stroke:#333333;stroke-width:0.5;" width="292" x="191" y="235"/>
+            <line style="stroke:#333333;stroke-width:0.5;" x1="191" x2="483" y1="262.6094" y2="262.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="313" y="254.5332">Inactivo</text>
+            <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="272" x="196" y="280.0664">Cuenta guardada en BD sin privilegios de acceso</text>
+        </g>
+        <path d="M206,366 L468,366 A12.5,12.5 0 0 1 480.5,378.5 L480.5,393.6094 L193.5,393.6094 L193.5,378.5 A12.5,12.5 0 0 1 206,366 " fill="#F9F9F9" style="stroke:#F9F9F9;stroke-width:1.0;"/>
+        <rect fill="none" height="185.6094" rx="12.5" ry="12.5" style="stroke:#333333;stroke-width:0.5;" width="287" x="193.5" y="366"/>
+        <line style="stroke:#333333;stroke-width:0.5;" x1="193.5" x2="480.5" y1="393.6094" y2="393.6094"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="130" x="272" y="385.5332">NotificandoTelegram</text>
+        <g id="NotificandoTelegram.IntentandoHTTP">
+            <rect fill="#F9F9F9" height="50" rx="12.5" ry="12.5" style="stroke:#333333;stroke-width:0.5;" width="127" x="275" y="405.6094"/>
+            <line style="stroke:#333333;stroke-width:0.5;" x1="275" x2="402" y1="433.2188" y2="433.2188"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="285" y="425.1426">Intentando HTTP</text>
+        </g>
+        <g id="NotificandoTelegram.NotificacionExitosa">
+            <rect fill="#F9F9F9" height="50" rx="12.5" ry="12.5" style="stroke:#333333;stroke-width:0.5;" width="266" x="205.5" y="491.6094"/>
+            <line style="stroke:#333333;stroke-width:0.5;" x1="205.5" x2="471.5" y1="519.2188" y2="519.2188"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="246" x="215.5" y="511.1426">Notificación Exitosa / Omitir Notificación</text>
+        </g>
+        <!--link IntentandoHTTP to NotificacionExitosa-->
+        <g id="link_IntentandoHTTP_NotificacionExitosa">
+            <path d="M338.5,455.9094 C338.5,465.3994 338.5,476.3594 338.5,486.2894 " fill="none" id="IntentandoHTTP-to-NotificacionExitosa" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="338.5,491.3694,342.5,482.3694,338.5,486.3694,334.5,482.3694,338.5,491.3694" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <ellipse cx="693" cy="1142.16" fill="none" rx="10" ry="10" style="stroke:#181818;stroke-width:1.0;"/>
+        <ellipse cx="693.5" cy="1142.66" fill="#181818" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/>
+        <!--link *start* to ValidandoDatos-->
+        <g id="link_*start*_ValidandoDatos">
+            <path d="M337,26.21 C337,41.88 337,74.43 337,98.83 " fill="none" id="*start*-to-ValidandoDatos" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="337,103.9,341,94.9,337,98.9,333,94.9,337,103.9" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="191" x="338" y="70.4951">Usuario ingresa datos de registro</text>
+        </g>
+        <!--link ValidandoDatos to Inactivo-->
+        <g id="link_ValidandoDatos_Inactivo">
+            <path d="M337,157.3 C337,178.12 337,207.5 337,229.59 " fill="none" id="ValidandoDatos-to-Inactivo" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="337,234.75,341,225.75,337,229.75,333,225.75,337,234.75" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="257" x="338" y="201.4951">Datos correctos y cifrado BCrypt (activo = 0)</text>
+        </g>
+        <!--link Inactivo to NotificandoTelegram-->
+        <g id="link_Inactivo_NotificandoTelegram">
+            <path d="M337,288.06 C337,306.86 337,333.72 337,360.55 " fill="none" id="Inactivo-to-NotificandoTelegram" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="337,365.56,341,356.56,337,360.56,333,356.56,337,365.56" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="203" x="338" y="332.4951">Intento de envío al Bot de Telegram</text>
+        </g>
+        <!--link NotificandoTelegram to EnEsperaAprobacion-->
+        <g id="link_NotificandoTelegram_EnEsperaAprobacion">
+            <path d="M337,552.09 C337,566.1075 337,580.4488 337,594.1055 C337,600.9338 337,607.5911 337,613.9511 C337,617.1311 337,620.2369 337,623.2526 C337,623.4411 337,623.6292 337,623.817 " fill="none" id="NotificandoTelegram-to-EnEsperaAprobacion" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="337,623.817,341,614.817,337,618.817,333,614.817,337,623.817" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="200" x="338" y="596.4951">Solicitud en bandeja administrativa</text>
+        </g>
+        <!--link EnEsperaAprobacion to ActivoPorAdmin-->
+        <g id="link_EnEsperaAprobacion_ActivoPorAdmin">
+            <path d="M336.91,672.72 C333.22,672.88 214.99,678.06 195,702.72 C181.39,719.5 195.96,735.44 216.58,748.03 " fill="none" id="EnEsperaAprobacion-to-ActivoPorAdmin" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="221.06,750.67,215.3493,742.6458,216.7562,748.1249,211.2771,749.5319,221.06,750.67" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="237" x="196" y="717.2151">Aprobación manual (Control de Accesos)</text>
+        </g>
+        <!--link EnEsperaAprobacion to ActivoPorCodigo-->
+        <g id="link_EnEsperaAprobacion_ActivoPorCodigo">
+            <path d="M337.06,672.73 C339.7,673.07 424.22,684.25 438,702.72 C446.92,714.68 447.09,731.14 444.73,745.3 " fill="none" id="EnEsperaAprobacion-to-ActivoPorCodigo" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="443.76,750.4,449.3885,742.3179,444.7048,745.4901,441.5326,740.8063,443.76,750.4" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="195" x="446" y="717.2151">Validación por código de 6 dígitos</text>
+        </g>
+        <!--link ActivoPorAdmin to EvaluandoCredenciales-->
+        <g id="link_ActivoPorAdmin_EvaluandoCredenciales">
+            <path d="M290.13,800.99 C298.29,818.805 309.53,843.33 318.8412,863.6438 C320.0052,866.183 321.1389,868.6564 322.2328,871.0427 C322.5062,871.6392 322.7772,872.2304 323.0455,872.8157 C323.1797,873.1084 323.3132,873.3996 323.446,873.6894 " fill="none" id="ActivoPorAdmin-to-EvaluandoCredenciales" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="323.446,873.6894,323.3319,863.8412,321.3625,869.1441,316.0595,867.1748,323.446,873.6894" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link ActivoPorCodigo to EvaluandoCredenciales-->
+        <g id="link_ActivoPorCodigo_EvaluandoCredenciales">
+            <path d="M416.48,800.99 C402.155,818.805 382.435,843.33 366.1013,863.6438 C364.0595,866.183 362.0707,868.6564 360.152,871.0427 C359.6723,871.6392 359.197,872.2304 358.7263,872.8157 C358.491,873.1084 358.2568,873.3996 358.0238,873.6894 " fill="none" id="ActivoPorCodigo-to-EvaluandoCredenciales" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="358.0238,873.6894,366.7808,869.182,361.157,869.7928,360.5462,864.169,358.0238,873.6894" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link EvaluandoCredenciales to Autenticado-->
+        <g id="link_EvaluandoCredenciales_Autenticado">
+            <path d="M336,902.54 C336,904.555 336,937.3525 336,970.1425 C336,974.2413 336,978.3399 336,982.3783 C336,984.3975 336,986.4016 336,988.3831 C336,988.8785 336,989.3725 336,989.8649 " fill="none" id="EvaluandoCredenciales-to-Autenticado" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="336,989.8649,340,980.8649,336,984.8649,332,980.8649,336,989.8649" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="311" x="337" y="946.9351">Credenciales correctas (u.isAprobado() &amp;&amp; activo = 1)</text>
+        </g>
+        <!--link Autenticado to ConsultandoDatos-->
+        <g id="link_Autenticado_ConsultandoDatos">
+            <path d="M336,1039.23 C335.9,1041.21 333.88,1082.39 332.44,1111.79 " fill="none" id="Autenticado-to-ConsultandoDatos" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="332.18,1117.13,336.6119,1108.3347,332.4226,1112.1359,328.6213,1107.9465,332.18,1117.13" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="213" x="335" y="1083.6551">Peticiones con Prepared Statements</text>
+        </g>
+        <!--link ConsultandoDatos to GestionEmpleados-->
+        <g id="link_ConsultandoDatos_GestionEmpleados">
+            <path d="M329.63,1167.24 C328.63,1184.91 327.25,1209.2375 326.1063,1229.3875 C325.9633,1231.9063 325.824,1234.3597 325.6896,1236.7268 C325.656,1237.3185 325.6227,1237.9049 325.5898,1238.4855 C325.5815,1238.6307 325.5733,1238.7755 325.5651,1238.9199 " fill="none" id="ConsultandoDatos-to-GestionEmpleados" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="325.5651,1238.9199,330.0688,1230.1611,325.8485,1233.9279,322.0817,1229.7076,325.5651,1238.9199" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="269" x="328" y="1211.6551">Acceso a ControlEmpleados / ControlAccesos</text>
+        </g>
+        <!--link GestionEmpleados to Suspendido-->
+        <g id="link_GestionEmpleados_Suspendido">
+            <path d="M323.88,1267.88 C318.67,1267.76 152.02,1264.2 123,1297.88 C107.5,1315.87 127.1,1333.74 150.78,1347.18 " fill="none" id="GestionEmpleados-to-Suspendido" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="155.24,1349.64,149.2847,1341.7956,150.8598,1347.2288,145.4267,1348.8039,155.24,1349.64" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="212" x="124" y="1312.3751">Cambio de estado a Inactivo (Admin)</text>
+        </g>
+        <!--link Suspendido to Activo-->
+        <g id="link_Suspendido_Activo">
+            <path d="M202.42,1396.17 C201.93,1416.83 201.22,1446.55 200.7,1468.53 " fill="none" id="Suspendido-to-Activo" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="200.58,1473.66,204.7846,1464.7538,200.6943,1468.6613,196.7867,1464.5709,200.58,1473.66" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="193" x="202" y="1440.3751">Reactivación por el Administrador</text>
+        </g>
+        <!--link GestionEmpleados to RolModificado-->
+        <g id="link_GestionEmpleados_RolModificado">
+            <path d="M324.05,1267.92 C325,1268.79 340.26,1282.84 345,1297.88 C349.29,1311.49 348.77,1327.24 346.88,1340.53 " fill="none" id="GestionEmpleados-to-RolModificado" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="346.06,1345.68,351.427,1337.422,346.8472,1340.7424,343.5268,1336.1625,346.06,1345.68" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="185" x="349" y="1312.3751">Actualización de privilegios o rol</text>
+        </g>
+        <!--link Autenticado to *end*-->
+        <g id="link_Autenticado_*end*">
+            <path d="M619.2407,1096.0959 C619.5976,1096.2832 619.9539,1096.4705 620.3096,1096.658 C623.1547,1098.158 625.957,1099.6656 628.7088,1101.1725 C650.7225,1113.2275 669.495,1125.235 680.97,1132.9 " fill="none" id="Autenticado-to-*end*" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="685.17,1135.72,679.9532,1127.3663,681.0274,1132.9202,675.4735,1133.9944,685.17,1135.72" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="197" x="600" y="1083.6551">Cierre de sesión explícito (Logout)</text>
+        </g>
+        <!--SRC=[ZLLDQnj13Btlhn0f1BkGfgLGQA05st4_e1ycTdCfFIWxyZBDximoCskIbFoa74fklUuVgpIxQsziftGCneoaDzBJa-mljIdHOG6djCGg3mkw2gDSPwOW4o3bBtA9NtlD0mOQOtgPELiPDR6vTV3atMlvxBXPfyYrBY_ZIPBlJt_0qT5RECTSApJAdcAm7axWcw_GQGlQP8uyWehtYi1HfdrmDacyeEv6JbUOrtyGbjO5pEa69Igr9ZZqLF_6P2j2dlzeC0rwPJcykKojSvJAhsj8zTAXiZ2UkEiomA1rVGFFXrqIw_XV2V3fmKqgvWmXuseKAWGoC3u5hmsKJgzqpjKqTM6QahV9RPAieoMpBpRefKubtGMnjz1vmWy4XhKIHsPLtrd07COso4NdrgQs3w39ih4VD5XYXm-BnUm0qCFcJgxwtXrSgkjx0zChpHmX7CFNGWVju84vGcrkh6dTMuxwJpoejU_AVEohGDodPkfBSZWgdRs8GSpCtEOwrQ5ImlG5nz1F15I5Dg8QP5wnQzgU-8QOlS1j8n5oRc8q2zchgALOxMEXakeeDdHctKWoORJEBYGMQ2fkts0Y6hMvm8wY6Fpmlp0dLkbCj7Q-IGPAdhAqleyM1dm5ghxBX59XT2kTI2PNKWd54qUAJAfvT7oo_SRZdXsd-umThNjjiPHAjC0jLd5a-kPs45b8W-gPzWq7oWw6S7W8wqbyCPIocXJwOCt33-7dv2D3CJWE9EKya3vGWJlkaXttnVCgxE-O6R6T6n4JD31pn8kELBFeP5NwYBGJAN3loGSHU57cn4y8NDDkrbOhWOtjkBjg5H5XU_Eu0zPKB6V798_FAvQIKReX6eiBtImHHbEIm7ht3A8qXckqNk16V8nnHWsF6zKncwFrl2dh_ftGcSq_ixQMNNSOc8T1txI0d5j_JrfWAYBWRTJnLgVatuJBqiIQaL3Vjfgkoho-uxN0TNsocQt2CFaB]-->
+    </g>
+</svg>

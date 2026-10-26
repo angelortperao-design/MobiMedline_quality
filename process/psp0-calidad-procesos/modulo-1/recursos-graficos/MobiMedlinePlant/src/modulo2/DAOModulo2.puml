@@ -1,0 +1,37 @@
+@startuml
+skinparam packageStyle rectangle
+skinparam classAttributeIconSize 0
+
+title Arquitectura en Capas - MobiMedline (Módulo de Usuarios)
+
+package "Capa de Presentación (controllers)" {
+    class IniciarSesionController
+    class RegistroController
+    class ControlAccesosController
+    class ControlEmpleadosController
+}
+
+package "Capa de Servicios y Utilidades (service)" {
+    class UsuarioService
+    class DialogService
+}
+
+package "Capa de Acceso a Datos (dao)" {
+    class UsuarioDAO
+}
+
+package "Capa de Entidades (model)" {
+    class Usuarios
+}
+
+' Relaciones entre paquetes y clases
+IniciarSesionController --> UsuarioService : usa
+RegistroController --> UsuarioService : usa
+RegistroController --> DialogService : usa
+ControlAccesosController --> UsuarioService : usa
+ControlEmpleadosController --> UsuarioService : usa
+
+UsuarioService --> UsuarioDAO : consulta/persiste
+UsuarioDAO --> Usuarios : gestiona
+
+@enduml
